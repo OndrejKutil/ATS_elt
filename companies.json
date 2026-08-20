@@ -1,0 +1,1607 @@
+{
+  "_note": "Run 1 verified 19/50. Confirmed boards are marked verified:true with their job_count. Failures are kept as alternative slugs to retry — companies often register under a legal-entity name. Czech companies mostly are NOT on Greenhouse; they use Recruitee, Teamio/LMC, or Workable, so CZ coverage needs a second source. Ataccama TIMED OUT rather than 404'd, so retry before discarding it.",
+  "companies": [
+    {
+      "name": "Stripe",
+      "slug": "stripe",
+      "ats": "greenhouse",
+      "city": "Dublin",
+      "country": "IE",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 568
+    },
+    {
+      "name": "Databricks",
+      "slug": "databricks",
+      "ats": "greenhouse",
+      "city": "Amsterdam",
+      "country": "NL",
+      "category": "warehouse",
+      "verified": true,
+      "job_count": 807
+    },
+    {
+      "name": "SumUp",
+      "slug": "sumup",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 385
+    },
+    {
+      "name": "Celonis",
+      "slug": "celonis",
+      "ats": "greenhouse",
+      "city": "Munich",
+      "country": "DE",
+      "category": "process-mining",
+      "verified": true,
+      "job_count": 267
+    },
+    {
+      "name": "Fivetran",
+      "slug": "fivetran",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "data-tooling",
+      "verified": true,
+      "job_count": 241
+    },
+    {
+      "name": "Adyen",
+      "slug": "adyen",
+      "ats": "greenhouse",
+      "city": "Amsterdam",
+      "country": "NL",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 217
+    },
+    {
+      "name": "ClickHouse",
+      "slug": "clickhouse",
+      "ats": "greenhouse",
+      "city": "Amsterdam",
+      "country": "NL",
+      "category": "database",
+      "verified": true,
+      "job_count": 173
+    },
+    {
+      "name": "Hightouch",
+      "slug": "hightouch",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "data-tooling",
+      "verified": true,
+      "job_count": 72
+    },
+    {
+      "name": "N26",
+      "slug": "n26",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 71
+    },
+    {
+      "name": "Sigma Computing",
+      "slug": "sigmacomputing",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "bi",
+      "verified": true,
+      "job_count": 66
+    },
+    {
+      "name": "GetYourGuide",
+      "slug": "getyourguide",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "travel",
+      "verified": true,
+      "job_count": 53
+    },
+    {
+      "name": "Bitpanda",
+      "slug": "bitpanda",
+      "ats": "greenhouse",
+      "city": "Vienna",
+      "country": "AT",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 31
+    },
+    {
+      "name": "GoStudent",
+      "slug": "gostudent",
+      "ats": "greenhouse",
+      "city": "Vienna",
+      "country": "AT",
+      "category": "edtech",
+      "verified": true,
+      "job_count": 26
+    },
+    {
+      "name": "Wise",
+      "slug": "wise",
+      "ats": "greenhouse",
+      "city": "Tallinn",
+      "country": "EE",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 19
+    },
+    {
+      "name": "Starburst",
+      "slug": "starburst",
+      "ats": "greenhouse",
+      "city": "Warsaw",
+      "country": "PL",
+      "category": "data-tooling",
+      "verified": true,
+      "job_count": 18
+    },
+    {
+      "name": "Contentful",
+      "slug": "contentful",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "saas",
+      "verified": true,
+      "job_count": 9
+    },
+    {
+      "name": "Emplifi",
+      "slug": "emplifi",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "saas",
+      "verified": true,
+      "job_count": 6
+    },
+    {
+      "name": "Trade Republic",
+      "slug": "traderepublic",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 1
+    },
+    {
+      "name": "Dagster Labs",
+      "slug": "dagsterlabs",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "orchestration",
+      "verified": true,
+      "job_count": 0
+    },
+    {
+      "name": "Ataccama (retry)",
+      "slug": "ataccama",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "data-quality",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "dbt Labs (alt)",
+      "slug": "dbtlabsinc",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "data-tooling",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Snowflake (alt)",
+      "slug": "snowflake",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "warehouse",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Confluent (alt)",
+      "slug": "confluentinc",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "streaming",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Airbyte (alt)",
+      "slug": "airbytehq",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "data-tooling",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Monte Carlo (alt)",
+      "slug": "montecarlo",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "data-quality",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Productboard (alt)",
+      "slug": "productboardinc",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Rohlik (alt)",
+      "slug": "rohlikgroup",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Mews (alt)",
+      "slug": "mewssystems",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "saas",
+      "verified": true,
+      "job_count": 23
+    },
+    {
+      "name": "Bolt (alt)",
+      "slug": "boltcom",
+      "ats": "greenhouse",
+      "city": "Tallinn",
+      "country": "EE",
+      "category": "mobility",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Zalando (alt)",
+      "slug": "zalandose",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Datadog",
+      "slug": "datadog",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "observability",
+      "verified": true,
+      "job_count": 443
+    },
+    {
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "ats": "greenhouse",
+      "city": "Dublin",
+      "country": "IE",
+      "category": "database",
+      "verified": true,
+      "job_count": 404
+    },
+    {
+      "name": "Elastic",
+      "slug": "elastic",
+      "ats": "greenhouse",
+      "city": "Amsterdam",
+      "country": "NL",
+      "category": "search",
+      "verified": true,
+      "job_count": 249
+    },
+    {
+      "name": "HashiCorp",
+      "slug": "hashicorp",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "infra",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "GitLab",
+      "slug": "gitlab",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "devtools",
+      "verified": true,
+      "job_count": 203
+    },
+    {
+      "name": "Grafana Labs",
+      "slug": "grafanalabs",
+      "ats": "greenhouse",
+      "city": "Stockholm",
+      "country": "SE",
+      "category": "observability",
+      "verified": true,
+      "job_count": 143
+    },
+    {
+      "name": "Neo4j",
+      "slug": "neo4j",
+      "ats": "greenhouse",
+      "city": "Malmo",
+      "country": "SE",
+      "category": "database",
+      "verified": true,
+      "job_count": 45
+    },
+    {
+      "name": "Cockroach Labs",
+      "slug": "cockroachlabs",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "database",
+      "verified": true,
+      "job_count": 28
+    },
+    {
+      "name": "Redis",
+      "slug": "redislabs",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "database",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Timescale",
+      "slug": "timescale",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "database",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Materialize",
+      "slug": "materialize",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "streaming",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Metabase",
+      "slug": "metabase",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "bi",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Preset",
+      "slug": "preset",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "bi",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Atlan",
+      "slug": "atlan",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "IN",
+      "category": "data-catalog",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Census",
+      "slug": "getcensus",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "data-tooling",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Y42",
+      "slug": "y42",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "data-tooling",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Dataiku",
+      "slug": "dataiku",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "data-platform",
+      "verified": true,
+      "job_count": 23
+    },
+    {
+      "name": "Sentry",
+      "slug": "sentry",
+      "ats": "greenhouse",
+      "city": "Vienna",
+      "country": "AT",
+      "category": "devtools",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "PostHog",
+      "slug": "posthog",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "GB",
+      "category": "analytics",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Supabase",
+      "slug": "supabase",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "database",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Vercel",
+      "slug": "vercel",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "devtools",
+      "verified": true,
+      "job_count": 84
+    },
+    {
+      "name": "Figma",
+      "slug": "figma",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "saas",
+      "verified": true,
+      "job_count": 164
+    },
+    {
+      "name": "Notion",
+      "slug": "notion",
+      "ats": "greenhouse",
+      "city": "Dublin",
+      "country": "IE",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Airtable",
+      "slug": "airtable",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "saas",
+      "verified": true,
+      "job_count": 16
+    },
+    {
+      "name": "Unity",
+      "slug": "unity",
+      "ats": "greenhouse",
+      "city": "Copenhagen",
+      "country": "DK",
+      "category": "gaming",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Zendesk",
+      "slug": "zendesk",
+      "ats": "greenhouse",
+      "city": "Copenhagen",
+      "country": "DK",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Checkout.com",
+      "slug": "checkoutcom",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Deliveroo",
+      "slug": "deliveroo",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "delivery",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Monzo",
+      "slug": "monzo",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 75
+    },
+    {
+      "name": "Starling Bank",
+      "slug": "starlingbank",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Trustpilot",
+      "slug": "trustpilot",
+      "ats": "greenhouse",
+      "city": "Copenhagen",
+      "country": "DK",
+      "category": "saas",
+      "verified": true,
+      "job_count": 40
+    },
+    {
+      "name": "Vinted",
+      "slug": "vinted",
+      "ats": "greenhouse",
+      "city": "Vilnius",
+      "country": "LT",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Wolt",
+      "slug": "wolt",
+      "ats": "greenhouse",
+      "city": "Helsinki",
+      "country": "FI",
+      "category": "delivery",
+      "verified": true,
+      "job_count": 248
+    },
+    {
+      "name": "Pipedrive",
+      "slug": "pipedrive",
+      "ats": "greenhouse",
+      "city": "Tallinn",
+      "country": "EE",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Veriff",
+      "slug": "veriff",
+      "ats": "greenhouse",
+      "city": "Tallinn",
+      "country": "EE",
+      "category": "identity",
+      "verified": true,
+      "job_count": 10
+    },
+    {
+      "name": "Nord Security",
+      "slug": "nordsecurity",
+      "ats": "greenhouse",
+      "city": "Vilnius",
+      "country": "LT",
+      "category": "security",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Typeform",
+      "slug": "typeform",
+      "ats": "greenhouse",
+      "city": "Barcelona",
+      "country": "ES",
+      "category": "saas",
+      "verified": true,
+      "job_count": 12
+    },
+    {
+      "name": "Glovo",
+      "slug": "glovoapp",
+      "ats": "greenhouse",
+      "city": "Barcelona",
+      "country": "ES",
+      "category": "delivery",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Qonto",
+      "slug": "qonto",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Algolia",
+      "slug": "algolia",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "search",
+      "verified": true,
+      "job_count": 34
+    },
+    {
+      "name": "Aircall",
+      "slug": "aircall",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Contentsquare",
+      "slug": "contentsquare",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "analytics",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Back Market",
+      "slug": "backmarket",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Doctolib",
+      "slug": "doctolib",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "healthtech",
+      "verified": true,
+      "job_count": 137
+    },
+    {
+      "name": "Forto",
+      "slug": "forto",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "logistics",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Flix",
+      "slug": "flixbus",
+      "ats": "greenhouse",
+      "city": "Munich",
+      "country": "DE",
+      "category": "mobility",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Scalable Capital",
+      "slug": "scalablecapital",
+      "ats": "greenhouse",
+      "city": "Munich",
+      "country": "DE",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Solaris",
+      "slug": "solarisbank",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 35
+    },
+    {
+      "name": "Wayfair",
+      "slug": "wayfair",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "HelloFresh",
+      "slug": "hellofresh",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "delivery",
+      "verified": true,
+      "job_count": 388
+    },
+    {
+      "name": "Klaviyo",
+      "slug": "klaviyo",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "saas",
+      "verified": true,
+      "job_count": 146
+    },
+    {
+      "name": "Remote",
+      "slug": "remotecom",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "PT",
+      "category": "saas",
+      "verified": true,
+      "job_count": 221
+    },
+    {
+      "name": "Ledger",
+      "slug": "ledger",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "crypto",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Sorare",
+      "slug": "sorare",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "crypto",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Tink",
+      "slug": "tink",
+      "ats": "greenhouse",
+      "city": "Stockholm",
+      "country": "SE",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Einride",
+      "slug": "einride",
+      "ats": "greenhouse",
+      "city": "Stockholm",
+      "country": "SE",
+      "category": "mobility",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Voi",
+      "slug": "voitechnology",
+      "ats": "greenhouse",
+      "city": "Stockholm",
+      "country": "SE",
+      "category": "mobility",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Templafy",
+      "slug": "templafy",
+      "ats": "greenhouse",
+      "city": "Copenhagen",
+      "country": "DK",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Lunar",
+      "slug": "lunar",
+      "ats": "greenhouse",
+      "city": "Aarhus",
+      "country": "DK",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Siteimprove",
+      "slug": "siteimprove",
+      "ats": "greenhouse",
+      "city": "Copenhagen",
+      "country": "DK",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Aiven",
+      "slug": "aiven",
+      "ats": "greenhouse",
+      "city": "Helsinki",
+      "country": "FI",
+      "category": "data-infra",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Supermetrics",
+      "slug": "supermetrics",
+      "ats": "greenhouse",
+      "city": "Helsinki",
+      "country": "FI",
+      "category": "data-tooling",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Snowplow",
+      "slug": "snowplowanalytics",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "data-tooling",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Collibra",
+      "slug": "collibra",
+      "ats": "greenhouse",
+      "city": "Brussels",
+      "country": "BE",
+      "category": "data-governance",
+      "verified": true,
+      "job_count": 42
+    },
+    {
+      "name": "Qdrant",
+      "slug": "qdrant",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "database",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Weaviate",
+      "slug": "weaviate",
+      "ats": "greenhouse",
+      "city": "Amsterdam",
+      "country": "NL",
+      "category": "database",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "RELEX Solutions",
+      "slug": "relexsolutions",
+      "ats": "greenhouse",
+      "city": "Helsinki",
+      "country": "FI",
+      "category": "analytics",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "ThoughtSpot",
+      "slug": "thoughtspot",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "bi",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Amplitude",
+      "slug": "amplitude",
+      "ats": "greenhouse",
+      "city": "Amsterdam",
+      "country": "NL",
+      "category": "analytics",
+      "verified": true,
+      "job_count": 33
+    },
+    {
+      "name": "Mixpanel",
+      "slug": "mixpanel",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "analytics",
+      "verified": true,
+      "job_count": 82
+    },
+    {
+      "name": "SingleStore",
+      "slug": "singlestore",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "database",
+      "verified": true,
+      "job_count": 36
+    },
+    {
+      "name": "PlanetScale",
+      "slug": "planetscale",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "database",
+      "verified": true,
+      "job_count": 10
+    },
+    {
+      "name": "Neon",
+      "slug": "neondatabase",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "database",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Temporal",
+      "slug": "temporaltechnologies",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "orchestration",
+      "verified": true,
+      "job_count": 53
+    },
+    {
+      "name": "Docker",
+      "slug": "docker",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "infra",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Sourcegraph",
+      "slug": "sourcegraph",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "devtools",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Postman",
+      "slug": "postman",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "devtools",
+      "verified": true,
+      "job_count": 111
+    },
+    {
+      "name": "Retool",
+      "slug": "retool",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "devtools",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "devtools",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Anthropic",
+      "slug": "anthropic",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "ai",
+      "verified": true,
+      "job_count": 486
+    },
+    {
+      "name": "OpenAI",
+      "slug": "openai",
+      "ats": "greenhouse",
+      "city": "Dublin",
+      "country": "IE",
+      "category": "ai",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Hugging Face",
+      "slug": "huggingface",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "ai",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Weights & Biases",
+      "slug": "weightsandbiases",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "ml-tooling",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Scale AI",
+      "slug": "scaleai",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "ai",
+      "verified": true,
+      "job_count": 208
+    },
+    {
+      "name": "Pinecone",
+      "slug": "pinecone",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "database",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Mistral AI",
+      "slug": "mistralai",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "ai",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Synthesia",
+      "slug": "synthesia",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "ai",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "ElevenLabs",
+      "slug": "elevenlabs",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "ai",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "DeepL",
+      "slug": "deepl",
+      "ats": "greenhouse",
+      "city": "Cologne",
+      "country": "DE",
+      "category": "ai",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Revolut",
+      "slug": "revolut",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "GoCardless",
+      "slug": "gocardless",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 25
+    },
+    {
+      "name": "Thought Machine",
+      "slug": "thoughtmachine",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Form3",
+      "slug": "form3",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 7
+    },
+    {
+      "name": "OakNorth",
+      "slug": "oaknorth",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Marqeta",
+      "slug": "marqeta",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 1
+    },
+    {
+      "name": "Rapyd",
+      "slug": "rapyd",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Plaid",
+      "slug": "plaid",
+      "ats": "greenhouse",
+      "city": "Amsterdam",
+      "country": "NL",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Ramp",
+      "slug": "ramp",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "fintech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Brex",
+      "slug": "brex",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "fintech",
+      "verified": true,
+      "job_count": 294
+    },
+    {
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "ats": "greenhouse",
+      "city": "Dublin",
+      "country": "IE",
+      "category": "crypto",
+      "verified": true,
+      "job_count": 169
+    },
+    {
+      "name": "Twilio",
+      "slug": "twilio",
+      "ats": "greenhouse",
+      "city": "Dublin",
+      "country": "IE",
+      "category": "saas",
+      "verified": true,
+      "job_count": 144
+    },
+    {
+      "name": "Allegro",
+      "slug": "allegro",
+      "ats": "greenhouse",
+      "city": "Poznan",
+      "country": "PL",
+      "category": "ecommerce",
+      "verified": true,
+      "job_count": 0
+    },
+    {
+      "name": "DocPlanner",
+      "slug": "docplanner",
+      "ats": "greenhouse",
+      "city": "Warsaw",
+      "country": "PL",
+      "category": "healthtech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Booksy",
+      "slug": "booksy",
+      "ats": "greenhouse",
+      "city": "Warsaw",
+      "country": "PL",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Brainly",
+      "slug": "brainly",
+      "ats": "greenhouse",
+      "city": "Krakow",
+      "country": "PL",
+      "category": "edtech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Just Eat Takeaway",
+      "slug": "justeattakeaway",
+      "ats": "greenhouse",
+      "city": "Amsterdam",
+      "country": "NL",
+      "category": "delivery",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Coolblue",
+      "slug": "coolblue",
+      "ats": "greenhouse",
+      "city": "Rotterdam",
+      "country": "NL",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "About You",
+      "slug": "aboutyou",
+      "ats": "greenhouse",
+      "city": "Hamburg",
+      "country": "DE",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Ada Health",
+      "slug": "adahealth",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "healthtech",
+      "verified": true,
+      "job_count": 0
+    },
+    {
+      "name": "Vestiaire Collective",
+      "slug": "vestiairecollective",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "ManoMano",
+      "slug": "manomano",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Alan",
+      "slug": "alan",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "healthtech",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Swile",
+      "slug": "swile",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "PayFit",
+      "slug": "payfit",
+      "ats": "greenhouse",
+      "city": "Paris",
+      "country": "FR",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Depop",
+      "slug": "depop",
+      "ats": "greenhouse",
+      "city": "London",
+      "country": "GB",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Farfetch",
+      "slug": "farfetch",
+      "ats": "greenhouse",
+      "city": "Porto",
+      "country": "PT",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "King",
+      "slug": "king",
+      "ats": "greenhouse",
+      "city": "Stockholm",
+      "country": "SE",
+      "category": "gaming",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Thoughtworks",
+      "slug": "thoughtworks",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "consulting",
+      "verified": true,
+      "job_count": 53
+    },
+    {
+      "name": "Bolt (legal entity)",
+      "slug": "boltoperationsou",
+      "ats": "greenhouse",
+      "city": "Tallinn",
+      "country": "EE",
+      "category": "mobility",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Vinted (legal entity)",
+      "slug": "vintedgroup",
+      "ats": "greenhouse",
+      "city": "Vilnius",
+      "country": "LT",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Pipedrive (legal entity)",
+      "slug": "pipedriveinc",
+      "ats": "greenhouse",
+      "city": "Tallinn",
+      "country": "EE",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Productboard (legal entity)",
+      "slug": "productboardcom",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "saas",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Rohlik (legal entity)",
+      "slug": "rohlikgroupas",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "ecommerce",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Kiwi.com (legal entity)",
+      "slug": "kiwicomtravel",
+      "ats": "greenhouse",
+      "city": "Brno",
+      "country": "CZ",
+      "category": "travel",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Apify (legal entity)",
+      "slug": "apifytechnologies",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "data-platform",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Ataccama",
+      "slug": "ataccama",
+      "ats": "greenhouse",
+      "city": "Prague",
+      "country": "CZ",
+      "category": "data-quality",
+      "verified": false,
+      "retry_reason": "timeout",
+      "job_count": null
+    },
+    {
+      "name": "HashiCorp (retry)",
+      "slug": "hashicorp",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "infra",
+      "verified": false,
+      "retry_reason": "recheck",
+      "job_count": null
+    },
+    {
+      "name": "Snowflake (3rd try)",
+      "slug": "snowflakeinc",
+      "ats": "greenhouse",
+      "city": "Berlin",
+      "country": "DE",
+      "category": "warehouse",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "Confluent (3rd try)",
+      "slug": "confluent",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "streaming",
+      "verified": false,
+      "job_count": null
+    },
+    {
+      "name": "dbt Labs (3rd try)",
+      "slug": "dbtlabs",
+      "ats": "greenhouse",
+      "city": "Remote",
+      "country": "US",
+      "category": "data-tooling",
+      "verified": false,
+      "job_count": null
+    }
+  ]
+}

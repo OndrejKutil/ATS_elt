@@ -1,0 +1,1073 @@
+{
+    "company": "typeform",
+    "extracted_at": "2026-08-20T18:29:05.027562+00:00",
+    "data": {
+        "jobs": [
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/7812144",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3411874,
+                "location": {
+                    "name": "United States (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Amy",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "NA Customer Outcome",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 7812144,
+                "updated_at": "2026-08-13T11:02:10-04:00",
+                "requisition_id": "570",
+                "title": "Customer Success Manager",
+                "company_name": "Typeform",
+                "first_published": "2026-04-13T13:35:23-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;1580&quot; data-end=&quot;1687&quot;&gt;We\u2019re especially excited to hire someone&amp;nbsp;&lt;strong data-start=&quot;1621&quot; data-end=&quot;1638&quot;&gt;based in the ET Timezone&lt;/strong&gt;, where we\u2019re looking to grow our presence.&lt;/p&gt;\n&lt;h3 data-start=&quot;301&quot; data-end=&quot;315&quot;&gt;&lt;strong data-start=&quot;301&quot; data-end=&quot;315&quot;&gt;About the Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Customer Success Team is focused on helping Enterprise customers explore what\u2019s possible with Typeform. We work with our Enterprise customers throughout their lifecycle to ensure that they are using Typeform to their fullest potential. By proactively engaging our customers in different lifecycle stages, we maintain the role of trusted advisor and work with our Enterprise customers to continue to grow with our tools.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Ultimately, we believe that Typeform can empower our customers to build meaningful relationships with their team members and customers alike. That mindset drives us as we seek to enable mission critical processes for our customers, and maintain a strong core relationship.&lt;/p&gt;\n&lt;h3 data-start=&quot;693&quot; data-end=&quot;714&quot;&gt;&lt;strong data-start=&quot;693&quot; data-end=&quot;714&quot;&gt;About the Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-start=&quot;568&quot; data-end=&quot;719&quot;&gt;As a Customer Success Manager, you will be primarily responsible for partnering with Typeform\u2019s Enterprise customers to help them achieve their business goals. You\u2019ll work with new customers who have purchased our Enterprise plan, as well as existing customers that have upgraded, driving activation, continued adoption, retention, and creating lasting partnerships. &lt;br&gt;&lt;br&gt;As a product and customer specialist, you will provide recommendations, identify potential obstacles, and utilize internal tools to proactively identify opportunities for customers to expand their use cases. You will drive results through product training, education, use case exploration, and risk prevention and mitigation, in order to continually improve and impact the customer experience. &lt;br&gt;&lt;br&gt;You\u2019ll be a great fit for this role, if you are curious, creative, enjoy problem solving, helping customers discover new opportunities,analyzing data, and find satisfaction in iterating on and improving processes&lt;/p&gt;\n&lt;h3 data-start=&quot;1205&quot; data-end=&quot;1223&quot;&gt;&lt;strong data-start=&quot;1205&quot; data-end=&quot;1223&quot;&gt;What you\u2019ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with customers at key moments in their lifecycle to develop an understanding of their needs and coach them on how to use Typeform to reach their desired goals&lt;/li&gt;\n&lt;li&gt;Introduce new opportunities to expand usage and optimize client experiences&lt;/li&gt;\n&lt;li&gt;Use internal tools to monitor customer health, usage metrics, and progress&lt;/li&gt;\n&lt;li&gt;Connect with and assist customers when they fall out of engagement cadences, nurturing usage and mitigating risk in accounts&lt;/li&gt;\n&lt;li&gt;Identify expansion opportunities and negotiate and close renewals&lt;/li&gt;\n&lt;li&gt;Deliver account reviews and information around trends to leadership and cross functional teams&lt;/li&gt;\n&lt;li&gt;Collaborate across teams (Sales, Support, Product, Community, Marketing) to ensure a smooth journey, and deliver impactful feedback to inform content, program, and product development.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3 data-start=&quot;1891&quot; data-end=&quot;1909&quot;&gt;&lt;strong data-start=&quot;1891&quot; data-end=&quot;1909&quot;&gt;What you bring&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven experience in customer success or a customer relationship management type role with a preference for prior experience working in a SaaS company&lt;/li&gt;\n&lt;li&gt;Easily builds rapport with customers and team members&lt;/li&gt;\n&lt;li&gt;A proven track record of expansions and renewals&lt;/li&gt;\n&lt;li&gt;Process-driven and analytical&lt;/li&gt;\n&lt;li&gt;Can identify and communicate trends in their book of business&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills&lt;/li&gt;\n&lt;li&gt;Ability to breakdown and communicate technical terminology in a non-technical manner&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A passion for delivering the quality level of service&lt;/li&gt;\n&lt;li&gt;Natural curiosity and enthusiasm&lt;/li&gt;\n&lt;li&gt;A team-focused, collaborative instinct&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Flexible, open to change, and a sense of humor never hurts!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Extra awesome:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;You\u2019re excited about the tools&lt;/li&gt;\n&lt;li&gt;Time and work management skills to prioritize customer engagements and requests&lt;/li&gt;\n&lt;li&gt;Previous experience working in a fast-paced organization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;div id=&quot;1715258246.877879&quot; class=&quot;c-virtual_list__item&quot; data-qa=&quot;virtual-list-item&quot; data-item-key=&quot;1715258246.877879&quot;&gt;\n&lt;div class=&quot;c-message_kit__background c-message_kit__background--labels c-message_kit__background--labels--later p-message_pane_message__message c-message_kit__message&quot; data-qa=&quot;message_container&quot; data-qa-unprocessed=&quot;false&quot; data-qa-placeholder=&quot;false&quot; data-qa-label=&quot;later&quot;&gt;\n&lt;div class=&quot;c-message_kit__hover&quot; data-qa-hover=&quot;true&quot;&gt;\n&lt;div class=&quot;c-message_kit__actions c-message_kit__actions--default&quot;&gt;\n&lt;div class=&quot;p-message_pane_message__message_label c-message_kit__labels c-message_kit__labels--light&quot;&gt;\n&lt;div class=&quot;c-message_kit__gutter&quot;&gt;\n&lt;div class=&quot;c-message_kit__gutter__right&quot; data-qa=&quot;message_content&quot;&gt;\n&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;No one likes a guessing game \u2014 that\u2019s why we&#39;re transparent about the salary range for this role. In addition to the base, we offer a 5-10% bonus depending on your level and performance. The range is broad because we tailor total compensation based on your location, experience, education, and skillset.&lt;br&gt;We also want to ensure equitable pay across the team and alignment with market data \u2014 but let us handle those details. We\u2019re committed to clarity and honesty, so feel free to ask us anything along the way.&lt;/em&gt;&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Pay range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$65,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$95,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 80858,
+                        "name": "Field",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 75152,
+                        "name": "United States (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84514
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8099020",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3508672,
+                "location": {
+                    "name": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Sarah",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Field Operations",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 8099020,
+                "updated_at": "2026-07-31T11:11:28-04:00",
+                "requisition_id": "592",
+                "title": "Customer Success Manager",
+                "company_name": "Typeform",
+                "first_published": "2026-07-31T11:11:28-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Customer Success Team is focused on helping Enterprise customers explore what\u2019s possible with Typeform. We work with our Enterprise customers throughout their lifecycle to ensure that they are using Typeform to their fullest potential. By proactively engaging our customers in different lifecycle stages, we maintain the role of trusted advisor and work with our Enterprise customers to continue to grow with our tools.&lt;/p&gt;\n&lt;p&gt;Ultimately, we believe that Typeform can empower our customers to build meaningful relationships with their team members and customers alike. That mindset drives us as we seek to enable mission critical processes for our customers, and maintain a strong core relationship.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Customer Success Manager, you will be primarily responsible for partnering with Typeform\u2019s Enterprise customers to help them achieve their business goals. You\u2019ll work with new customers who have purchased our Enterprise plan, as well as existing customers that have upgraded, driving activation, continued adoption, retention, and creating lasting partnerships.&lt;/p&gt;\n&lt;p&gt;As a product and customer specialist, you will provide recommendations, identify potential obstacles, and utilize internal tools to proactively identify opportunities for customers to expand their use cases. You will drive results through product training, education, use case exploration, and risk prevention and mitigation, in order to continually improve and impact the customer experience.&lt;/p&gt;\n&lt;p&gt;You\u2019ll be a great fit for this role, if you are curious, creative, enjoy problem solving, helping customers discover new opportunities,analyzing data, and find satisfaction in iterating on and improving processes&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with customers at key moments in their lifecycle to develop an understanding of their needs and coach them on how to use Typeform to reach their desired goals&lt;/li&gt;\n&lt;li&gt;Introduce new opportunities to expand usage and optimize client experiences&lt;/li&gt;\n&lt;li&gt;Use internal tools to monitor customer health, usage metrics, and progress&lt;/li&gt;\n&lt;li&gt;Connect with and assist customers when they fall out of engagement cadences, nurturing usage and mitigating risk in accounts&lt;/li&gt;\n&lt;li&gt;Identify expansion opportunities and negotiate and close renewals&lt;/li&gt;\n&lt;li&gt;Deliver account reviews and information around trends to leadership and cross functional teams&lt;/li&gt;\n&lt;li&gt;Collaborate across teams (Sales, Support, Product, Community, Marketing) to ensure a smooth journey, and deliver impactful feedback to inform content, program, and product development.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you bring&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven experience in customer success or a customer relationship management type role with a preference for prior experience working in a SaaS company&lt;/li&gt;\n&lt;li&gt;Easily builds rapport with customers and team members&lt;/li&gt;\n&lt;li&gt;A proven track record of expansions and renewals&lt;/li&gt;\n&lt;li&gt;Process-driven and analytical&lt;/li&gt;\n&lt;li&gt;Can identify and communicate trends in their book of business&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills&lt;/li&gt;\n&lt;li&gt;Ability to breakdown and communicate technical terminology in a non-technical manner&lt;/li&gt;\n&lt;li&gt;A passion for delivering the quality level of service&lt;/li&gt;\n&lt;li&gt;Natural curiosity and enthusiasm&lt;/li&gt;\n&lt;li&gt;A team-focused, collaborative instinct&lt;/li&gt;\n&lt;li&gt;Flexible, open to change, and a sense of humor never hurts!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Extra awesome:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You\u2019re excited about the tools&lt;/li&gt;\n&lt;li&gt;Time and work management skills to prioritize customer engagements and requests&lt;/li&gt;\n&lt;li&gt;Previous experience working in a fast-paced organization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;We also want to ensure equitable pay across the team and alignment with market data \u2014 but let us handle those details. We\u2019re committed to clarity and honesty, so feel free to ask us anything along the way.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;strong bonds&lt;/strong&gt;grounded in respect, transparency, and trust. We&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;champion our diverse customer base&lt;/strong&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;hold high expectations&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 80858,
+                        "name": "Field",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 89978,
+                        "name": "Portugal (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 75316,
+                        "name": "Spain (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/7811563",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3411668,
+                "location": {
+                    "name": "Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Deb",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Controlling",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 7811563,
+                "updated_at": "2026-07-23T04:44:12-04:00",
+                "requisition_id": "569",
+                "title": "Director of Accounting & Controlling",
+                "company_name": "Typeform",
+                "first_published": "2026-04-13T10:42:14-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-start=&quot;273&quot; data-end=&quot;381&quot;&gt;You&#39;ll join a small but high-impact Accounting &amp;amp; Controlling team at a pivotal moment in Typeform&#39;s journey.&lt;/p&gt;\n&lt;p data-start=&quot;383&quot; data-end=&quot;656&quot;&gt;As we&#39;ve grown into a global SaaS business, our finance function is evolving to support greater scale, complexity, and ambition. We&#39;re investing in stronger financial controls, more sophisticated accounting operations, and systems that will enable our next stage of growth.&lt;/p&gt;\n&lt;p data-start=&quot;658&quot; data-end=&quot;974&quot;&gt;You&#39;ll partner closely with the VP of Accounting &amp;amp; Controlling, serving as their strategic deputy and helping lead both the day-to-day function and the longer-term evolution of our accounting organization. Together, you&#39;ll build a world-class finance operation that is scalable, resilient, and ready for what&#39;s next.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p class=&quot;PDq2pG_selectionAnchorContainer&quot; data-start=&quot;1000&quot; data-end=&quot;1143&quot;&gt;As Director of Accounting &amp;amp; Controlling, you&#39;ll lead the operational accounting function while helping shape the future of finance at Typeform.&lt;/p&gt;\n&lt;p data-start=&quot;1145&quot; data-end=&quot;1561&quot;&gt;Reporting to the VP of Accounting &amp;amp; Controlling, you&#39;ll own the integrity of our global accounting operations, oversee a growing team, and drive initiatives that strengthen financial controls, improve efficiency, and support international growth. You&#39;ll combine technical accounting expertise with strong leadership and operational excellence, ensuring the business continues to scale on solid financial foundations.&lt;/p&gt;\n&lt;p data-start=&quot;1563&quot; data-end=&quot;1825&quot;&gt;This role is ideal for someone who enjoys balancing strategic thinking with hands-on execution. You&#39;ll be a trusted partner to senior leadership, mentor and develop the accounting team, and play a key role in transforming how finance operates across the company.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Things you will do:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li data-section-id=&quot;1oynsgi&quot; data-start=&quot;1849&quot; data-end=&quot;1999&quot;&gt;Lead the Accounting &amp;amp; Controlling function, ensuring accurate, timely, and compliant financial operations across multiple entities and jurisdictions&lt;/li&gt;\n&lt;li data-section-id=&quot;1x0w17d&quot; data-start=&quot;2000&quot; data-end=&quot;2152&quot;&gt;Partner closely with the VP of Accounting &amp;amp; Controlling as a strategic deputy, helping define priorities, lead the team, and drive the finance roadmap&lt;/li&gt;\n&lt;li data-section-id=&quot;2tvmg&quot; data-start=&quot;2153&quot; data-end=&quot;2306&quot;&gt;Manage, coach, and develop a high-performing accounting team, fostering a culture of accountability, continuous improvement, and operational excellence&lt;/li&gt;\n&lt;li data-section-id=&quot;u0j8ly&quot; data-start=&quot;2307&quot; data-end=&quot;2441&quot;&gt;Own the monthly, quarterly, and annual close processes, ensuring high-quality financial reporting and strong balance sheet integrity&lt;/li&gt;\n&lt;li data-section-id=&quot;11kxelt&quot; data-start=&quot;2442&quot; data-end=&quot;2582&quot;&gt;Strengthen our internal control environment and ensure compliance with IFRS and regulatory requirements across all operating jurisdictions&lt;/li&gt;\n&lt;li data-section-id=&quot;18pnmmc&quot; data-start=&quot;2583&quot; data-end=&quot;2691&quot;&gt;Oversee revenue recognition policies and processes across our subscription and usage-based business models&lt;/li&gt;\n&lt;li data-section-id=&quot;l1watt&quot; data-start=&quot;2692&quot; data-end=&quot;2851&quot;&gt;Lead our indirect tax strategy and compliance (VAT/GST, digital services taxes, and related obligations), partnering with external advisors where appropriate&lt;/li&gt;\n&lt;li data-section-id=&quot;1sb6eao&quot; data-start=&quot;2852&quot; data-end=&quot;2953&quot;&gt;Oversee transfer pricing frameworks, intercompany accounting, and cross-border financial operations&lt;/li&gt;\n&lt;li data-section-id=&quot;1addgeb&quot; data-start=&quot;2954&quot; data-end=&quot;3090&quot;&gt;Partner with Legal, FP&amp;amp;A, People, and external advisors to support international expansion, entity creation, and regulatory compliance&lt;/li&gt;\n&lt;li data-section-id=&quot;o1n2es&quot; data-start=&quot;3091&quot; data-end=&quot;3211&quot;&gt;Lead external audits and statutory reporting processes, ensuring smooth execution and strong stakeholder relationships&lt;/li&gt;\n&lt;li data-section-id=&quot;4e3g0j&quot; data-start=&quot;3212&quot; data-end=&quot;3342&quot;&gt;Drive finance transformation initiatives, including process redesign, automation, ERP optimization, and scalability improvements&lt;/li&gt;\n&lt;li data-section-id=&quot;ni25fu&quot; data-start=&quot;3343&quot; data-end=&quot;3448&quot;&gt;Build internal accounting capabilities while reducing dependency on external advisors where appropriate&lt;/li&gt;\n&lt;li data-section-id=&quot;1te7mfs&quot; data-start=&quot;3449&quot; data-end=&quot;3571&quot;&gt;Provide leadership and continuity for the function, acting on behalf of the VP of Accounting &amp;amp; Controlling when required&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What you already bring to the table:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li data-section-id=&quot;dbs7y7&quot; data-start=&quot;3600&quot; data-end=&quot;3721&quot;&gt;Significant experience leading accounting and controlling functions within a high-growth technology or SaaS environment&lt;/li&gt;\n&lt;li data-section-id=&quot;1yp1skf&quot; data-start=&quot;3722&quot; data-end=&quot;3815&quot;&gt;Experience managing and developing accounting teams in a fast-paced, international business&lt;/li&gt;\n&lt;li data-section-id=&quot;1ykmqsb&quot; data-start=&quot;3816&quot; data-end=&quot;3883&quot;&gt;Strong technical accounting expertise with deep knowledge of IFRS&lt;/li&gt;\n&lt;li data-section-id=&quot;m77wwn&quot; data-start=&quot;3884&quot; data-end=&quot;3969&quot;&gt;Proven experience managing multi-entity, multi-jurisdiction accounting environments&lt;/li&gt;\n&lt;li data-section-id=&quot;1u9o5jp&quot; data-start=&quot;3970&quot; data-end=&quot;4078&quot;&gt;Strong understanding of revenue recognition, particularly for subscription and usage-based business models&lt;/li&gt;\n&lt;li data-section-id=&quot;uz8ffs&quot; data-start=&quot;4079&quot; data-end=&quot;4156&quot;&gt;Experience overseeing indirect tax compliance across multiple jurisdictions&lt;/li&gt;\n&lt;li data-section-id=&quot;2y18hs&quot; data-start=&quot;4157&quot; data-end=&quot;4239&quot;&gt;Strong understanding of financial controls, risk management, and audit processes&lt;/li&gt;\n&lt;li data-section-id=&quot;yx7ccd&quot; data-start=&quot;4240&quot; data-end=&quot;4334&quot;&gt;Experience partnering with executive stakeholders and influencing cross-functional decisions&lt;/li&gt;\n&lt;li data-section-id=&quot;6qeg22&quot; data-start=&quot;4335&quot; data-end=&quot;4431&quot;&gt;A pragmatic, hands-on leadership style with a willingness to dive into the details when needed&lt;/li&gt;\n&lt;li data-section-id=&quot;1s16byp&quot; data-start=&quot;4432&quot; data-end=&quot;4531&quot;&gt;Excellent communication skills and the ability to build trusted relationships across the business&lt;/li&gt;\n&lt;li data-section-id=&quot;1kzgthl&quot; data-start=&quot;4532&quot; data-end=&quot;4640&quot;&gt;A continuous improvement mindset with experience driving operational excellence and finance transformation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Extra awesome:&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li data-section-id=&quot;12q14lf&quot; data-start=&quot;4665&quot; data-end=&quot;4725&quot;&gt;Experience leading accounting in a global B2B SaaS company&lt;/li&gt;\n&lt;li data-section-id=&quot;maqhuq&quot; data-start=&quot;4726&quot; data-end=&quot;4810&quot;&gt;Experience with international expansion, entity setup, and cross-border compliance&lt;/li&gt;\n&lt;li data-section-id=&quot;185ivq1&quot; data-start=&quot;4811&quot; data-end=&quot;4882&quot;&gt;Strong knowledge of transfer pricing and international tax structures&lt;/li&gt;\n&lt;li data-section-id=&quot;jf0hw1&quot; data-start=&quot;4883&quot; data-end=&quot;4944&quot;&gt;Big 4 background or equivalent public accounting experience&lt;/li&gt;\n&lt;li data-section-id=&quot;1ki8ebw&quot; data-start=&quot;4945&quot; data-end=&quot;5017&quot;&gt;Experience implementing or optimizing ERP systems (NetSuite preferred)&lt;/li&gt;\n&lt;li data-section-id=&quot;129xkeu&quot; data-start=&quot;5018&quot; data-end=&quot;5114&quot;&gt;Track record of leading finance transformation, automation, or systems implementation projects&lt;/li&gt;\n&lt;li data-section-id=&quot;h4n5vd&quot; data-start=&quot;5115&quot; data-end=&quot;5216&quot;&gt;Experience preparing an organization for rapid international growth, acquisitions, or IPO readiness&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 22986,
+                        "name": "Finance & Legal",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8069186",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3496369,
+                "location": {
+                    "name": "Europe"
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Deb",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Finance Operations",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 8069186,
+                "updated_at": "2026-07-21T06:42:33-04:00",
+                "requisition_id": "590",
+                "title": "Lead System Accountant",
+                "company_name": "Typeform",
+                "first_published": "2026-07-21T06:42:33-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Finance team comprises 13 people split around 4 pillars: FP&amp;amp;A, Finance Operations,&amp;nbsp;Controlling and Legal. As part of the Controlling Team, you&#39;ll be involved with Typeform&#39;s&amp;nbsp;accounting, treasury, compliance, and tax functions, focusing on the systems and resulting&amp;nbsp;financial flows for accounting. They are a growing multinational 7 people team who bring vigor,&amp;nbsp;humour, and empathy to support each other&#39;s success and well-being. Sounds interesting?&amp;nbsp;Read-on, then tell us about you.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;br&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As the Lead Systems Accountant, you will be instrumental in driving the reliability and efficiency of our financial systems. You will manage our suite of finance-related systems, ensuring seamless data flow between our subscriptions management system, tax platforms, payment gateways, ERP (NetSuite), and planning system (Pigment).&lt;/p&gt;\n&lt;p&gt;Your role is crucial in maintaining accurate and timely financial data, which is essential for informed business decision-making.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;br&gt;Things you will do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the Finance related systems spanning our subscriptions management system&amp;nbsp;(Chargebee) interacting with tax platforms such as Avalara, and payment gateways&lt;br&gt;through to our ERP (NetSuite) and our Planning system. Own the API&amp;nbsp;interfaces and related tools (Workado) to ensure complete and accurate data transfer&lt;br&gt;between these systems.&lt;/li&gt;\n&lt;li&gt;Review daily the audit logs across these systems and ensure effective logical access&lt;br&gt;controls are in place.&lt;/li&gt;\n&lt;li&gt;Review and maintain all financial systems policies and procedures.&lt;/li&gt;\n&lt;li&gt;Collaborate with IT and financial staff to meet business requirements.&lt;/li&gt;\n&lt;li&gt;Troubleshoot and fix finance-related system issues.&lt;/li&gt;\n&lt;li&gt;Train and support finance team members in the use of financial systems and&amp;nbsp;procedures&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you already bring to the table:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven experience in a Systems role within the Finance function&lt;/li&gt;\n&lt;li&gt;Strong analytical and problem-solving abilities&lt;/li&gt;\n&lt;li&gt;Effective communication and interpersonal skills&lt;/li&gt;\n&lt;li&gt;Ability to meet tight deadlines and manage multiple priorities&lt;/li&gt;\n&lt;li&gt;Customer-focused with a flexible approach&lt;/li&gt;\n&lt;li&gt;Self-motivated with a &quot;can-do&quot; mindset&lt;/li&gt;\n&lt;li&gt;Demonstrated leadership capabilities&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Additional Competencies (Nice to Have)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with NetSuite and/or Chargebee&lt;/li&gt;\n&lt;li&gt;Background in SaaS/subscription-based businesses&lt;/li&gt;\n&lt;li&gt;Knowledge of Spanish tax and regulatory environments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 22986,
+                        "name": "Finance & Legal",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8036134",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3483500,
+                "location": {
+                    "name": "United Kingdom (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Laura",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Employee Support",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 8036134,
+                "updated_at": "2026-06-29T13:42:16-04:00",
+                "requisition_id": "587",
+                "title": "People Systems Lead - Europe (12-month FTC)",
+                "company_name": "Typeform",
+                "first_published": "2026-06-29T13:42:16-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Typeform is fully remote by design. For this role, we can hire candidates based in the UK, Ireland, Germany, Portugal, Spain or The Netherlands&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Typeform, our People Systems, Analytics &amp;amp; Operations team builds and operates the systems, data, and processes that power the employee experience at scale.&lt;/p&gt;\n&lt;p&gt;We\u2019re a globally distributed team responsible for ensuring that our People infrastructure\u2014from HR systems to lifecycle operations\u2014runs reliably, efficiently, and with a strong focus on employee experience.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We\u2019re looking for a&amp;nbsp;&lt;strong&gt;People Systems Lead&lt;/strong&gt; who brings a strong &lt;strong&gt;systems-thinking mindset&lt;/strong&gt; to People Operations.&lt;/p&gt;\n&lt;p&gt;This role goes beyond executing processes\u2014you will &lt;strong&gt;analyze, optimize, and evolve how our People operations work end-to-end&lt;/strong&gt;. You\u2019ll connect workflows, systems, and employee experience, identifying opportunities to simplify processes and leverage automation to scale effectively.&lt;/p&gt;\n&lt;p&gt;You\u2019ll play a key role in ensuring our People infrastructure is not only reliable, but continuously improving as we grow. This is a hands-on role with high visibility, where you\u2019ll contribute to both &lt;strong&gt;operational excellence and process design&lt;/strong&gt; across the employee lifecycle.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Please note that this position is for an initial 12-month fixed term contract.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Things you will do:&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;h4&gt;&lt;strong&gt;Analyze, design, and improve People processes&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Map and evaluate end-to-end People processes, identifying inefficiencies, risks, and opportunities for simplification&lt;/li&gt;\n&lt;li&gt;Redesign workflows to improve scalability, reduce manual effort, and enhance employee experience&lt;/li&gt;\n&lt;li&gt;Partner with People Systems to translate process improvements into &lt;strong&gt;system enhancements and automation&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Take a structured, systems-level approach to problem solving, understanding upstream and downstream impacts&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Operate and improve People systems&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Ensure HRIS (HiBob) reflects well-designed processes\u2014not just accurate data\u2014by continuously improving workflows, fields, and automation&lt;/li&gt;\n&lt;li&gt;Support system updates, configurations, and workflow enhancements&lt;/li&gt;\n&lt;li&gt;Identify gaps across processes and systems, and drive improvements that combine &lt;strong&gt;process redesign and technology enablement&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Ensure data quality and operational rigor&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Own data accuracy across People systems, ensuring compliance and audit readiness&lt;/li&gt;\n&lt;li&gt;Support reporting and data validation in partnership with People Analytics and Finance&lt;/li&gt;\n&lt;li&gt;Contribute to building trust in workforce data through consistent, reliable operations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Enhance employee experience through operations&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as a primary point of contact for employee inquiries, delivering clear, timely, and high-quality support&lt;/li&gt;\n&lt;li&gt;Identify friction points in the employee journey and drive improvements&lt;/li&gt;\n&lt;li&gt;Build simple, scalable processes that improve the overall employee experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Drive continuous improvement&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Proactively identify opportunities to streamline processes, reduce manual work, and increase efficiency&lt;/li&gt;\n&lt;li&gt;Support cross-functional initiatives that improve People Operations at scale&lt;/li&gt;\n&lt;li&gt;Help evolve operational practices as the company grows&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Own and deliver employee lifecycle operations&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Manage end-to-end employee lifecycle processes (onboarding, changes, offboarding) with a focus on accuracy, consistency, and experience&lt;/li&gt;\n&lt;li&gt;Ensure employee records, contracts, and documentation are maintained with high data integrity and confidentiality&lt;/li&gt;\n&lt;li&gt;Partner with IT, Payroll, and Total Rewards to ensure smooth execution of lifecycle events&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What you already bring to the table:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in &lt;strong&gt;People Operations, HR Shared Services, or HR Operations&lt;/strong&gt; in a fast-paced, high-growth environment&lt;/li&gt;\n&lt;li&gt;Strong &lt;strong&gt;systems thinking mindset&lt;/strong&gt;\u2014you naturally look at processes end-to-end, understand dependencies, and design improvements that scale&lt;/li&gt;\n&lt;li&gt;Experience improving or redesigning People/HR processes, ideally with a focus on &lt;strong&gt;automation and tooling&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Strong working knowledge of &lt;strong&gt;HR systems (HiBob or similar HRIS)&lt;/strong&gt; and data management&lt;/li&gt;\n&lt;li&gt;Proven experience supporting &lt;strong&gt;multi-country populations (US + Europe)&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;High attention to detail with a strong sense of ownership over data accuracy and process quality&lt;/li&gt;\n&lt;li&gt;Ability to translate operational challenges into &lt;strong&gt;structured process and system improvements&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Strong communication skills and a service-oriented approach to employee support&lt;/li&gt;\n&lt;li&gt;Ability to manage competing priorities in a dynamic environment&lt;/li&gt;\n&lt;li&gt;Solid understanding of HR compliance and best practices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 19395,
+                        "name": "People and Culture",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8036162",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3483500,
+                "location": {
+                    "name": "United States (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Laura",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Employee Support",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 8036162,
+                "updated_at": "2026-06-29T13:42:28-04:00",
+                "requisition_id": "587",
+                "title": "People Systems Lead - US (12-month FTC)",
+                "company_name": "Typeform",
+                "first_published": "2026-06-29T13:42:28-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Typeform is fully remote by design. For this role, we can hire candidates based in the ET Timezone in the US.&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Typeform, our People Systems, Analytics &amp;amp; Operations team builds and operates the systems, data, and processes that power the employee experience at scale.&lt;/p&gt;\n&lt;p&gt;We\u2019re a globally distributed team responsible for ensuring that our People infrastructure\u2014from HR systems to lifecycle operations\u2014runs reliably, efficiently, and with a strong focus on employee experience.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We\u2019re looking for a&amp;nbsp;&lt;strong&gt;People Systems Lead&lt;/strong&gt; who brings a strong &lt;strong&gt;systems-thinking mindset&lt;/strong&gt; to People Operations.&lt;/p&gt;\n&lt;p&gt;This role goes beyond executing processes\u2014you will &lt;strong&gt;analyze, optimize, and evolve how our People operations work end-to-end&lt;/strong&gt;. You\u2019ll connect workflows, systems, and employee experience, identifying opportunities to simplify processes and leverage automation to scale effectively.&lt;/p&gt;\n&lt;p&gt;You\u2019ll play a key role in ensuring our People infrastructure is not only reliable, but continuously improving as we grow. This is a hands-on role with high visibility, where you\u2019ll contribute to both &lt;strong&gt;operational excellence and process design&lt;/strong&gt; across the employee lifecycle.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Please note that this position is for an initial 12-month fixed term contract.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Things you will do:&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt;\n&lt;h4&gt;&lt;strong&gt;Analyze, design, and improve People processes&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Map and evaluate end-to-end People processes, identifying inefficiencies, risks, and opportunities for simplification&lt;/li&gt;\n&lt;li&gt;Redesign workflows to improve scalability, reduce manual effort, and enhance employee experience&lt;/li&gt;\n&lt;li&gt;Partner with People Systems to translate process improvements into &lt;strong&gt;system enhancements and automation&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Take a structured, systems-level approach to problem solving, understanding upstream and downstream impacts&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Operate and improve People systems&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Ensure HRIS (HiBob) reflects well-designed processes\u2014not just accurate data\u2014by continuously improving workflows, fields, and automation&lt;/li&gt;\n&lt;li&gt;Support system updates, configurations, and workflow enhancements&lt;/li&gt;\n&lt;li&gt;Identify gaps across processes and systems, and drive improvements that combine &lt;strong&gt;process redesign and technology enablement&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Ensure data quality and operational rigor&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Own data accuracy across People systems, ensuring compliance and audit readiness&lt;/li&gt;\n&lt;li&gt;Support reporting and data validation in partnership with People Analytics and Finance&lt;/li&gt;\n&lt;li&gt;Contribute to building trust in workforce data through consistent, reliable operations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Enhance employee experience through operations&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as a primary point of contact for employee inquiries, delivering clear, timely, and high-quality support&lt;/li&gt;\n&lt;li&gt;Identify friction points in the employee journey and drive improvements&lt;/li&gt;\n&lt;li&gt;Build simple, scalable processes that improve the overall employee experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Drive continuous improvement&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Proactively identify opportunities to streamline processes, reduce manual work, and increase efficiency&lt;/li&gt;\n&lt;li&gt;Support cross-functional initiatives that improve People Operations at scale&lt;/li&gt;\n&lt;li&gt;Help evolve operational practices as the company grows&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Own and deliver employee lifecycle operations&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Manage end-to-end employee lifecycle processes (onboarding, changes, offboarding) with a focus on accuracy, consistency, and experience&lt;/li&gt;\n&lt;li&gt;Ensure employee records, contracts, and documentation are maintained with high data integrity and confidentiality&lt;/li&gt;\n&lt;li&gt;Partner with IT, Payroll, and Total Rewards to ensure smooth execution of lifecycle events&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What you already bring to the table:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in &lt;strong&gt;People Operations, HR Shared Services, or HR Operations&lt;/strong&gt; in a fast-paced, high-growth environment&lt;/li&gt;\n&lt;li&gt;Strong &lt;strong&gt;systems thinking mindset&lt;/strong&gt;\u2014you naturally look at processes end-to-end, understand dependencies, and design improvements that scale&lt;/li&gt;\n&lt;li&gt;Experience improving or redesigning People/HR processes, ideally with a focus on &lt;strong&gt;automation and tooling&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Strong working knowledge of &lt;strong&gt;HR systems (HiBob or similar HRIS)&lt;/strong&gt; and data management&lt;/li&gt;\n&lt;li&gt;Proven experience supporting &lt;strong&gt;multi-country populations (US + Europe)&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;High attention to detail with a strong sense of ownership over data accuracy and process quality&lt;/li&gt;\n&lt;li&gt;Ability to translate operational challenges into &lt;strong&gt;structured process and system improvements&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Strong communication skills and a service-oriented approach to employee support&lt;/li&gt;\n&lt;li&gt;Ability to manage competing priorities in a dynamic environment&lt;/li&gt;\n&lt;li&gt;Solid understanding of HR compliance and best practices&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 19395,
+                        "name": "People and Culture",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8043151",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3486192,
+                "location": {
+                    "name": "Europe"
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Bryce",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Sales Solution Engineering",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 8043151,
+                "updated_at": "2026-08-13T11:14:59-04:00",
+                "requisition_id": "588",
+                "title": "Senior Forward Deployed Engineer",
+                "company_name": "Typeform",
+                "first_published": "2026-07-02T06:26:06-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;9:1-9:22;507-528&quot;&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt;\n&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;11:1-11:181;530-710&quot;&gt;Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, manage, and understand data.&lt;/p&gt;\n&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;13:1-13:258;712-969&quot;&gt;This team sits at the intersection of our go-to-market and product organizations, working directly with enterprise customers to validate use cases, accelerate strategic opportunities, and shape how our products evolve through real-world customer engagement.&lt;/p&gt;\n&lt;h2 class=&quot;text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;15:1-15:22;971-992&quot;&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;17:1-17:230;994-1223&quot;&gt;We&#39;re looking for a Senior Forward Deployed Engineer to bridge the gap between our enterprise customers and our product, building prototypes for strategic opportunities that accelerate sales cycles and inform product development.&lt;/p&gt;\n&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;19:1-19:300;1225-1524&quot;&gt;This role is ideal for someone who thrives on direct customer engagement and enjoys turning ambiguous enterprise requirements into working software\u2014fast. You&#39;ll build prototypes, support high-value enterprise deals, and translate customer needs into insights that directly shape our product roadmap.&lt;/p&gt;\n&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;21:1-21:173;1526-1698&quot;&gt;You&#39;ll partner closely with Sales, Product, and Engineering teams to validate customer use cases, deliver solutions in the field, and feed learnings back into how we build.&lt;/p&gt;\n&lt;h2 class=&quot;text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;23:1-23:26;1700-1725&quot;&gt;&lt;strong&gt;Things you will do&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3&quot; data-sourcepos=&quot;25:1-38:123;1727-2979&quot;&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;25:1-25:118;1727-1844&quot;&gt;Build and deliver prototypes for strategic enterprise opportunities, accelerating sales cycles and de-risking deals&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;26:1-26:116;1845-1960&quot;&gt;Engage directly with enterprise customers to understand their requirements, workflows, and technical environments&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;27:1-27:99;1961-2059&quot;&gt;Support enterprise deals as the technical bridge between customer needs and product capabilities&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;28:1-28:102;2060-2161&quot;&gt;Translate customer requirements into clear technical specifications and actionable product insights&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;29:1-29:98;2162-2259&quot;&gt;Collaborate with Product and Engineering teams to feed field learnings into the product roadmap&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;30:1-30:101;2260-2360&quot;&gt;Validate customer use cases for new product initiatives through hands-on prototyping and iteration&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;31:1-31:88;2361-2448&quot;&gt;Identify reusable patterns across customer engagements and drive their productization&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;32:1-32:114;2449-2562&quot;&gt;Build strong relationships with key stakeholders across Sales, Product, Engineering, and customer organizations&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;33:1-37:65;2563-2856&quot;&gt;Work on ongoing field engineering initiatives, including:\n&lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3&quot; data-sourcepos=&quot;34:3-37:65;2625-2856&quot;&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;34:3-34:62;2625-2684&quot;&gt;Prototype delivery for strategic enterprise opportunities&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;35:3-35:55;2687-2739&quot;&gt;New product launch support and customer validation&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;36:3-36:52;2742-2791&quot;&gt;Productization of successful prototype concepts&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;37:3-37:65;2794-2856&quot;&gt;Establishing scalable Forward Deployed Engineering practices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;38:1-38:123;2857-2979&quot;&gt;Participate in architecture and solution discussions, contributing practical, customer-informed engineering perspectives&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 class=&quot;text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;40:1-40:43;2981-3023&quot;&gt;&lt;strong&gt;What you already bring to the table&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3&quot; data-sourcepos=&quot;42:1-50:79;3025-3841&quot;&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;42:1-42:103;3025-3127&quot;&gt;Strong fullstack engineering experience, with the ability to build and ship working solutions quickly&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;43:1-43:82;3128-3209&quot;&gt;Solid experience designing and working with APIs and integrating across systems&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;44:1-44:70;3210-3279&quot;&gt;Experience with cloud platforms and modern application architecture&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;45:1-45:100;3280-3379&quot;&gt;Experience working directly with enterprise customers and navigating their technical requirements&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;46:1-46:103;3380-3482&quot;&gt;Strong sense of ownership and the ability to drive projects independently from ambiguity to delivery&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;47:1-47:108;3483-3590&quot;&gt;Excellent communication skills, with the ability to translate between technical and business stakeholders&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;48:1-48:89;3591-3679&quot;&gt;Customer-focused mindset, with genuine curiosity about customer problems and workflows&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;49:1-49:83;3680-3762&quot;&gt;Comfort operating in ambiguous, fast-moving environments where priorities evolve&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;50:1-50:79;3763-3841&quot;&gt;Strong collaboration skills across Sales, Product, and Engineering functions&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 class=&quot;text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;52:1-52:21;3843-3863&quot;&gt;&lt;strong&gt;Extra awesome&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3&quot; data-sourcepos=&quot;54:1-58:58;3865-4223&quot;&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;54:1-54:122;3865-3986&quot;&gt;Previous experience in a Forward Deployed Engineering, Solutions Engineering, or similar customer-facing technical role&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;55:1-55:51;3987-4037&quot;&gt;Experience working in a product led SaaS company&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;56:1-56:68;4038-4105&quot;&gt;Exposure to AI/LLM technologies and building AI-powered solutions&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;57:1-57:60;4106-4165&quot;&gt;Experience working in startup or high-growth environments&lt;/li&gt;\n&lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;58:1-58:58;4166-4223&quot;&gt;Degree in Computer Science or a related technical field&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 88312,
+                        "name": "Technology",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/7681767",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3378773,
+                "location": {
+                    "name": "United Kingdom (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Benoit",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Finance Operations",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 7681767,
+                "updated_at": "2026-06-18T10:32:55-04:00",
+                "requisition_id": "555",
+                "title": "Senior FP&A Analyst",
+                "company_name": "Typeform",
+                "first_published": "2026-03-05T04:45:49-05:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We\u2019re looking for a &lt;strong&gt;Senior FP&amp;amp;A Analyst&lt;/strong&gt; to join our Finance team and help drive clarity through data. This is a &lt;strong&gt;hands-on, individual contributor role&lt;/strong&gt; with a strong focus on analysis and execution.&lt;/p&gt;\n&lt;p&gt;This is not a traditional finance business partner or governance role. Instead, you\u2019ll spend most of your time working directly with data, building models, analyzing performance, and translating complex signals into clear, actionable insights for Product, Growth, and Go-to-Market teams.&lt;/p&gt;\n&lt;p&gt;You\u2019ll thrive in this role if you enjoy digging deep into numbers, understand SaaS and product-led growth dynamics, and are comfortable owning analyses from start to finish.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Build, maintain, and improve financial and operational models to support forecasting, planning, and performance tracking&lt;/li&gt;\n&lt;li&gt;Analyze key &lt;strong&gt;SaaS and PLG metrics&lt;/strong&gt; (e.g. ARR, expansion, churn, CAC, LTV, conversion funnels) and connect them to business drivers&lt;/li&gt;\n&lt;li&gt;Partner closely with Product, Growth, and Go-to-Market teams to understand performance and surface insights \u2014 without acting as a traditional finance gatekeeper&lt;/li&gt;\n&lt;li&gt;Turn complex data into &lt;strong&gt;clear narratives and recommendations&lt;/strong&gt; that inform decision-making&lt;/li&gt;\n&lt;li&gt;Own recurring analyses, dashboards, and reporting with a strong focus on accuracy, usability, and speed&lt;/li&gt;\n&lt;li&gt;Support budgeting and forecasting cycles with detailed, bottoms-up analysis&lt;/li&gt;\n&lt;li&gt;Continuously improve how we use data, tools, and processes to understand the business&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What you bring&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in FP&amp;amp;A or a similar hands-on analytical role&lt;/li&gt;\n&lt;li&gt;Strong experience working with &lt;strong&gt;SaaS businesses&lt;/strong&gt;, ideally in a product-led growth environment&lt;/li&gt;\n&lt;li&gt;High level of comfort working directly with raw data, models, and analytical tools (e.g. spreadsheets, BI tools, SQL \u2014 depending on your stack)&lt;/li&gt;\n&lt;li&gt;Proven ability to translate analysis into &lt;strong&gt;practical, actionable insights&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Experience collaborating with Marketing, Growth, or Commercial teams&lt;/li&gt;\n&lt;li&gt;An execution-first mindset: you enjoy owning problems end-to-end and getting things done&lt;/li&gt;\n&lt;li&gt;Comfortable operating as an &lt;strong&gt;experienced individual contributor&lt;/strong&gt;, without people management responsibilities&lt;/li&gt;\n&lt;li&gt;Curious, adaptable, and able to navigate ambiguity in a fast-moving environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 22986,
+                        "name": "Finance & Legal",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8134637",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3521716,
+                "location": {
+                    "name": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Malinda",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Lifecycle Marketing",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 8134637,
+                "updated_at": "2026-08-17T13:41:10-04:00",
+                "requisition_id": "596",
+                "title": "Senior Paid Marketing Strategist",
+                "company_name": "Typeform",
+                "first_published": "2026-08-17T13:41:10-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;About the role&lt;/h3&gt;\n&lt;p class=&quot;isSelectedEnd&quot;&gt;We\u2019re looking for a Senior Paid Marketing Strategist to help us rethink how Typeform approaches paid acquisition.&lt;/p&gt;\n&lt;p class=&quot;isSelectedEnd&quot;&gt;You\u2019ll own and grow key channels including TikTok, YouTube, Google Performance Max and Uber Ads, while helping us test new opportunities across areas such as audio and CTV.&lt;/p&gt;\n&lt;p class=&quot;isSelectedEnd&quot;&gt;This is a hands on role with real ownership. You\u2019ll manage significant media budgets, build channel strategy, develop campaigns, work closely with our creative teams, and help us understand the true business impact of our investment through MMM, incrementality testing and other measurement approaches.&lt;/p&gt;\n&lt;p class=&quot;isSelectedEnd&quot;&gt;You\u2019ll join the Acquisition team within Marketing and partner closely with Creative, Product Marketing, Data, RevOps and Finance.&lt;/p&gt;\n&lt;h3&gt;What you\u2019ll do&lt;/h3&gt;\n&lt;ul data-spread=&quot;true&quot;&gt;\n&lt;li&gt;Own the strategy and day to day performance of key paid social and display channels, including TikTok, YouTube, Google Performance Max and Uber Ads.&lt;/li&gt;\n&lt;li&gt;Build a multichannel strategy that helps Typeform reduce its reliance on paid search and find new sources of efficient growth.&lt;/li&gt;\n&lt;li&gt;Manage six figure monthly media budgets, making decisions based on customer acquisition, revenue, CAC and LTV to CAC performance.&lt;/li&gt;\n&lt;li&gt;Build, launch and optimise campaigns that drive Typeform signups and new paid customers.&lt;/li&gt;\n&lt;li&gt;Turn creative ideas into campaigns by briefing and partnering closely with copywriters and designers.&lt;/li&gt;\n&lt;li&gt;Run A/B tests across creative, copy, landing pages, placements, audiences and bidding strategies.&lt;/li&gt;\n&lt;li&gt;Explore and test new channels such as audio and CTV.&lt;/li&gt;\n&lt;li&gt;Own and develop our paid marketing measurement approach, including Marketing Mix Modelling, incrementality studies and alternative measurement frameworks.&lt;/li&gt;\n&lt;li&gt;Design experiments that help us understand the incremental impact of our campaigns rather than relying solely on traditional attribution.&lt;/li&gt;\n&lt;li&gt;Work closely with our Tracking and Data teams to strengthen our measurement capabilities as digital advertising continues to change.&lt;/li&gt;\n&lt;li&gt;Share insights, results and recommendations across Marketing and the wider business.&lt;/li&gt;\n&lt;li&gt;Contribute to Typeform\u2019s broader full funnel acquisition strategy across demand creation and demand capture.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What we\u2019re looking for&lt;/h3&gt;\n&lt;ul data-spread=&quot;true&quot;&gt;\n&lt;li&gt;Around six or more years of hands on and strategic experience in performance marketing and media buying.&lt;/li&gt;\n&lt;li&gt;Strong experience managing paid social and video channels, ideally including TikTok, YouTube and Meta.&lt;/li&gt;\n&lt;li&gt;Experience owning campaigns from initial idea and creative brief through implementation, optimisation and measurement.&lt;/li&gt;\n&lt;li&gt;A track record of managing six figure budgets and delivering efficient performance.&lt;/li&gt;\n&lt;li&gt;Experience working with MMM, incrementality testing or other measurement methods beyond traditional attribution.&lt;/li&gt;\n&lt;li&gt;Strong analytical skills and confidence working with campaign performance, conversion funnels, CAC and LTV.&lt;/li&gt;\n&lt;li&gt;A strong understanding of digital measurement, from tagging and attribution through to incrementality.&lt;/li&gt;\n&lt;li&gt;Experience developing creative and UGC assets for paid social channels.&lt;/li&gt;\n&lt;li&gt;The ability to balance creative thinking with strong commercial judgement.&lt;/li&gt;\n&lt;li&gt;Curiosity and a willingness to figure things out. When you do not know the answer, you know how to find it, whether that means speaking to the right person, digging into documentation or using AI tools.&lt;/li&gt;\n&lt;li&gt;Confidence working across teams and influencing partners in Creative, Product Marketing, Data and Finance.&lt;/li&gt;\n&lt;li&gt;Comfort operating with uncertainty. You are happy testing ideas, learning from the results and changing direction when the data tells you to.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul data-spread=&quot;true&quot;&gt;\n&lt;li&gt;Experience working in SaaS or B2B lead generation.&lt;/li&gt;\n&lt;li&gt;Experience across sales technology or marketing technology.&lt;/li&gt;\n&lt;li&gt;Experience managing external agencies or digital production partners.&lt;/li&gt;\n&lt;li&gt;Experience with ad servers and campaign trafficking.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 83541,
+                        "name": "Marketing",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 84513,
+                        "name": "Europe",
+                        "location": null,
+                        "child_ids": [
+                            75316,
+                            84517,
+                            84519,
+                            89978,
+                            87938,
+                            78531
+                        ],
+                        "parent_id": null
+                    },
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8121116",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3517445,
+                "location": {
+                    "name": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Bea",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Prod Marketing",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 8121116,
+                "updated_at": "2026-08-11T04:30:13-04:00",
+                "requisition_id": "594",
+                "title": "Senior Product Manager",
+                "company_name": "Typeform",
+                "first_published": "2026-08-11T04:30:13-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;About Typeform&lt;/h3&gt;\n&lt;p&gt;Typeform helps people create better conversations at scale.&lt;/p&gt;\n&lt;p&gt;Millions of people use Typeform to collect information, understand their customers, generate leads, run research, gather feedback, and power workflows across their businesses.&lt;/p&gt;\n&lt;p&gt;We are continuing to evolve Typeform from a form builder into a broader platform for collecting, understanding, and acting on information. AI is becoming a major part of that direction, both through experiences we build for customers and through making Typeform easier for AI agents and other products to interact with.&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Product Manager to help shape what comes next.&lt;/p&gt;\n&lt;h3&gt;The role&lt;/h3&gt;\n&lt;p&gt;As a Senior Product Manager at Typeform, you will own a meaningful product area and work closely with Engineering, Design, Data, Research, Marketing, and other teams to turn customer problems and business opportunities into products people genuinely want to use.&lt;/p&gt;\n&lt;p&gt;You will be responsible for understanding the problem space, setting product direction, deciding where the team should focus, and helping the team move from insight to execution.&lt;/p&gt;\n&lt;p&gt;This is not a role where Product simply writes requirements and hands them to Engineering.&lt;/p&gt;\n&lt;p&gt;We expect our Product Managers to be close to customers, opinionated about the problems worth solving, comfortable making decisions with incomplete information, and able to bring teams together around a clear direction.&lt;/p&gt;\n&lt;p&gt;You will balance customer value, product quality, technical considerations, and commercial impact while helping the team move quickly and learn.&lt;/p&gt;\n&lt;h3&gt;What you will do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the strategy and roadmap for a key area of the Typeform product.&lt;/li&gt;\n&lt;li&gt;Build a strong understanding of our customers, their workflows, and the problems they are trying to solve.&lt;/li&gt;\n&lt;li&gt;Identify opportunities through customer conversations, behavioural data, research, market insight, and product intuition.&lt;/li&gt;\n&lt;li&gt;Turn broad problems into clear product bets, hypotheses, and measurable outcomes.&lt;/li&gt;\n&lt;li&gt;Partner closely with Design and Engineering from discovery through delivery.&lt;/li&gt;\n&lt;li&gt;Work with Data and Research to understand customer behaviour and evaluate whether what we build is working.&lt;/li&gt;\n&lt;li&gt;Make thoughtful prioritisation decisions across customer needs, business goals, technical investment, and product quality.&lt;/li&gt;\n&lt;li&gt;Define success measures and use them to guide product decisions before and after launch.&lt;/li&gt;\n&lt;li&gt;Run experiments where appropriate and use the results to shape future product direction.&lt;/li&gt;\n&lt;li&gt;Work with Marketing, Sales, Customer Success, and other teams to ensure we understand the wider customer and commercial context.&lt;/li&gt;\n&lt;li&gt;Communicate product direction clearly and build alignment across teams and leadership.&lt;/li&gt;\n&lt;li&gt;Help teams move from ideas to shipped experiences without losing sight of the original customer problem.&lt;/li&gt;\n&lt;li&gt;Look beyond individual features and think about how your product area contributes to the wider Typeform platform.&lt;/li&gt;\n&lt;li&gt;Explore how AI can improve the customer experience, change existing workflows, and create new ways for customers to get value from Typeform.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What we are looking for&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You have significant experience building and scaling digital products, ideally within SaaS, product led growth, collaboration software, productivity tools, or another strong product environment.&lt;/li&gt;\n&lt;li&gt;Comfortable taking on messy, ambiguous product problems and bringing structure and direction to them.&lt;/li&gt;\n&lt;li&gt;A strong focus on customer problems and outcomes, rather than jumping straight to features.&lt;/li&gt;\n&lt;li&gt;Strong product judgement, with the ability to use customer insight, data, and context to make good decisions.&lt;/li&gt;\n&lt;li&gt;Close collaboration with Engineering and Design, with product development treated as a shared discipline.&lt;/li&gt;\n&lt;li&gt;Able to set a clear product direction while staying practical about what the team should focus on next.&lt;/li&gt;\n&lt;li&gt;Confident making trade offs, making decisions, and explaining the thinking behind them.&lt;/li&gt;\n&lt;li&gt;Good judgement around when to experiment, when to research, and when there is enough evidence to move forward.&lt;/li&gt;\n&lt;li&gt;Clear communication, with the ability to adapt complex ideas for different audiences.&lt;/li&gt;\n&lt;li&gt;Commercial awareness and an understanding of how product decisions can influence activation, engagement, retention, expansion, and revenue.&lt;/li&gt;\n&lt;li&gt;Curiosity about AI and how it is changing the way products are built and how customers interact with software.&lt;/li&gt;\n&lt;li&gt;A real care for product quality and the details that shape a strong customer experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;You might be particularly strong in one or more of these areas&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;We do not expect every Senior Product Manager to have the same background.&lt;/li&gt;\n&lt;li&gt;Depending on the team, relevant experience could include:&lt;/li&gt;\n&lt;li&gt;Product led growth, onboarding, activation, or retention&lt;/li&gt;\n&lt;li&gt;Creation tools, editors, builders, or content creation experiences&lt;/li&gt;\n&lt;li&gt;Platform products, APIs, integrations, or developer ecosystems&lt;/li&gt;\n&lt;li&gt;Analytics, insights, research, or data products&lt;/li&gt;\n&lt;li&gt;Pricing, packaging, payments, or monetisation&lt;/li&gt;\n&lt;li&gt;AI powered products, agents, automation, or intelligent workflows&lt;/li&gt;\n&lt;li&gt;B2B SaaS products used across multiple teams and use cases&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 19392,
+                        "name": "Product ",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 87938,
+                        "name": "Germany (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 84517,
+                        "name": "Ireland (Remote)",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 84519,
+                        "name": "Netherlands (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 89978,
+                        "name": "Portugal (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 75316,
+                        "name": "Spain (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/7090089",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3198161,
+                "location": {
+                    "name": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Dan Barker",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Corporate",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 7090089,
+                "updated_at": "2026-07-03T07:16:25-04:00",
+                "requisition_id": "498",
+                "title": "Senior Product Manager - Analytics",
+                "company_name": "Typeform",
+                "first_published": "2025-07-23T03:10:32-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p data-start=&quot;492&quot; data-end=&quot;1020&quot;&gt;&lt;strong data-start=&quot;492&quot; data-end=&quot;510&quot;&gt;About the Team&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-start=&quot;492&quot; data-end=&quot;1020&quot;&gt;We\u2019re looking for a Senior Product Manager to lead the transformation of Typeform\u2019s reporting and analytics experience.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-start=&quot;492&quot; data-end=&quot;1020&quot;&gt;This role sits at the center of Typeform\u2019s strategy to turn data into a true market differentiator, driving long-term revenue growth and customer satisfaction. You\u2019ll own the strategy and execution of AI-first analytics capabilities that deliver clear, actionable insights\u2014helping Typeform move beyond feature-parity competitors with a smarter, faster reporting experience.&lt;/p&gt;\n&lt;p data-start=&quot;1022&quot; data-end=&quot;1044&quot;&gt;&lt;strong data-start=&quot;1022&quot; data-end=&quot;1042&quot;&gt;Things you\u2019ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-start=&quot;1047&quot; data-end=&quot;1198&quot;&gt;Lead the delivery of a best-in-class reporting suite, including a redesigned summary page, filtering, advanced visualisations, and AI-driven insights&lt;/li&gt;\n&lt;li data-start=&quot;1201&quot; data-end=&quot;1307&quot;&gt;Define and ship the MVP for our next-gen Narrative Intelligence and \u201cAI Copilot for Insights\u201d experience&lt;/li&gt;\n&lt;li data-start=&quot;1310&quot; data-end=&quot;1415&quot;&gt;Partner with Data Science to land foundational Copilot capabilities that scale to millions of responses&lt;/li&gt;\n&lt;li data-start=&quot;1418&quot; data-end=&quot;1502&quot;&gt;Set and drive a focused roadmap that combines quick wins with long-term innovation&lt;/li&gt;\n&lt;li data-start=&quot;1505&quot; data-end=&quot;1605&quot;&gt;Consolidate onboarding learnings, customer insights, and market context to guide product decisions&lt;/li&gt;\n&lt;li data-start=&quot;1608&quot; data-end=&quot;1709&quot;&gt;Improve key metrics like usage rates, satisfaction scores, and activation across reporting features&lt;/li&gt;\n&lt;li data-start=&quot;1712&quot; data-end=&quot;1811&quot;&gt;Build strong internal alignment and communicate product value clearly to Sales, CS, and GTM teams&lt;/li&gt;\n&lt;li data-start=&quot;1814&quot; data-end=&quot;1918&quot;&gt;Ensure commercial success by helping Sales and CS articulate differentiated analytics value to customers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-start=&quot;1920&quot; data-end=&quot;1958&quot;&gt;&lt;strong data-start=&quot;1920&quot; data-end=&quot;1956&quot;&gt;What you will bring to the table&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-start=&quot;1961&quot; data-end=&quot;2056&quot;&gt;Strong strategic thinking with the ability to balance long-term vision with near-term results&lt;/li&gt;\n&lt;li data-start=&quot;2059&quot; data-end=&quot;2151&quot;&gt;High ownership mindset with a proactive approach to removing blockers and driving progress&lt;/li&gt;\n&lt;li data-start=&quot;2154&quot; data-end=&quot;2257&quot;&gt;Proven ability to collaborate cross-functionally with Sales, CS, Data Science, Legal, and Engineering&lt;/li&gt;\n&lt;li data-start=&quot;2260&quot; data-end=&quot;2379&quot;&gt;Confident communicator with commercial fluency and presence when interacting with leadership and enterprise customers&lt;/li&gt;\n&lt;li data-start=&quot;2382&quot; data-end=&quot;2476&quot;&gt;Customer-focused mindset with a passion for solving real-world data and reporting challenges&lt;/li&gt;\n&lt;li data-start=&quot;2479&quot; data-end=&quot;2580&quot;&gt;Deep product knowledge in analytics, data visualisation, and reporting (especially for SaaS or B2B)&lt;/li&gt;\n&lt;li data-start=&quot;2583&quot; data-end=&quot;2674&quot;&gt;Familiarity with AI/LLM-enabled product development and user-facing intelligence features&lt;/li&gt;\n&lt;li data-start=&quot;2677&quot; data-end=&quot;2773&quot;&gt;Experience working with large-scale data infrastructure (e.g., Clickhouse, columnar databases)&lt;/li&gt;\n&lt;li data-start=&quot;2776&quot; data-end=&quot;2862&quot;&gt;High data literacy and the ability to influence roadmap through evidence and insight&lt;/li&gt;\n&lt;li data-start=&quot;2865&quot; data-end=&quot;2928&quot;&gt;Experience managing complex, multi-threaded product work-streams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p data-start=&quot;2930&quot; data-end=&quot;2949&quot;&gt;&lt;strong data-start=&quot;2930&quot; data-end=&quot;2947&quot;&gt;Extra awesome&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li data-start=&quot;2952&quot; data-end=&quot;3033&quot;&gt;A strong track record building or buying advanced reporting and analytics tools&lt;/li&gt;\n&lt;li data-start=&quot;3036&quot; data-end=&quot;3119&quot;&gt;Experience in survey tooling or working with flexible, unstructured response data&lt;/li&gt;\n&lt;li data-start=&quot;3122&quot; data-end=&quot;3189&quot;&gt;Hands-on experience delivering modern AI-powered product features&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 19392,
+                        "name": "Product ",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 87938,
+                        "name": "Germany (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 84519,
+                        "name": "Netherlands (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 75316,
+                        "name": "Spain (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 75152,
+                        "name": "United States (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84514
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8066471",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3495286,
+                "location": {
+                    "name": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) "
+                },
+                "metadata": [
+                    {
+                        "id": 64103,
+                        "name": "Order",
+                        "value": "0.0",
+                        "value_type": "number"
+                    },
+                    {
+                        "id": 686321,
+                        "name": "Hiring Manager First Name",
+                        "value": "Bea",
+                        "value_type": "short_text"
+                    },
+                    {
+                        "id": 1026531,
+                        "name": "Pillar_Org Level 3",
+                        "value": "Data Capture",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 64105,
+                        "name": "Integration is ready (DO NOT USE)",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 64104,
+                        "name": "Typeform UID (DO NOT USE)",
+                        "value": null,
+                        "value_type": "short_text"
+                    }
+                ],
+                "id": 8066471,
+                "updated_at": "2026-07-21T04:50:59-04:00",
+                "requisition_id": "589",
+                "title": "Senior Product Manager - Create",
+                "company_name": "Typeform",
+                "first_published": "2026-07-15T03:30:44-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Product Manager to own and evolve Create &amp;amp; Design, the product where every Typeform begins.&lt;/p&gt;\n&lt;p&gt;Every customer starts here. The builder is where ideas become forms, where brands come to life, and where our promise of beautifully designed, effortless experiences is either delivered or lost.&lt;/p&gt;\n&lt;p&gt;As Typeform expands beyond forms into new surfaces and AI powered experiences, the builder needs to evolve too. The challenge is no longer just creating great forms. It is creating a platform that powers every future creation experience, while making world class design accessible to everyone.&lt;/p&gt;\n&lt;p&gt;In this role, you will own Create &amp;amp; Design end to end. You\u2019ll define the strategy for our builder, evolve the shared platform beneath it, and work closely with Typeform AI to make creating great experiences faster, smarter, and more intuitive for every customer.&lt;/p&gt;\n&lt;p&gt;Your work will define how millions of people create with Typeform, today and in the future.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Create &amp;amp; Design team owns the core builder experience that powers every Typeform. From the editor and design system to version history, multilingual creation, brand kits, and custom domains, this is the surface where every customer creates.&lt;/p&gt;\n&lt;p&gt;The team sits within the Data Capture group and works closely with Blocks, Multi Format, Typeform AI, Response Data, Growth, and Design to build a creation experience that is simple on the surface, powerful underneath, and ready for the next generation of AI powered workflows.&lt;/p&gt;\n&lt;p&gt;This is one of the most important product surfaces at Typeform, and one that will define how creation evolves over the coming years.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Things you will do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the Create &amp;amp; Design roadmap and product strategy, aligning it with the broader Data Capture vision&lt;/li&gt;\n&lt;li&gt;Evolve the builder into the best place to create beautiful, engaging experiences&lt;/li&gt;\n&lt;li&gt;Platformise the shared capabilities that power creation across current and future surfaces&lt;/li&gt;\n&lt;li&gt;Partner with Typeform AI to bring AI assisted design, content generation, translation, and creation workflows into the builder&lt;/li&gt;\n&lt;li&gt;Define how AI helps creators produce better work while maintaining a high quality, human experience&lt;/li&gt;\n&lt;li&gt;Lead complex platform investments and technical migrations alongside customer facing product development&lt;/li&gt;\n&lt;li&gt;Partner closely with engineering and design to balance product craft with technical complexity&lt;/li&gt;\n&lt;li&gt;Shape the long term vision for creation at Typeform and sequence investments against that strategy&lt;/li&gt;\n&lt;li&gt;Monitor advances across AI, design tools, creator platforms, and modern productivity software to identify new opportunities&lt;/li&gt;\n&lt;li&gt;Work cross functionally with engineering, design, research, marketing, customer success, and commercial teams&lt;/li&gt;\n&lt;li&gt;Leverage AI tools to accelerate discovery, analysis, prototyping, documentation, and decision making&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you already bring to the table&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A strategic product thinker with strong product instincts and high ownership&lt;/li&gt;\n&lt;li&gt;Experience building creation tools, editors, design products, or other customer facing platforms&lt;/li&gt;\n&lt;li&gt;Strong platform thinking and experience identifying shared capabilities that scale across multiple products or surfaces&lt;/li&gt;\n&lt;li&gt;A strong appreciation for product craft and user experience, with the ability to balance speed and quality&lt;/li&gt;\n&lt;li&gt;An AI native mindset, you actively build with LLMs and AI tools, and see AI as a fundamental shift in how products are built and experienced&lt;/li&gt;\n&lt;li&gt;Experience working closely with engineering on technically complex products, migrations, or platform investments&lt;/li&gt;\n&lt;li&gt;Comfort discussing trade offs around performance, reliability, scalability, and technical architecture&lt;/li&gt;\n&lt;li&gt;A customer first mindset with strong discovery skills and data informed decision making&lt;/li&gt;\n&lt;li&gt;Strong storytelling and communication skills that help align teams around a clear vision&lt;/li&gt;\n&lt;li&gt;A collaborative leadership style built on influence rather than authority&lt;/li&gt;\n&lt;li&gt;High agency with the ability to create clarity in ambiguous problem spaces&lt;/li&gt;\n&lt;li&gt;Strong product craft, including writing specifications, defining success metrics, and driving execution across multiple teams&lt;/li&gt;\n&lt;li&gt;Experience working effectively across distributed teams&lt;/li&gt;\n&lt;li&gt;A mindset of continuous learning, curiosity, and collaboration&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building products such as Figma, Canva, Notion, Webflow, Framer, Squarespace, or similar creation platforms&lt;/li&gt;\n&lt;li&gt;Experience platformising shared capabilities across multiple products&lt;/li&gt;\n&lt;li&gt;Experience launching AI assisted creation features in production&lt;/li&gt;\n&lt;li&gt;Experience with real time collaboration or modern editor architectures&lt;/li&gt;\n&lt;li&gt;Experience building multilingual or localisation products&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual\u2019s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind\u2014whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 19392,
+                        "name": "Product ",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 87938,
+                        "name": "Germany (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 84517,
+                        "name": "Ireland (Remote)",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 84519,
+                        "name": "Netherlands (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 89978,
+                        "name": "Portugal (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 75316,
+                        "name": "Spain (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    },
+                    {
+                        "id": 78531,
+                        "name": "United Kingdom (Remote) ",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 84513
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            }
+        ],
+        "meta": {
+            "total": 12
+        }
+    }
+}

@@ -1,0 +1,659 @@
+{
+    "company": "contentful",
+    "extracted_at": "2026-08-20T18:29:04.390453+00:00",
+    "data": {
+        "jobs": [
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7943185",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3427050,
+                "location": {
+                    "name": "New York, New York, United States"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": true,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "2002 Professional Services",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1HOWSopRbabQTcA0fLxOEHvfRGHIzjd-5BtzWroC465M/edit?usp=sharing",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "Denver (range: $83,000 - 98,000 - 113,000)\nNew York (range: $102,000 - 120,000 - 138,000)",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 7943185,
+                "updated_at": "2026-06-24T14:04:09-04:00",
+                "requisition_id": "R26_000161",
+                "title": "Associate Solution Architect, Professional Services",
+                "company_name": "Contentful",
+                "first_published": "2026-05-19T13:57:13-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;About the opportunity&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;Contentful Solution Architects are trusted advisors to technologists, developers, content creators, and product teams. As an Associate Solution Architect, you\u2019ll partner with international customers and digital agencies post-sale\u2014helping visionary brands turn ideas into scalable digital experiences.&lt;/p&gt;\n&lt;p&gt;This is a customer-facing consulting role, not a software development position. We\u2019re seeking consultants who guide commercial and mid-market customers through implementations and optimization, not engineers focused on hands-on development of production code.&lt;/p&gt;\n&lt;p&gt;You\u2019ll provide technical guidance, subject matter expertise, and strategic consultation to ensure projects succeed. This includes leading technical and editorial training, facilitating collaborative workshops, leading public office hours with Customers and Solution Partners, and guiding teams through basic architecture definition and design. Occasional travel (up to 25%) may be required for on-site engagements.&lt;/p&gt;\n&lt;p&gt;Beyond direct customer impact, you\u2019ll bring back insights that shape Contentful itself. Your first-hand knowledge of how organizations use our platform will provide real-world context to our Product Management and Engineering teams, influencing product direction and ensuring we build with customer needs in mind.&lt;/p&gt;\n&lt;h2&gt;What to expect?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Create and deliver technical enablement on product platform features to customers, as well as provide consultative advice &amp;amp; recommendations on specific implementation use cases.&lt;/li&gt;\n&lt;li&gt;Identify and propose solution designs for complex business problems based on customer discovery, leveraging support and guidance from senior team members as needed.&lt;/li&gt;\n&lt;li&gt;Keep abreast of Contentful product developments and synthesize these into best practices, workshops &amp;amp; enablement materials for our customers.&lt;/li&gt;\n&lt;li&gt;Create prototypes or code examples to facilitate customer onboarding and to support projects.&lt;/li&gt;\n&lt;li&gt;Maintain a foundational understanding of Contentful-related technologies and stay up to date with industry trends.&lt;/li&gt;\n&lt;li&gt;Continuously seek, synthesize, and communicate customer product feedback to our Product Management, Engineering, and Marketing teams.&lt;/li&gt;\n&lt;li&gt;Support engagement managers on quoting and scoping of SOWs.&lt;/li&gt;\n&lt;li&gt;Partner with Sales, Customer Success Managers, and Solution Engineers to ensure a successful customer experience with Contentful.&lt;/li&gt;\n&lt;li&gt;Continuously improve your professional skills through activities such as training, reading, and seeking mentorship.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Within Contentful, you\u2019ll collaborate closely with Technical Project Managers on customer implementations and partner cross-functionally with CSMs, Account Executives, Support, and Solution Engineers to ensure customer success. You\u2019ll be responsible for identifying and managing risks, and for adapting in real time to help customers overcome obstacles.&lt;/p&gt;\n&lt;p&gt;Your customer-facing experience will enable you to refine best practices and deliver opinionated, experience-based guidance. Beyond direct engagements, you\u2019ll have opportunities to contribute to Contentful\u2019s thought leadership\u2014whether through Voice of the Customer sessions with Product, writing blogs, leading workshops, or speaking at Contentful and industry events.&lt;/p&gt;\n&lt;h2&gt;What you need to be successful&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor\u2019s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.&lt;/li&gt;\n&lt;li&gt;1\u20133 years in a Solutions/Technical role (such as Solution Architect, Technical Consultant, Implementation Consultant, or Developer in a customer-facing context).&lt;/li&gt;\n&lt;li&gt;Consulting experience is preferred; candidates should be comfortable participating in technical discussions with both technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Strong presentation, interpersonal, and facilitation skills\u2014able to engage technical and non-technical audiences and contribute to discovery sessions and decision-making.&lt;/li&gt;\n&lt;li&gt;Well-organized, with the ability to manage multiple concurrent projects, meet deadlines, and thrive in a fast-paced environment.&lt;/li&gt;\n&lt;li&gt;Experience working with modern API-first, content management systems (such as Contentful, Contentstack, Sanity); exposure or awareness of legacy CMSs (such as Drupal, AEM, Sitecore) is a plus.&lt;/li&gt;\n&lt;li&gt;Foundational understanding of composable/MACH principles, headless CMS architecture, and best practices for building content-driven applications, with a willingness to deepen expertise on the job.&lt;/li&gt;\n&lt;li&gt;Passionate about well-structured content; understands the basics of content modeling and can explain why structure and reuse are important to both business and technical teams and how they work day to day.&lt;/li&gt;\n&lt;li&gt;Developer-level skills in JavaScript, ideally including experience with a modern front-end framework and/or Node.js; familiarity with other programming languages (such as Java, Python, .NET, PHP) is a plus.&lt;/li&gt;\n&lt;li&gt;Some hands-on experience with modern web technologies, such as React/Next.js or similar front-end frameworks, and working with REST and/or GraphQL APIs.&lt;/li&gt;\n&lt;li&gt;Familiarity with common web rendering approaches (server-side, client-side, static site generation) and modern frameworks (such as Next.js, Nuxt.js, Remix, Astro), or a strong interest in learning them.&lt;/li&gt;\n&lt;li&gt;Experience creating and delivering in-person and/or virtual workshops, training, or educational content is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What\u2019s in it for you?&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences.&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share in the success of our company.&lt;/li&gt;\n&lt;li&gt;Comprehensive healthcare package covering 100% of monthly health premiums for employees and 85% of costs for your dependents.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, sick days, compassion days for loss,&amp;nbsp; education days, and volunteer days.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Company paid parental leave&lt;/strong&gt; to care for and focus on your growing family.&lt;/li&gt;\n&lt;li&gt;Use your personal annual education budget to improve your skills and grow in your career.&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties.&lt;/li&gt;\n&lt;li&gt;An annual wellbeing stipend to care for your physical, financial, or emotional health.&lt;/li&gt;\n&lt;li&gt;A monthly communication stipend and phone hardware upgrade reimbursement.&lt;/li&gt;\n&lt;li&gt;New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;This position is not eligible for visa sponsorship. Applicants must be authorized to work without the need for visa sponsorship by the start date of employment.&lt;/p&gt;\n&lt;p&gt;Accepting applications until June 19th, 2026.&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p data-start=&quot;3996&quot; data-end=&quot;4097&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;This role will need to be conducted in a state in which we are currently registered to do business.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;em&gt;&lt;strong data-start=&quot;4446&quot; data-end=&quot;4476&quot;&gt;New York Salary Statement:&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;br data-start=&quot;4476&quot; data-end=&quot;4479&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;em&gt;The salary range displayed is specifically for those potential hires who will work or reside in the state of New York if selected for the role. Any offered salary is determined based on internal equity, internal salary ranges, market data/ranges, applicant&#39;s skills and prior relevant experience, certain degrees and certifications (e.g. JD/technology), for example.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;em&gt;This position is eligible for equity awards, annual bonuses, short- and long-term incentives, and program-specific awards, where applicable, in accordance with the terms of Contentful\u2019s variable compensation plans.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;OTE (includes base+commission): &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$102,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$138,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26775,
+                        "name": "Customer Experience",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 74273,
+                        "name": "Denver, CO",
+                        "location": "Denver, Colorado, United States",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7875317",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3427050,
+                "location": {
+                    "name": "Denver, Colorado, United States"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": true,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "2002 Professional Services",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1HOWSopRbabQTcA0fLxOEHvfRGHIzjd-5BtzWroC465M/edit?usp=sharing",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "Denver (range: $83,000 - 98,000 - 113,000)\nNew York (range: $102,000 - 120,000 - 138,000)",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 7875317,
+                "updated_at": "2026-06-24T14:04:09-04:00",
+                "requisition_id": "R26_000161",
+                "title": "Associate Solution Architect, Professional Services",
+                "company_name": "Contentful",
+                "first_published": "2026-05-19T13:57:12-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;About the opportunity&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;Contentful Solution Architects are trusted advisors to technologists, developers, content creators, and product teams. As an Associate Solution Architect, you\u2019ll partner with international customers and digital agencies post-sale\u2014helping visionary brands turn ideas into scalable digital experiences.&lt;/p&gt;\n&lt;p&gt;This is a customer-facing consulting role, not a software development position. We\u2019re seeking consultants who guide commercial and mid-market customers through implementations and optimization, not engineers focused on hands-on development of production code.&lt;/p&gt;\n&lt;p&gt;You\u2019ll provide technical guidance, subject matter expertise, and strategic consultation to ensure projects succeed. This includes leading technical and editorial training, facilitating collaborative workshops, leading public office hours with Customers and Solution Partners, and guiding teams through basic architecture definition and design. Occasional travel (up to 25%) may be required for on-site engagements.&lt;/p&gt;\n&lt;p&gt;Beyond direct customer impact, you\u2019ll bring back insights that shape Contentful itself. Your first-hand knowledge of how organizations use our platform will provide real-world context to our Product Management and Engineering teams, influencing product direction and ensuring we build with customer needs in mind.&lt;/p&gt;\n&lt;h2&gt;What to expect?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Create and deliver technical enablement on product platform features to customers, as well as provide consultative advice &amp;amp; recommendations on specific implementation use cases.&lt;/li&gt;\n&lt;li&gt;Identify and propose solution designs for complex business problems based on customer discovery, leveraging support and guidance from senior team members as needed.&lt;/li&gt;\n&lt;li&gt;Keep abreast of Contentful product developments and synthesize these into best practices, workshops &amp;amp; enablement materials for our customers.&lt;/li&gt;\n&lt;li&gt;Create prototypes or code examples to facilitate customer onboarding and to support projects.&lt;/li&gt;\n&lt;li&gt;Maintain a foundational understanding of Contentful-related technologies and stay up to date with industry trends.&lt;/li&gt;\n&lt;li&gt;Continuously seek, synthesize, and communicate customer product feedback to our Product Management, Engineering, and Marketing teams.&lt;/li&gt;\n&lt;li&gt;Support engagement managers on quoting and scoping of SOWs.&lt;/li&gt;\n&lt;li&gt;Partner with Sales, Customer Success Managers, and Solution Engineers to ensure a successful customer experience with Contentful.&lt;/li&gt;\n&lt;li&gt;Continuously improve your professional skills through activities such as training, reading, and seeking mentorship.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Within Contentful, you\u2019ll collaborate closely with Technical Project Managers on customer implementations and partner cross-functionally with CSMs, Account Executives, Support, and Solution Engineers to ensure customer success. You\u2019ll be responsible for identifying and managing risks, and for adapting in real time to help customers overcome obstacles.&lt;/p&gt;\n&lt;p&gt;Your customer-facing experience will enable you to refine best practices and deliver opinionated, experience-based guidance. Beyond direct engagements, you\u2019ll have opportunities to contribute to Contentful\u2019s thought leadership\u2014whether through Voice of the Customer sessions with Product, writing blogs, leading workshops, or speaking at Contentful and industry events.&lt;/p&gt;\n&lt;h2&gt;What you need to be successful&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor\u2019s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.&lt;/li&gt;\n&lt;li&gt;1\u20133 years in a Solutions/Technical role (such as Solution Architect, Technical Consultant, Implementation Consultant, or Developer in a customer-facing context).&lt;/li&gt;\n&lt;li&gt;Consulting experience is preferred; candidates should be comfortable participating in technical discussions with both technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;Strong presentation, interpersonal, and facilitation skills\u2014able to engage technical and non-technical audiences and contribute to discovery sessions and decision-making.&lt;/li&gt;\n&lt;li&gt;Well-organized, with the ability to manage multiple concurrent projects, meet deadlines, and thrive in a fast-paced environment.&lt;/li&gt;\n&lt;li&gt;Experience working with modern API-first, content management systems (such as Contentful, Contentstack, Sanity); exposure or awareness of legacy CMSs (such as Drupal, AEM, Sitecore) is a plus.&lt;/li&gt;\n&lt;li&gt;Foundational understanding of composable/MACH principles, headless CMS architecture, and best practices for building content-driven applications, with a willingness to deepen expertise on the job.&lt;/li&gt;\n&lt;li&gt;Passionate about well-structured content; understands the basics of content modeling and can explain why structure and reuse are important to both business and technical teams and how they work day to day.&lt;/li&gt;\n&lt;li&gt;Developer-level skills in JavaScript, ideally including experience with a modern front-end framework and/or Node.js; familiarity with other programming languages (such as Java, Python, .NET, PHP) is a plus.&lt;/li&gt;\n&lt;li&gt;Some hands-on experience with modern web technologies, such as React/Next.js or similar front-end frameworks, and working with REST and/or GraphQL APIs.&lt;/li&gt;\n&lt;li&gt;Familiarity with common web rendering approaches (server-side, client-side, static site generation) and modern frameworks (such as Next.js, Nuxt.js, Remix, Astro), or a strong interest in learning them.&lt;/li&gt;\n&lt;li&gt;Experience creating and delivering in-person and/or virtual workshops, training, or educational content is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What\u2019s in it for you?&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences.&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share in the success of our company.&lt;/li&gt;\n&lt;li&gt;Comprehensive healthcare package covering 100% of monthly health premiums for employees and 85% of costs for your dependents.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, sick days, compassion days for loss,&amp;nbsp; education days, and volunteer days.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Company paid parental leave&lt;/strong&gt; to care for and focus on your growing family.&lt;/li&gt;\n&lt;li&gt;Use your personal annual education budget to improve your skills and grow in your career.&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties.&lt;/li&gt;\n&lt;li&gt;An annual wellbeing stipend to care for your physical, financial, or emotional health.&lt;/li&gt;\n&lt;li&gt;A monthly communication stipend and phone hardware upgrade reimbursement.&lt;/li&gt;\n&lt;li&gt;New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;This position is not eligible for visa sponsorship. Applicants must be authorized to work without the need for visa sponsorship by the start date of employment.&lt;/p&gt;\n&lt;p&gt;Accepting applications until June 19th, 2026.&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p data-start=&quot;3996&quot; data-end=&quot;4097&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;This role will need to be conducted in a state in which we are currently registered to do business.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;em&gt;&lt;strong data-start=&quot;4446&quot; data-end=&quot;4476&quot;&gt;Colorado Salary Statement:&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;br data-start=&quot;4476&quot; data-end=&quot;4479&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;em&gt;The salary range displayed is specifically for those potential hires who will work or reside in the state of Colorado if selected for the role. Any offered salary is determined based on internal equity, internal salary ranges, market data/ranges, applicant&#39;s skills and prior relevant experience, certain degrees and certifications (e.g. JD/technology), for example.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;This position is eligible for equity awards, annual bonuses, short- and long-term incentives, and program-specific awards, where applicable, in accordance with the terms of Contentful\u2019s variable compensation plans.&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;OTE (includes base+commission):&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$83,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$113,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26775,
+                        "name": "Customer Experience",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 74273,
+                        "name": "Denver, CO",
+                        "location": "Denver, Colorado, United States",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7874826",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3426869,
+                "location": {
+                    "name": "London, England, United Kingdom"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": false,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "2301 Account Executives EMEA",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1vpCBB0m0PaAtS3P-eJfoV4U4ch7hymhj3teDrZ8bncw/edit?tab=t.0#heading=h.wsrav9t40psm",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "London",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 7874826,
+                "updated_at": "2026-06-24T14:04:26-04:00",
+                "requisition_id": "R26_000164",
+                "title": "Commercial Account Executive DACH (f/m/d)",
+                "company_name": "Contentful",
+                "first_published": "2026-05-05T13:09:00-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;About the opportunity&lt;/h2&gt;\n&lt;p&gt;As a Commercial Account Executive - DACH (f/m/d), you\u2019ll drive Contentful\u2019s growth by leading the end-to-end sales process with our top-tier clients. You\u2019ll be instrumental in driving adoption and engagement, finding new revenue opportunities, and creating customer enablement initiatives within a few named accounts.&amp;nbsp; You\u2019ll work closely with our partnership and customer success team to lead a consultative sales process, engaging with professional developers and business leaders in the DACH markets.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;This role will require you to be in our Central London office 4 times a week.&lt;/strong&gt;&lt;/p&gt;\n&lt;h2&gt;What to expect?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Self-generation of the pipeline through outbound motions in conjunction with marketing and partnership teams to help create new opportunities in regional accounts&lt;/li&gt;\n&lt;li&gt;Drive expansion opportunities with existing clients in the DACH (Germany, Austria &amp;amp; Switzerland) territory&lt;/li&gt;\n&lt;li&gt;Meet quarterly and annual sales goals by developing an account strategy and pipeline, managing internal and client processes, maintaining sales reports, developing market and competitor knowledge, delivering presentations to customers, and creating sales proposals&lt;/li&gt;\n&lt;li&gt;Manage RFI/RFQ requests with Contentful internal and customer teams&lt;/li&gt;\n&lt;li&gt;Refine and evolve our &quot;land-and-expand&quot; model in collaboration with Sales, Partnerships, and Customer Success teams&lt;/li&gt;\n&lt;li&gt;Seek to understand the digital experience challenges of prospects and clients while aligning the ROI of Contentful with those challenges to ensure a value-based selling approach&lt;/li&gt;\n&lt;li&gt;Work closely with Sales Engineers and Solution Architects to uncover technical challenges and opportunities&lt;/li&gt;\n&lt;li&gt;Develop innovative proposals, position complex pricing structures, and negotiate contracts and deal-closing requirements quickly and efficiently&lt;/li&gt;\n&lt;li&gt;Work closely with customer success &amp;amp; marketing teams to ensure that best practices of Contentful are shared and implemented at the respective customer&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What do you need to be successful?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience selling a technical platform working as a Sales Development Representative (SDR), Business Development Representative (BDR), and/or Account Executive&lt;/li&gt;\n&lt;li&gt;1+ years of individual quota-carrying experience&lt;/li&gt;\n&lt;li&gt;1+ years of growing and expanding existing customer accounts&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Demonstrated expertise in closing $20-80k+ opportunities&lt;/li&gt;\n&lt;li&gt;Ability to drive your own pipeline generation with outbound capabilities&lt;/li&gt;\n&lt;li style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;Fluent German language skills&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&amp;nbsp;&lt;strong&gt;Nice to have:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience working with Partner ecosystems to work with customers.&lt;/li&gt;\n&lt;li&gt;Understanding and experience working in product-led growth sales motions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What&#39;s in it for you?&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share in the success of our company&lt;/li&gt;\n&lt;li&gt;Comprehensive healthcare package, health/dental/vision care package covering 100% of monthly health premiums for employees and 85% of costs for your dependents&lt;/li&gt;\n&lt;li&gt;Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, sick days,&amp;nbsp; education days, compassion days for loss, and volunteer days&lt;/li&gt;\n&lt;li&gt;Time off to care for and focus on your growing family&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Use your personal annual education budget to improve your skills and grow in your career&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;An annual wellbeing stipend to care for your physical, financial, or emotional health&lt;/li&gt;\n&lt;li&gt;A monthly communication phone/internet stipend and phone hardware upgrade reimbursement&lt;/li&gt;\n&lt;li&gt;New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26774,
+                        "name": "Sales",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 98376,
+                        "name": "London, UK",
+                        "location": "London, England, United Kingdom",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/8050574",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3478557,
+                "location": {
+                    "name": "Dublin, Dublin, Ireland"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": true,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "4110 Engineering Management",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1EN1ojBQ3lQ4sQnSoA0E04B5giYcNny1aecK9nUiu0wA/edit?usp=sharing",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "London",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 8050574,
+                "updated_at": "2026-07-20T10:51:25-04:00",
+                "requisition_id": "R26_000183",
+                "title": "Engineering Manager - Content API (f/m/d)",
+                "company_name": "Contentful",
+                "first_published": "2026-07-08T10:57:09-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;About the Opportunity&lt;/h2&gt;\n&lt;p&gt;We are looking for an Engineering Manager to lead a high-performing, remote-first API development team based in Europe who are driving Contentful\u2019s REST and GraphQL APIs that enable customers to manage and deliver content at scale.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The role will focus on continuously evolving our platform with advanced observability, automation, and AI-driven capabilities. We aim to help customers accelerate innovation, reduce operational complexity, and unlock new growth opportunities through a secure, performant, and extensible API ecosystem.&lt;/p&gt;\n&lt;p&gt;You\u2019ll partner closely with cross-functional teams to ensure alignment between technical goals and business objectives, driving scalable, high-performance APIs that power Contentful\u2019s website and user experiences.&lt;/p&gt;\n&lt;h2&gt;What to expect?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;In this role you\u2019ll get to work closely with senior stakeholders across the business to understand business strategy &amp;amp; goals, and work with internal teams and external partners to ensure our technical architecture, tech stack and development strategy are aligned to drive success for our site visitors and internal site users, and deliver impact against business goals.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead and grow a globally-distributed API development team, ensuring a culture of high performance, collaboration, and continuous improvement. Mentor and develop team members across all levels.&lt;/li&gt;\n&lt;li&gt;Define the team roadmap, with a particular focus on reliable, intelligent, and developer-friendly APIs that seamlessly connect content, data, and AI. Be accountable for collaborating with Product and Design to craft the roadmap and ensuring its successful execution.&lt;/li&gt;\n&lt;li&gt;Work closely with stakeholders in Product, Design, Research,&amp;nbsp; Infrastructure, and Security to translate business needs into technical solutions.&lt;/li&gt;\n&lt;li&gt;Oversee the technical approach for integrating and scaling the platform&#39;s delivery and management APIs. Ensure that the architecture remains performant, secure, and scalable as user needs grow.&lt;/li&gt;\n&lt;li&gt;Guide the team through solutioning, coding, testing, and deployment. Ensure adherence to best practices in coding, architecture, and testing. Foster a collaborative, innovative development environment.&lt;/li&gt;\n&lt;li&gt;Hire and mentor junior and senior developers, promoting technical excellence and helping to build individual and team growth through hands-on leadership and ongoing feedback.&lt;/li&gt;\n&lt;li&gt;Oversee day-to-day development operations, ensuring that the team has the capacity to cover all technical tasks, maintenance, and new feature development, all while ensuring global coverage for continuous web operations.&lt;/li&gt;\n&lt;li&gt;Work with Product Managers to define, prioritize, and execute the roadmap, balancing user impact with business objectives. Ensure clear communication of goals, progress, and blockers to stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What you need to be successful&lt;/h2&gt;\n&lt;p&gt;We\u2019re looking for an enthusiastic Engineering Manager who is excited to build a cutting-edge web experience. To succeed in this role, you:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Have 5+ years of experience leading development teams,&lt;/strong&gt; with a track record of delivering complex, high-impact technical solutions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Are proficient in web technologies &lt;/strong&gt;(e.g., TypeScript, JavaScript, React, Node.js) and familiar with headless CMS platforms (preferably Contentful).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Excel at optimizing performance and scalability&lt;/strong&gt;, with experience handling complex content structures and large datasets.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Balance innovation with immediate impact&lt;/strong&gt;, overseeing technical delivery while driving team capabilities and capacity. You\u2019re eager to work with the latest technologies and products.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborate effectively across teams &lt;/strong&gt;(Product, Design, Data, Engineering), aligning technical work with business goals.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Have a strong mentoring track record, &lt;/strong&gt;fostering a culture of continuous learning, technical excellence, and quality within a distributed team.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Have a strong mentoring track record, &lt;/strong&gt;fostering a culture of continuous learning, technical excellence, and quality within a distributed team.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Embrace continuous learning&lt;/strong&gt;, staying up to date with industry trends and encouraging growth within your team.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with API-first platforms.&lt;/li&gt;\n&lt;li&gt;Familiarity with GraphQL&lt;/li&gt;\n&lt;li&gt;Knowledge of data privacy and security best practices in web technologies.&lt;/li&gt;\n&lt;li&gt;PostgreSQL knowledge, including designing, optimizing, and maintaining relational databases, with a focus on ensuring scalability, reliability, and performance of data-driven applications&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What\u2019s in it for you?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share in the success of our company&lt;/li&gt;\n&lt;li&gt;Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, sick days,&amp;nbsp; education days, compassion days for loss, and volunteer days&lt;/li&gt;\n&lt;li&gt;Time off to care for and focus on your growing family&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Use your personal annual education budget to improve your skills and grow in your career&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;An annual wellbeing stipend to care for your physical, financial, or emotional health&lt;/li&gt;\n&lt;li&gt;A monthly communication phone/internet stipend and phone hardware upgrade reimbursement.&lt;/li&gt;\n&lt;li&gt;New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26843,
+                        "name": "Engineering",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 98376,
+                        "name": "London, UK",
+                        "location": "London, England, United Kingdom",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/8023842",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3478557,
+                "location": {
+                    "name": "London, London, United Kingdom"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": true,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "4110 Engineering Management",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1EN1ojBQ3lQ4sQnSoA0E04B5giYcNny1aecK9nUiu0wA/edit?usp=sharing",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "London",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 8023842,
+                "updated_at": "2026-07-20T10:51:10-04:00",
+                "requisition_id": "R26_000183",
+                "title": "Engineering Manager - Content API (f/m/d)",
+                "company_name": "Contentful",
+                "first_published": "2026-06-24T06:43:09-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;About the Opportunity&lt;/h2&gt;\n&lt;p&gt;We are looking for an Engineering Manager to lead a high-performing, remote-first API development team based in Europe who are driving Contentful\u2019s REST and GraphQL APIs that enable customers to manage and deliver content at scale.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The role will focus on continuously evolving our platform with advanced observability, automation, and AI-driven capabilities. We aim to help customers accelerate innovation, reduce operational complexity, and unlock new growth opportunities through a secure, performant, and extensible API ecosystem.&lt;/p&gt;\n&lt;p&gt;You\u2019ll partner closely with cross-functional teams to ensure alignment between technical goals and business objectives, driving scalable, high-performance APIs that power Contentful\u2019s website and user experiences.&lt;/p&gt;\n&lt;h2&gt;What to expect?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;In this role you\u2019ll get to work closely with senior stakeholders across the business to understand business strategy &amp;amp; goals, and work with internal teams and external partners to ensure our technical architecture, tech stack and development strategy are aligned to drive success for our site visitors and internal site users, and deliver impact against business goals.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead and grow a globally-distributed API development team, ensuring a culture of high performance, collaboration, and continuous improvement. Mentor and develop team members across all levels.&lt;/li&gt;\n&lt;li&gt;Define the team roadmap, with a particular focus on reliable, intelligent, and developer-friendly APIs that seamlessly connect content, data, and AI. Be accountable for collaborating with Product and Design to craft the roadmap and ensuring its successful execution.&lt;/li&gt;\n&lt;li&gt;Work closely with stakeholders in Product, Design, Research,&amp;nbsp; Infrastructure, and Security to translate business needs into technical solutions.&lt;/li&gt;\n&lt;li&gt;Oversee the technical approach for integrating and scaling the platform&#39;s delivery and management APIs. Ensure that the architecture remains performant, secure, and scalable as user needs grow.&lt;/li&gt;\n&lt;li&gt;Guide the team through solutioning, coding, testing, and deployment. Ensure adherence to best practices in coding, architecture, and testing. Foster a collaborative, innovative development environment.&lt;/li&gt;\n&lt;li&gt;Hire and mentor junior and senior developers, promoting technical excellence and helping to build individual and team growth through hands-on leadership and ongoing feedback.&lt;/li&gt;\n&lt;li&gt;Oversee day-to-day development operations, ensuring that the team has the capacity to cover all technical tasks, maintenance, and new feature development, all while ensuring global coverage for continuous web operations.&lt;/li&gt;\n&lt;li&gt;Work with Product Managers to define, prioritize, and execute the roadmap, balancing user impact with business objectives. Ensure clear communication of goals, progress, and blockers to stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What you need to be successful&lt;/h2&gt;\n&lt;p&gt;We\u2019re looking for an enthusiastic Engineering Manager who is excited to build a cutting-edge web experience. To succeed in this role, you:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Have 5+ years of experience leading development teams,&lt;/strong&gt; with a track record of delivering complex, high-impact technical solutions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Are proficient in web technologies &lt;/strong&gt;(e.g., TypeScript, JavaScript, React, Node.js) and familiar with headless CMS platforms (preferably Contentful).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Excel at optimizing performance and scalability&lt;/strong&gt;, with experience handling complex content structures and large datasets.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Balance innovation with immediate impact&lt;/strong&gt;, overseeing technical delivery while driving team capabilities and capacity. You\u2019re eager to work with the latest technologies and products.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborate effectively across teams &lt;/strong&gt;(Product, Design, Data, Engineering), aligning technical work with business goals.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Have a strong mentoring track record, &lt;/strong&gt;fostering a culture of continuous learning, technical excellence, and quality within a distributed team.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Have a strong mentoring track record, &lt;/strong&gt;fostering a culture of continuous learning, technical excellence, and quality within a distributed team.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Embrace continuous learning&lt;/strong&gt;, staying up to date with industry trends and encouraging growth within your team.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Bonus:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with API-first platforms.&lt;/li&gt;\n&lt;li&gt;Familiarity with GraphQL&lt;/li&gt;\n&lt;li&gt;Knowledge of data privacy and security best practices in web technologies.&lt;/li&gt;\n&lt;li&gt;PostgreSQL knowledge, including designing, optimizing, and maintaining relational databases, with a focus on ensuring scalability, reliability, and performance of data-driven applications&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What\u2019s in it for you?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share in the success of our company&lt;/li&gt;\n&lt;li&gt;Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, sick days,&amp;nbsp; education days, compassion days for loss, and volunteer days&lt;/li&gt;\n&lt;li&gt;Time off to care for and focus on your growing family&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Use your personal annual education budget to improve your skills and grow in your career&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;An annual wellbeing stipend to care for your physical, financial, or emotional health&lt;/li&gt;\n&lt;li&gt;A monthly communication phone/internet stipend and phone hardware upgrade reimbursement.&lt;/li&gt;\n&lt;li&gt;New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26843,
+                        "name": "Engineering",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 98376,
+                        "name": "London, UK",
+                        "location": "London, England, United Kingdom",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7758598",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3399400,
+                "location": {
+                    "name": "Denver, Colorado, United States"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": null,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "5240 Revenue",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1YChozRo1W95Ks2PX-hF3eo29HbIewnHkIltgqBfxdRg/edit?tab=t.0#heading=h.l3r3v0cavgqr\nWaiting for Steve to give us access to his version - until then this is the one he accepted my edits to update req from Sr Manager to manager",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "Denver",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 7758598,
+                "updated_at": "2026-06-24T14:03:37-04:00",
+                "requisition_id": "R26_000123",
+                "title": "Manager/Senior Manager, Order to Cash",
+                "company_name": "Contentful",
+                "first_published": "2026-04-07T12:24:05-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;About the opportunity&lt;/h2&gt;\n&lt;p&gt;We are seeking a Manager Order-to-Cash (O2C) Operations to lead day to day -execution across order management (including provisioning), billing, credit, and collections.&lt;/p&gt;\n&lt;p&gt;This role plays a critical part in sustaining operational excellence while strengthening our O2C foundation to support continued scale. As transaction volume and enterprise complexity grow, this leader will ensure disciplined execution, protect working capital, and reinforce revenue governance standards.&lt;/p&gt;\n&lt;p&gt;This position reports to the Senior Director, Quote-to-Cash and serves as a key operational partner across Finance and Sales for O2C execution matters.&lt;/p&gt;\n&lt;h2&gt;What to expect?&lt;/h2&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;End-to-End O2C Operations&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead daily operations across order management, billing, credit, and collections.&lt;/li&gt;\n&lt;li&gt;Serve as the primary operational escalation point for O2C-related matters.&lt;/li&gt;\n&lt;li&gt;Ensure billing accuracy, disciplined credit evaluation, and effective collections performance.&lt;/li&gt;\n&lt;li&gt;Run structured operational reviews (aging, billing quality, SLA monitoring, exception management).&lt;/li&gt;\n&lt;li&gt;Identify and proactively resolve operational risks.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Working Capital &amp;amp; Performance Management&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own key O2C performance metrics including DSO, aging quality, dispute trends, and billing accuracy.&lt;/li&gt;\n&lt;li&gt;Monitor performance and support corrective actions to maintain strong cash flow&lt;/li&gt;\n&lt;li&gt;Strengthen billing frequency and payment term discipline in partnership with Sales and Deal Desk.&lt;/li&gt;\n&lt;li&gt;Support predictable cash flow through disciplined execution.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Cross-Functional Partnership &amp;amp; Governance&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with Deal Desk to ensure deals are operationally sound and executable.&lt;/li&gt;\n&lt;li&gt;Collaborate with cross-functional stakeholders (Finance, Sales, Rev Rec) to support GTM initiatives. Escalate structural issues appropriately while resolving operational matters independently.&lt;/li&gt;\n&lt;li&gt;Partner with cross-functional teams to support various Go-To-Market (GTM) initiatives within the O2C domain.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Tools, Automation &amp;amp; AI Enablement&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Support adoption and effective use of O2C tools (e.g., Klarity,CreditPulse,Tesorio)-&lt;/li&gt;\n&lt;li&gt;Identify and assess opportunities to leverage automation and AI within O2C workflows.&lt;/li&gt;\n&lt;li&gt;Support Zuora-related initiatives from an operational readiness and execution perspective.&amp;nbsp; Partner with systems teams on enhancements and process improvements.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Team Leadership&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead, coach, and develop a team of -3-4 analysts across order management/billing and credit/collections.&lt;/li&gt;\n&lt;li&gt;Solidify the newly created O2C team and build cross-training across the team.&lt;/li&gt;\n&lt;li&gt;Establish clear performance expectations and accountability standards.&lt;/li&gt;\n&lt;li&gt;Strengthen team capability to support increasing scale and complexity.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Scale &amp;amp; Continuous Improvement&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Improve operational scalability without proportional headcount growth.&lt;/li&gt;\n&lt;li&gt;Standardize processes and documentation to reduce friction and risk.&lt;/li&gt;\n&lt;li&gt;Contribute to ongoing improvements in O2C operations as business complexity evolves.-&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What you need to be successful?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Relevant experience in order-to-cash operations, including billing and/or credit &amp;amp; collections, within SaaS or subscription-based environments.&lt;/li&gt;\n&lt;li&gt;Strong operational discipline and working capital awareness.&lt;/li&gt;\n&lt;li&gt;Confidence engaging cross-functional stakeholders, including Sales.&lt;/li&gt;\n&lt;li&gt;A structured thinker with a bias toward execution and continuous improvement.&lt;/li&gt;\n&lt;li&gt;Experience leveraging operational tools and automation to drive efficiency.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Comfortable operating in a fast-growing, scaling environment.&lt;/p&gt;\n&lt;h2&gt;What&#39;s in it for you?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share in the success of our company&lt;/li&gt;\n&lt;li&gt;Comprehensive healthcare package covering 100% of monthly health premiums for employees and 85% of costs for your dependents.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, sick days, compassion days for loss,&amp;nbsp; education days, and volunteer days&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Company paid parental leave&lt;/strong&gt; to care for and focus on your growing family&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Use your personal annual education budget to improve your skills and grow in your career&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;An annual wellbeing stipend to care for your physical, financial, or emotional health&lt;/li&gt;\n&lt;li&gt;A monthly communication stipend and phone hardware upgrade reimbursement.&lt;/li&gt;\n&lt;li&gt;New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;em&gt;This role will need to be conducted in a state in which we are currently registered to do business. In addition, this position is &lt;/em&gt;&lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; eligible for visa sponsorship. Applicants must be authorized to work without the need for visa sponsorship by the start date of employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;This position is eligible for equity awards in accordance with the terms of Contentful\u2019s equity plans.&lt;/p&gt;\n&lt;p&gt;The application deadline is 06/07/2026&lt;/p&gt;\n&lt;p&gt;Colorado Salary Statement: The salary range displayed is specifically for those potential hires who will work or reside in the state of Colorado if selected for the role. Any offered salary is determined based on internal equity, internal salary ranges, market data/ranges, applicant&#39;s skills and prior relevant experience, certain degrees and certifications (e.g. JD/technology), for example.&lt;/p&gt;\n&lt;p&gt;Colorado Salary: $111,000- $150,000&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26846,
+                        "name": "Finance",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 74273,
+                        "name": "Denver, CO",
+                        "location": "Denver, Colorado, United States",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7874829",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3426870,
+                "location": {
+                    "name": "London, London, United Kingdom"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": false,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "2301 Account Executives EMEA",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1MkRJLzDPtldzM5pYNFcefYgp0rCd3ZspgWLY3KEd76s/edit?tab=t.0#heading=h.wsrav9t40psm",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "London",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 7874829,
+                "updated_at": "2026-06-24T14:04:30-04:00",
+                "requisition_id": "R26_000163",
+                "title": "Mid Market Account Executive - DACH (f/m/d)",
+                "company_name": "Contentful",
+                "first_published": "2026-05-05T16:56:13-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;&lt;strong&gt;About the opportunity&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a Mid Market Account Executive - DACH (f/m/d), you\u2019ll drive Contentful\u2019s growth by leading the end-to-end sales process with our top-tier clients. You\u2019ll be instrumental in driving adoption and engagement, finding new revenue opportunities, and creating customer enablement initiatives within a few named accounts.&amp;nbsp; You\u2019ll work closely with our partnership and customer success team to lead a consultative sales process by speaking to professional developers and business leaders in the DACH markets.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;This role will require you to be in our Central London office 2 or 3 times a week.&lt;/strong&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What to expect?&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Self-generation of the pipeline through outbound motions in conjunction with marketing and BDR teams to help create new opportunities in regional accounts&lt;/li&gt;\n&lt;li&gt;Drive expansion opportunities with existing clients in the DACH (Germany, Austria &amp;amp; Switzerland) territory.&lt;/li&gt;\n&lt;li&gt;Grow existing accounts by leveraging relationships and following our comprehensive \u201cland and expand\u201d sales model&lt;/li&gt;\n&lt;li&gt;Meet quarterly and annual sales goals by developing an account strategy and pipeline, managing internal and client processes, maintaining sales reports, developing market and competitor knowledge, delivering presentations to customers, and creating sales proposals&lt;/li&gt;\n&lt;li&gt;Manage RFI/RFQ requests with Contentful internal and customer teams&lt;/li&gt;\n&lt;li&gt;Refine and evolve our &quot;land-and-expand&quot; model in collaboration with Sales, Partnerships, and Customer Success teams&lt;/li&gt;\n&lt;li&gt;Seek to understand the digital experience challenges of prospects and clients while aligning the ROI of Contentful with those challenges to ensure a value-based selling approach&lt;/li&gt;\n&lt;li&gt;Work closely with Sales Engineers and Solution Architects to uncover technical challenges and opportunities&lt;/li&gt;\n&lt;li&gt;Develop innovative proposals, position complex pricing structures, and negotiate contracts and deal-closing requirements quickly and efficiently&lt;/li&gt;\n&lt;li&gt;Work closely with customer success &amp;amp; marketing teams to ensure that best practices of Contentful are shared and implemented at the respective customer&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What do you need to be successful?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience selling a technical platform working as a Sales Development Representative (SDR), Business Development Representative (BDR), and/or Account Executive&lt;/li&gt;\n&lt;li&gt;1+ years of individual quota-carrying experience&lt;/li&gt;\n&lt;li&gt;1+ years of growing and expanding existing customer accounts&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Demonstrated expertise in closing $60-100k+ opportunities&lt;/li&gt;\n&lt;li&gt;Ability to drive your own pipeline generation with outbound capabilities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&amp;nbsp;&lt;strong&gt;Nice to have:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience working with Partner ecosystems to work with customers.&lt;/li&gt;\n&lt;li&gt;Understanding and experience working in product-led growth sales motions&lt;/li&gt;\n&lt;li&gt;Native German language skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What&#39;s in it for you?&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share ownership and the success of our company&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, education days, and volunteer days&lt;/li&gt;\n&lt;li&gt;Access to our Employee Assistance Program (EAP) for information, support, discussion, and counseling for life\u2019s challenges&lt;/li&gt;\n&lt;li&gt;Use your personal education budget to improve your skills and grow in your career. Join a free German class or one of our many internal learning initiatives!&lt;/li&gt;\n&lt;li&gt;Use your physical fitness budget to get away from your desk and support your physical wellness&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A monthly phone/internet stipend and phone upgrade reimbursement after 2 years&lt;/li&gt;\n&lt;li&gt;Plus, Contentful socks! And other amazing swag as part of company events. Oh yeah!&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26774,
+                        "name": "Sales",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 98376,
+                        "name": "London, UK",
+                        "location": "London, England, United Kingdom",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7627279",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3365116,
+                "location": {
+                    "name": "London, England, United Kingdom"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": true,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "2400 Sales Engineering",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1GbHBxU8solvNWW_YG6BiqCuNQNQXRguJhZjpMi9AGY4/edit?usp=sharing",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "London",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 7627279,
+                "updated_at": "2026-06-24T14:02:34-04:00",
+                "requisition_id": "R26_000045",
+                "title": "Optimization Strategist (f/m/d)",
+                "company_name": "Contentful",
+                "first_published": "2026-03-17T11:04:20-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;&lt;strong&gt;About the opportunity&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is looking for a Optimization Strategist (&lt;a href=&quot;../../sdash/3371359&quot;&gt;f/m/d)&lt;/a&gt; to join our Field team a business-minded subject matter expert who can walk into a room with a VP of Digital or CMO, command the conversation, and turn optimization and experimentation ambitions into committed business goals.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This is a revenue-impacting Field role that sits at the intersection of subject matter expertise and solution selling. Whether you&#39;ve spent your career selling personalization platforms or you&#39;ve led optimization and experimentation programs inside a large enterprise and developed a sharp commercial instinct along the way \u2014 what matters is that you can walk into a complex sales cycle, earn credibility fast, and move opportunities forward. The right candidate brings a genuine point of view on optimization \u2014 how to prioritize it, how to measure it, and how to communicate the vision to leaders who are still figuring out where to start.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What to expect?&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;h4&gt;1. Solution Selling &amp;amp; Field Engagement&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with Account Executives to drive pipeline and move opportunities forward \u2014 bringing the optimization and experimentation credibility and executive presence that accelerates deals from interest to commitment.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;This role influences pipeline and revenue outcomes in partnership with AEs but does not carry an individual quota.&lt;/li&gt;\n&lt;li&gt;Lead discovery and strategy sessions with senior digital and marketing leaders, mapping business objectives to concrete use cases, content and audience strategies, data flows, and experimentation patterns that make the case for Contentful Personalization and Analytics.&lt;/li&gt;\n&lt;li&gt;Collaborate with Solution Engineers and Value Engineers to position Contentful Personalization within a customer&#39;s broader composable architecture \u2014 connecting the dots across CMSs, CDPs, CRMs, analytics platforms, AI models, and ecommerce.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;2.Optimization Strategy &amp;amp; Advisory&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;With deep domain expertise, guide prospects and customers through what a successful optimization and experimentation practice can look like \u2014 and what it takes organizationally to get there.&lt;/li&gt;\n&lt;li&gt;Conduct structured enterprise discovery to assess where customers are today, where they can realistically go, and how to prioritize use cases, audiences, and channels to show early value.&lt;/li&gt;\n&lt;li&gt;Advise on change management, governance models, operating structures, and organizational readiness \u2014 from experimentation processes to centers of excellence \u2014 that enable optimization and experimentation to scale across brands, regions, and teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;3. Thought Leadership &amp;amp; Field Intelligence&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Represent Contentful as a subject matter expert on optimization and experimentation strategy in customer conversations, at industry events, and in partner engagements&lt;/li&gt;\n&lt;li&gt;Bring structured field intelligence back to Product, GTM, and Marketing teams \u2014 surfacing patterns, gaps, and emerging trends that sharpen Contentful&#39;s positioning and roadmap.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What you need to be successful?&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;A genuine point of view on optimization, experimentation, and analytics \u2014 combined with the commercial instinct to generate interest, build internal champions, and drive deals forward.&lt;/li&gt;\n&lt;li&gt;Proven ability to engage C-suite and senior business leaders (CMO, CDO, CIO, Heads of Digital) and drive strategic investment decisions \u2014 whether through a sales cycle or an internal program.&lt;/li&gt;\n&lt;li&gt;Deep familiarity with optimization and personalization platforms, A/B testing, segmentation, and experimentation in enterprise contexts \u2014 whether gained from selling platforms (e.g., Optimizely, Adobe, VWO) or running programs at scale inside an enterprise organization.&lt;/li&gt;\n&lt;li&gt;5+ years in optimization, digital experience, or analytics leadership \u2014 or 3+ years in enterprise presales or digital strategy. Most candidates will be stronger in one track. What&#39;s non-negotiable is genuine optimization expertise paired with commercial drive.&lt;/li&gt;\n&lt;li&gt;Willingness to travel up to ~25%.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Highly Desired&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Direct experience selling or buying personalization and optimization platforms (e.g., Optimizely, Adobe Target, VWO, Dynamic Yield, Sitecore, or similar) \u2014 giving you a competitive and commercial frame of reference that&#39;s hard to replicate.&lt;/li&gt;\n&lt;li&gt;Technical awareness of MACH and composable architectures \u2014 sufficient to credibly connect Contentful&#39;s approach to the customer&#39;s existing stack without needing to go deep on implementation.&lt;/li&gt;\n&lt;li&gt;Familiarity with how AI, LLMs, and AEO/GEO influence personalization and optimization strategies.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What Success Looks Like&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Attached to and influenced close-won opportunities rates and ACV in the EMEA Enterprise and Strategic segments.&lt;/li&gt;\n&lt;li&gt;Delivered executive-level discovery and business case sessions that moved qualified opportunities from interest to active evaluation and successful close.&lt;/li&gt;\n&lt;li&gt;Established Contentful as a credible optimization and experimentation strategic partner \u2014 not just a CMS/DXP&amp;nbsp; \u2014 in customer conversations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What\u2019s in it for you?&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share in the success of our company&lt;/li&gt;\n&lt;li&gt;Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, sick days,&amp;nbsp; education days, compassion days for loss, and volunteer days&lt;/li&gt;\n&lt;li&gt;Time off to care for and focus on your growing family&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Use your personal annual education budget to improve your skills and grow in your career&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;An annual wellbeing stipend to care for your physical, financial, or emotional health&lt;/li&gt;\n&lt;li&gt;A monthly communication phone/internet stipend and phone hardware upgrade reimbursement.&lt;/li&gt;\n&lt;li&gt;New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26774,
+                        "name": "Sales",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 98376,
+                        "name": "London, UK",
+                        "location": "London, England, United Kingdom",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/contentful/jobs/7658593",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 3372261,
+                "location": {
+                    "name": "London, England, United Kingdom"
+                },
+                "metadata": [
+                    {
+                        "id": 9206164,
+                        "name": "Is this role part of our Hire Champion Initiative?",
+                        "value": false,
+                        "value_type": "yes_no"
+                    },
+                    {
+                        "id": 2430211,
+                        "name": "Team (cost center)",
+                        "value": "3600 Partner Management",
+                        "value_type": "single_select"
+                    },
+                    {
+                        "id": 14571614,
+                        "name": "Job Description Link",
+                        "value": "https://docs.google.com/document/d/1JE7RyR5_cDOqlNGK14ncAvAwPRzSWrgp_aPDwcGcRKc/edit?tab=t.0#heading=h.qrcy6em5wv3x",
+                        "value_type": "long_text"
+                    },
+                    {
+                        "id": 22674273,
+                        "name": "Job posting locations/Entities",
+                        "value": "London",
+                        "value_type": "long_text"
+                    }
+                ],
+                "id": 7658593,
+                "updated_at": "2026-06-24T14:03:09-04:00",
+                "requisition_id": "R26_000105",
+                "title": "Strategic Alliances Manager (f/m/d)",
+                "company_name": "Contentful",
+                "first_published": "2026-03-10T16:48:44-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;h2&gt;About the Opportunity&lt;/h2&gt;\n&lt;p&gt;Contentful is seeking a German-speaking Strategic Alliance Manager to lead our enterprise-aligned partnerships across the DACH region. In this role, you will drive strategic collaboration with a portfolio of global and regional agency and systems integrator partners, as well as leading regional agencies that play a critical role in enterprise digital transformation.&lt;/p&gt;\n&lt;p&gt;You will work in close alignment with enterprise sales leadership to identify, develop, and win strategic opportunities within key accounts, ensuring partners are embedded into account strategies and joint go-to-market motions. The role is responsible for translating Contentful\u2019s partner strategy into tangible outcomes: pipeline creation, enterprise deal influence, and scalable joint offerings.&lt;/p&gt;\n&lt;p&gt;This position requires a highly collaborative and entrepreneurial leader who can navigate complex enterprise environments, build trusted executive relationships with partners, and mobilise cross-functional teams across sales, marketing, product, and solution engineering.&lt;/p&gt;\n&lt;p&gt;As part of Contentful\u2019s partnerships organization, you will help extend the reach of our platform through a high-impact ecosystem that drives customer success, innovation, and enterprise growth.&lt;/p&gt;\n&lt;h2&gt;What to expect?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;A highly collaborative environment working closely with enterprise sales, solutions engineering, and partner leadership&lt;/li&gt;\n&lt;li&gt;The opportunity to shape Contentful\u2019s strategic partner ecosystem in one of our most important regions&lt;/li&gt;\n&lt;li&gt;A role with clear impact on enterprise growth, pipeline generation, and customer success&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Drive strategic partnerships in DACH&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own and develop relationships with a portfolio of global systems integrators and leading regional agency partners aligned to enterprise opportunities in the DACH region.&lt;/li&gt;\n&lt;li&gt;Serve as the primary liaison between partner organizations and Contentful\u2019s enterprise sales teams, ensuring strong alignment on account strategy and customer outcomes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Lead joint go-to-market strategy&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and execute joint go-to-market plans with strategic partners focused on enterprise customers.&lt;/li&gt;\n&lt;li&gt;Identify and activate new joint sales plays, industry solutions, and integrated offerings with partners.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Accelerate enterprise pipeline and revenue&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive partner-sourced and partner-influenced pipeline, contributing directly to SQL generation and ACV growth.&lt;/li&gt;\n&lt;li&gt;Lead account mapping and joint account planning with enterprise sales teams and partners.&lt;/li&gt;\n&lt;li&gt;Support partners in identifying new opportunities and positioning Contentful in large-scale transformation programmes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Build ecosystem momentum&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Work cross-functionally with partner marketing, product, and field teams to enable partners and activate strategic initiatives.&lt;/li&gt;\n&lt;li&gt;Champion partner engagement across the organization, ensuring Contentful teams leverage partners effectively in enterprise pursuits.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What do you need to be successful?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in enterprise partner management, alliances, or ecosystem development within a SaaS, digital platform, or agency/SI environment&lt;/li&gt;\n&lt;li&gt;Experience working with systems integrators, digital agencies, or consulting partners&lt;/li&gt;\n&lt;li&gt;Fluency in German and English&lt;/li&gt;\n&lt;li&gt;Strong understanding of enterprise digital platforms, ideally including martech, CMS, composable architecture, or commerce ecosystems&lt;/li&gt;\n&lt;li&gt;Demonstrated experience building and executing joint GTM strategies with partners&lt;/li&gt;\n&lt;li&gt;Track record of driving partner-sourced or partner-influenced enterprise pipeline&lt;/li&gt;\n&lt;li&gt;Experience with enterprise account planning and account mapping in collaboration with sales teams&lt;/li&gt;\n&lt;li&gt;Strong executive communication, presentation, and facilitation skills&lt;/li&gt;\n&lt;li&gt;Ability to navigate complex organizations and build trusted relationships across sales, marketing, product, and engineering&lt;/li&gt;\n&lt;li&gt;A strategic mindset with the ability to translate complex ecosystem opportunities into clear execution frameworks&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What&#39;s in it for you?&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Join an ambitious tech company reshaping the way people build digital experiences&lt;/li&gt;\n&lt;li&gt;Full-time employees receive Stock Options for the opportunity to share in the success of our company&lt;/li&gt;\n&lt;li&gt;Fertility and family building benefits, including a lifetime reimbursable wallet to support your growing family.&lt;/li&gt;\n&lt;li&gt;We value&lt;strong&gt; Work-Life balance &lt;/strong&gt;and&lt;strong&gt; You Time&lt;/strong&gt;!&lt;strong&gt; &lt;/strong&gt;A generous amount of paid time off, including vacation days, sick days,&amp;nbsp; education days, compassion days for loss, and volunteer days&lt;/li&gt;\n&lt;li&gt;Time off to care for and focus on your growing family&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Use your personal annual education budget to improve your skills and grow in your career&lt;/li&gt;\n&lt;li&gt;Enjoy a full range of virtual and in-person events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;An annual wellbeing stipend to care for your physical, financial, or emotional health&lt;/li&gt;\n&lt;li&gt;A monthly communication phone/internet stipend and phone hardware upgrade reimbursement.&lt;/li&gt;\n&lt;li&gt;New hire office equipment stipend for hybrid or distributed employees. Get the gear you need to work at your best.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who are we?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Contentful is a leading &lt;strong&gt;digital experience platform&lt;/strong&gt; that helps modern businesses meet the growing demand for engaging, personalized content at scale. By blending composability with native &lt;strong&gt;AI&lt;/strong&gt; capabilities, Contentful enables dynamic personalization, automated content delivery, and real-time experimentation, powering next-generation digital experiences across brands, regions, and channels for more than 4,200 organizations worldwide. More than &lt;strong&gt;700 people&lt;/strong&gt; from more than &lt;strong&gt;70 nations&lt;/strong&gt; contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver, San Francisco, London, New York, and distributed worldwide.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Everyone is welcome here!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;\u201cEveryone is welcome here\u201d&lt;/strong&gt; is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences, and we are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information, such as bank account numbers, identification numbers, etc, through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reach out to us at &lt;a href=&quot;mailto:security-esk@contentful.com&quot; target=&quot;_blank&quot;&gt;security-esk@contentful.com&lt;/a&gt; &lt;/em&gt;&lt;/span&gt;&lt;span style=&quot;color: #3e3e3e;&quot;&gt;&lt;em&gt;with any information you may have.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;By clicking \u201cApply for this job,\u201d I acknowledge that I have read the \u201c&lt;/span&gt;&lt;a href=&quot;https://www.contentful.com/legal/us/privacy-notice-to-candidates/privacy/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Contentful\u2019s Candidate Privacy Notice&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;\u201d and hereby consent to the collection, processing, use, and storage of my personal information as described therein.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 26773,
+                        "name": "Partnerships",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 98376,
+                        "name": "London, UK",
+                        "location": "London, England, United Kingdom",
+                        "child_ids": [],
+                        "parent_id": null
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            }
+        ],
+        "meta": {
+            "total": 9
+        }
+    }
+}

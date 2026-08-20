@@ -1,0 +1,871 @@
+{
+    "company": "starburst",
+    "extracted_at": "2026-08-20T18:29:03.468328+00:00",
+    "data": {
+        "jobs": [
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5119301008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": true,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4427532008,
+                "location": {
+                    "name": "Warsaw, Poland"
+                },
+                "metadata": null,
+                "id": 5119301008,
+                "updated_at": "2026-08-18T10:17:10-04:00",
+                "requisition_id": "TBD",
+                "title": "Application Security Engineer",
+                "company_name": "Starburst",
+                "first_published": "2026-02-17T13:00:06-05:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;About the Role:&lt;/h4&gt;\n&lt;p&gt;As a Security Engineer focused on Application and Product Security, you will play a key role in improving the security posture of our applications, services, and development ecosystem. You will work closely with engineering teams to integrate security into the software development lifecycle, build secure-by-default patterns, and ensure that products are resilient against modern threats. This role combines hands-on technical work, security engineering, and collaboration with developers to guide secure design and remediation. You will help implement security controls, perform assessments, and contribute to the continuous improvement of our security program.&lt;/p&gt;\n&lt;h4&gt;As an Application Security Engineer at Starburst you will:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Integrate application security best practices into the development lifecycle by partnering with engineering teams and enabling automated security checks within CI/CD pipelines.&lt;/li&gt;\n&lt;li&gt;Support and maintain Application Security based tooling\u2014including SAST, DAST, SCA, and secrets scanning\u2014and help developers interpret and remediate findings.&lt;/li&gt;\n&lt;li&gt;Conduct secure code reviews, threat modeling sessions, and application architecture assessments to identify risks and propose mitigation strategies.&lt;/li&gt;\n&lt;li&gt;Develop and maintain security automation, guardrails, and reusable components.&lt;/li&gt;\n&lt;li&gt;Assist in defining and improving secure coding standards and application hardening practices.&lt;/li&gt;\n&lt;li&gt;Support monitoring and detection efforts by helping improve application-level logging, telemetry, and alerting.&lt;/li&gt;\n&lt;li&gt;Assist in incident response activities related to application vulnerabilities, including verification, triage, and remediation support.&lt;/li&gt;\n&lt;li&gt;Stay current on emerging threats, vulnerabilities, and best practices in application and product security.&lt;/li&gt;\n&lt;li&gt;Contribute to documentation including security requirements, guidelines, and remediation playbooks.&lt;/li&gt;\n&lt;li&gt;Participate in internal security reviews, compliance-driven assessments, and architectural walkthroughs.&lt;/li&gt;\n&lt;li&gt;Develop and help maintain existing application security tools, pipelines, and workflows.&lt;/li&gt;\n&lt;li&gt;Collaborate with engineering and product teams to ensure secure deployment and continuous improvement of applications.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor\u2019s degree in Computer Science, Engineering, MIS, or equivalent practical experience.&lt;/li&gt;\n&lt;li&gt;2\u20135 years of experience in application security, product security, software engineering with a security focus, or a related technical role.&lt;/li&gt;\n&lt;li&gt;Strong understanding of application vulnerabilities and mitigation strategies (OWASP Top 10, CWE).&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD tooling, Git-based workflows, and modern development practices.&lt;/li&gt;\n&lt;li&gt;Familiarity with cloud security concepts and hands-on experience with at least one cloud platform (AWS, Azure, or GCP).&lt;/li&gt;\n&lt;li&gt;Experience with one or more programming languages such as Python, Go, Java, JavaScript/Typescript, or Ruby. (Java and Python preferred.)&lt;/li&gt;\n&lt;li&gt;Experience with application security tools such as OWASP ZAP, Burp Suite, SAST/DAST tools, SCA, or dependency scanning.&lt;/li&gt;\n&lt;li&gt;Knowledge of secure coding principles, API security, authentication, authorization, and secrets management.&lt;/li&gt;\n&lt;li&gt;Strong problem-solving skills and the ability to communicate technical issues clearly to developers and cross-functional stakeholders.&lt;/li&gt;\n&lt;li&gt;Understanding of agile development processes and working within engineering teams.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This role is based in our Warsaw office and follows a hybrid model, with an expectation of being onsite 1-2 days per week.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028075008,
+                        "name": "Engineering",
+                        "child_ids": [
+                            4028099008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023714008,
+                        "name": "Warsaw",
+                        "location": "Warszawa, Masovian Voivodeship, Poland",
+                        "child_ids": [],
+                        "parent_id": 4023712008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5119301008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5215641008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4323446008,
+                "location": {
+                    "name": "India "
+                },
+                "metadata": null,
+                "id": 5215641008,
+                "updated_at": "2026-08-18T10:17:11-04:00",
+                "requisition_id": "5033",
+                "title": " Engineering Site Lead ",
+                "company_name": "Starburst",
+                "first_published": "2026-05-11T07:55:36-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Role Overview&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for a senior engineering leader to anchor and shape Starburst&#39;s engineering presence in India. This is not a role for someone who optimizes a predefined org \u2014 it&#39;s for a builder and a business partner. The Director will help define what India engineering looks like, establish the right capabilities at the right time, and drive outcomes that matter to the company and its customers.&lt;/p&gt;\n&lt;p&gt;Starburst operates across hubs in San Francisco, Boston, and Warsaw. The India site will work most closely with Starburst&#39;s engineering hub in Warsaw \u2014 making that relationship a critical axis for the role \u2014 while also staying well-connected with teams in San Francisco and Boston.&lt;/p&gt;\n&lt;h2&gt;Key Responsibilities&lt;/h2&gt;\n&lt;h3&gt;Engineering Leadership &amp;amp; Execution&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead engineering efforts in India with a clear focus on outcomes \u2014 not headcount targets or activity metrics&lt;/li&gt;\n&lt;li&gt;Drive high-impact work in areas such as benchmark and upgrade testing, integration support, and other initiatives that extend Starburst&#39;s core platform capabilities&lt;/li&gt;\n&lt;li&gt;Partner with European and US counterparts to deliver on shared goals across time zones&lt;/li&gt;\n&lt;li&gt;Uphold and evolve engineering standards, delivery practices, and technical culture across India-based work&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Site &amp;amp; Org Building&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Define the shape of the India engineering org in collaboration with leadership \u2014 which capabilities to build, in what order, and how to grow sustainably&lt;/li&gt;\n&lt;li&gt;Own the local engineering culture: hiring bar, onboarding, retention, and community presence&lt;/li&gt;\n&lt;li&gt;Build Starburst&#39;s employer brand in India through industry engagement, meetups, and genuine presence in the local tech community&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Business &amp;amp; Customer Partnership&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Engage directly with enterprise customers in India and the broader region \u2014 in technical discussions, pre-sales, and escalations&lt;/li&gt;\n&lt;li&gt;Partner with Sales, Solutions Engineering, and Customer Success to translate customer needs into engineering priorities&lt;/li&gt;\n&lt;li&gt;Act as an owner of business outcomes, not just a delivery manager \u2014 understand what success means commercially and connect engineering work to it&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Cross-hub Collaboration&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Build a particularly strong working relationship with the Warsaw engineering hub \u2014 the team India will collaborate with most day-to-day \u2014 while maintaining strong ties with Boston and SF leadership&lt;/li&gt;\n&lt;li&gt;Ensure India teams are deeply integrated into the broader org \u2014 not treated as a remote extension, but as a core part of how Starburst builds&lt;/li&gt;\n&lt;li&gt;Surface opportunities, blockers, and org health signals proactively across the leadership team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;What We&#39;re Looking For&lt;/h2&gt;\n&lt;h3&gt;Must-haves&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years of overall engineering experience, with at least 5 years in engineering leadership&lt;/li&gt;\n&lt;li&gt;Proven track record of building engineering presence in India \u2014 ideally from an early, ambiguous stage&lt;/li&gt;\n&lt;li&gt;A genuine builder and partner mentality: excited by defining structure, not just running one&lt;/li&gt;\n&lt;li&gt;Hands-on background in distributed systems, data engineering, or adjacent domains (Python, Java, SQL, Spark \u2014 Trino/Presto a strong plus)&lt;/li&gt;\n&lt;li&gt;Strong ability to hire, grow, and retain senior engineers in a competitive India market&lt;/li&gt;\n&lt;li&gt;Experience engaging enterprise customers directly \u2014 comfortable representing engineering in commercial conversations&lt;/li&gt;\n&lt;li&gt;Strong cross-timezone and cross-cultural collaboration skills, particularly with European engineering teams&lt;/li&gt;\n&lt;li&gt;Open source community familiarity or engagement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice-to-haves&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in the data/analytics space (data lakehouse, query engines, cloud infrastructure)&lt;/li&gt;\n&lt;li&gt;Background at companies like Confluent, Databricks, Snowflake, Cloudera, or similar&lt;/li&gt;\n&lt;li&gt;Prior experience working alongside or extending teams based in Poland or Central/Eastern Europe&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What Good Looks Like&lt;/h2&gt;\n&lt;p&gt;The leadership team is looking for someone who sees themselves as a &lt;strong&gt;builder and a partner&lt;/strong&gt; \u2014 not a hiring machine. The right person:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Owns business outcomes&lt;/strong&gt; \u2014 understands what Starburst is trying to achieve commercially and engineers toward that, not toward a headcount plan&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Defines the work, doesn&#39;t just receive it&lt;/strong&gt; \u2014 collaborates with leadership to identify where India engineering can have the highest impact and shapes priorities accordingly&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Earns trust across hubs&lt;/strong&gt; \u2014 Warsaw, Boston, SF; builds relationships through presence, reliability, and quality of judgment, not org chart authority&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Moves with conviction in ambiguity&lt;/strong&gt; \u2014 makes good decisions without a complete picture, communicates clearly about uncertainty, and adjusts quickly&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Leads through influence as much as management&lt;/strong&gt; \u2014 as credible with a senior IC on a technical design as with a customer VP in a commercial discussion&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028075008,
+                        "name": "Engineering",
+                        "child_ids": [
+                            4028099008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023723008,
+                        "name": "India",
+                        "location": null,
+                        "child_ids": [
+                            4023724008
+                        ],
+                        "parent_id": 4023722008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5215641008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5386733008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4530801008,
+                "location": {
+                    "name": "India"
+                },
+                "metadata": null,
+                "id": 5386733008,
+                "updated_at": "2026-08-18T10:17:13-04:00",
+                "requisition_id": "5074",
+                "title": "Onboarding Engineer - Presales",
+                "company_name": "Starburst",
+                "first_published": "2026-08-17T11:55:49-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a presales onboarding engineer,&lt;strong&gt; &lt;/strong&gt;you will be a member of the global strategic team in a highly cross functional role working in a customer facing capacity during evaluations and on strategic team projects and initiatives.&amp;nbsp; You will have the exciting opportunity to build our customer base while working with the presales, sales, professional services teams. You will be responsible for the successful deployment and configuration of the product as part of validation testing.&amp;nbsp; In this customer-facing and highly technical role, you will work directly with our customers to ensure their success with Starburst\u2019s product offering. You will partner with field sales and technical presales representatives to technically troubleshoot deployments and ensure the successful completion of winning the technical aspects of the campaign.&amp;nbsp; Responsibilities include working with customers running proofs of value, providing guidance for migration from legacy platforms, assistance with customers moving to production execution of strategic team projects.&amp;nbsp; Onboarding engineers are Starburst experts who will provide technical leadership and project consultation.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Presales Onboarding Engineer at Starburst you will:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Assist in the execution of customer proof of concept studies&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;Be an expert in our products and services&lt;/li&gt;\n&lt;li&gt;Act as a consultant and expert on architecture, deployment, and design discussions&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Consult with professional services on post sales deployments and onboarding&lt;/li&gt;\n&lt;li&gt;Act as a customer-facing technical resource during technology evaluations&lt;/li&gt;\n&lt;li&gt;Provide product feedback for internal product engineering discussions&lt;/li&gt;\n&lt;li&gt;Design and execute on strategic team projects and initiatives&lt;/li&gt;\n&lt;li&gt;Collaborate with Engineering and Support teams for critical customer operational issues and questions&lt;/li&gt;\n&lt;li&gt;Develop field best practices, how-to documents, and contribute to our internal knowledge base&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Expertise or Experience in one or more of the following technical areas: Analytical and problem-solving skills, ANSI SQL, UNIX/Linux CLI interactions, Data Warehouse usage and concepts, Private/Public Cloud Deployments,&amp;nbsp; Big Data Technologies: Hadoop, distributed systems and storage&lt;/li&gt;\n&lt;li&gt;Expertise with kubernetes platforms like EKS,AKS, GKE and Openshift.&lt;/li&gt;\n&lt;li&gt;Experience in customer-facing technical roles&lt;/li&gt;\n&lt;li&gt;Prior experience with trino or presto is desirable&lt;/li&gt;\n&lt;li&gt;Strong communication skills and an ability to respond dynamically to questions in real-time&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written communication skills&lt;/li&gt;\n&lt;li&gt;Desire to work in a fast-paced startup environment with cutting-edge technologies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028087008,
+                        "name": "Presales",
+                        "child_ids": [],
+                        "parent_id": 4080374008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023724008,
+                        "name": "Remote - India",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 4023723008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5386733008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5374995008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4524840008,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5374995008,
+                "updated_at": "2026-08-18T10:17:12-04:00",
+                "requisition_id": "2553",
+                "title": "Sales Development Representative ",
+                "company_name": "Starburst",
+                "first_published": "2026-07-30T09:24:00-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;We are looking for top performers who can match Starburst Data\u2019s leading product offering with the right customer. While working with an all-star sales team at our fast paced growth company, you should be curious and have a basic understanding of our offerings. We will provide you with the training and support you need to be the best.You revel in the day to day details while maintaining a clear understanding of the big picture, effortlessly directing your sales efforts to our Account Executives.This position is a fantastic opportunity for a candidate eager to kickstart their career in software sales.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;As a Sales Development Representative at Starburst you will:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Reach out to prospective customers with a well-researched hypothesis on how we can solve their pain&lt;/li&gt;\n&lt;li&gt;Meticulously track and nurture your outbound activity&lt;/li&gt;\n&lt;li&gt;Nimbly interact with potential customers through various points of contact including attending in person meetings, trainings, and trade shows with confidence and ease&lt;/li&gt;\n&lt;li&gt;Learn the basics of prospecting and discovery to help jumpstart your career in salesMeet and exceed monthly, quarterly, and annual lead generation quotas&lt;/li&gt;\n&lt;li&gt;Outbound prospecting through email, phone calls, and social media to schedule meetings for the Sales team&lt;/li&gt;\n&lt;li&gt;Qualify leads and assess their needs to determine if they are a good fit for Starburst Data&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Have an innate curiosity about how data is changing the world&lt;/li&gt;\n&lt;li&gt;Enjoy a challenge and getting out of your comfort zone to aid in your personal and professional development/growth&lt;/li&gt;\n&lt;li&gt;Adeptly prioritize and reprioritize based on the evolving demands of other departments&lt;/li&gt;\n&lt;li&gt;Thrive in the unknown \u2013 and have a track record to prove it&lt;/li&gt;\n&lt;li&gt;Examples of where you have displayed your passion and perseverance to accomplish a long term goal&lt;/li&gt;\n&lt;li&gt;You want a career in sales and see this as an excellent way to learn and prove yourself&lt;/li&gt;\n&lt;li&gt;Business Acumen - you have built this through academic or professional experiences&lt;/li&gt;\n&lt;li&gt;You are an Entrepreneur at heart&lt;/li&gt;\n&lt;li&gt;Ability to Travel: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;We are headquartered in the financial district of Boston MA. This role is a hybrid model and therefore 4-5 days a week will be expected to be in the Boston office.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$50,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$60,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028085008,
+                        "name": "Sales Development",
+                        "child_ids": [],
+                        "parent_id": 4028070008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023704008,
+                        "name": "Boston, MA",
+                        "location": "Boston, Massachusetts, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5374995008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5382974008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4528934008,
+                "location": {
+                    "name": "San Francisco "
+                },
+                "metadata": null,
+                "id": 5382974008,
+                "updated_at": "2026-08-18T10:53:42-04:00",
+                "requisition_id": "2327",
+                "title": "Senior Enterprise Account Executive",
+                "company_name": "Starburst",
+                "first_published": "2026-08-18T10:53:42-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Senior Enterprise Account Executive at Starburst is a quota carrying, software sales position responsible for meeting and exceeding goals through generating and closing new opportunities while increasing awareness of Starburst in the marketplace. We are looking for motivated, focused, and coachable sales professionals with experience across the full spectrum of the software sales cycle \u2013 prospecting, defining, and articulating value proposition, pilot process management, business case development, negotiation, and closing.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As an Senior Enterprise Account Executive at Starburst you will&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive new business opportunities for selling Starburst software and services engagements within assigned territory&lt;/li&gt;\n&lt;li&gt;Develop and implement a sales strategy against assigned territory and/or targeted list of customers&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Develop a deep understanding of, and effectively articulate, the Starburst offering and value proposition in the market&lt;/li&gt;\n&lt;li&gt;Constantly focused on pipeline generation within the territory to ensure long term success&lt;/li&gt;\n&lt;li&gt;Interact with and leverage the Channel and Alliance partner community to find new opportunities and drive existing deals to close&lt;/li&gt;\n&lt;li&gt;Manage opportunities through the sales cycle from initial inquiry to forecasted pipeline to deal design and close&lt;/li&gt;\n&lt;li&gt;Meet quarterly and annual revenue objectives for your territory&lt;/li&gt;\n&lt;li&gt;Provide continuous updates on all active accounts and report on sales, activities, status, and progress on a regular basis (via CRM, webex or in-person)&lt;/li&gt;\n&lt;li&gt;Maintain a high level of customer satisfaction and reference-ability&lt;/li&gt;\n&lt;li&gt;Travel for client visits and presentations&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of progressive SaaS software sales experience to companies&lt;/li&gt;\n&lt;li&gt;Track record of success in closing business in mid to large accounts with complex buying processes&lt;/li&gt;\n&lt;li&gt;Excellent negotiation, analytical, financial, and organizational capabilities. Able to thrive in an evolving, entrepreneurial structure and environment&lt;/li&gt;\n&lt;li&gt;Outstanding verbal and written communication skills&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ability to work at both a tactical and strategic level&lt;/li&gt;\n&lt;li&gt;Must possess a can-do, self-starter mentality in a highly collaborative atmosphere&lt;/li&gt;\n&lt;li&gt;Have experience working in high growth early-stage companies&lt;/li&gt;\n&lt;li&gt;Data analytics software experience&lt;/li&gt;\n&lt;li&gt;Business intelligence software experience&lt;/li&gt;\n&lt;li&gt;Database/data warehousing platforms experience&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Remote - Los Angeles, San Diego, or San Francisco&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$150,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$175,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028082008,
+                        "name": "Enterprise Sales",
+                        "child_ids": [],
+                        "parent_id": 4028070008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4048853008,
+                        "name": "San Francisco, CA",
+                        "location": "San Francisco, California, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5382974008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5238085008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4483315008,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5238085008,
+                "updated_at": "2026-08-19T09:04:10-04:00",
+                "requisition_id": "4000",
+                "title": "Senior Enterprise Account Executive, East ",
+                "company_name": "Starburst",
+                "first_published": "2026-06-04T11:08:24-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;\n&lt;h4&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;The Senior Enterprise Account Executive at Starburst is a quota carrying, enterprise software sales position responsible for meeting and exceeding goals through generating and closing new opportunities while increasing awareness of Starburst in the marketplace. We are looking for motivated, focused, and coachable sales professionals with experience across the full spectrum of the software sales cycle \u2013 prospecting, defining, and articulating value proposition, pilot process management, business case development, negotiation, and closing.&lt;/p&gt;\n&lt;h4&gt;As a Senior Enterprise Account Executive at Starburst you will:&amp;nbsp;&amp;nbsp;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive new business opportunities for selling Starburst software and services engagements within assigned territory&lt;/li&gt;\n&lt;li&gt;Develop and implement a sales strategy against assigned territory and/or targeted list of customers&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Develop a deep understanding of, and effectively articulate, the Starburst offering and value proposition in the market&lt;/li&gt;\n&lt;li&gt;Constantly focused on pipeline generation within the territory to ensure long term success&lt;/li&gt;\n&lt;li&gt;Interact with and leverage the Channel and Alliance partner community to find new opportunities and drive existing deals to close&lt;/li&gt;\n&lt;li&gt;Manage opportunities through the sales cycle from initial inquiry to forecasted pipeline to deal design and close&lt;/li&gt;\n&lt;li&gt;Meet quarterly and annual revenue objectives for your territory&lt;/li&gt;\n&lt;li&gt;Provide continuous updates on all active accounts and report on sales, activities, status, and progress on a regular basis (via CRM, webex or in-person)&lt;/li&gt;\n&lt;li&gt;Maintain a high level of customer satisfaction and reference-ability&lt;/li&gt;\n&lt;li&gt;Travel for client visits and presentations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of progressive SaaS software sales experience to companies&lt;/li&gt;\n&lt;li&gt;Track record of success in closing business in large complex enterprise accounts&lt;/li&gt;\n&lt;li&gt;Excellent negotiation, analytical, financial, and organizational capabilities. Able to thrive in an evolving, entrepreneurial structure and environment&lt;/li&gt;\n&lt;li&gt;Outstanding verbal and written communication skills&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ability to work at both a tactical and strategic level&lt;/li&gt;\n&lt;li&gt;Must possess a can-do, self-starter mentality in a highly collaborative atmosphere&lt;/li&gt;\n&lt;li&gt;Have experience working in high growth early-stage companies&lt;/li&gt;\n&lt;li&gt;Data analytics software experience&lt;/li&gt;\n&lt;li&gt;Business intelligence software experience&lt;/li&gt;\n&lt;li&gt;Database/data warehousing platforms experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;East Coast&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div class=&quot;job__pay-ranges&quot;&gt;\n&lt;div class=&quot;pay-range&quot;&gt;\n&lt;div class=&quot;description&quot;&gt;\n&lt;div class=&quot;body&quot;&gt;\n&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$150,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$175,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028082008,
+                        "name": "Enterprise Sales",
+                        "child_ids": [],
+                        "parent_id": 4028070008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023704008,
+                        "name": "Boston, MA",
+                        "location": "Boston, Massachusetts, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5238085008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5153031008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4443217008,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5153031008,
+                "updated_at": "2026-08-18T10:17:11-04:00",
+                "requisition_id": "2390",
+                "title": "Senior Product Manager, Data Federation",
+                "company_name": "Starburst",
+                "first_published": "2026-03-16T09:06:05-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The lakehouse-only bet, bring your data into one lake, bring a fast engine to query it there, held up for years. It doesn&#39;t anymore. Agents don&#39;t sit inside one lake and wait their turn. They reason across the whole estate, firing off queries at production speed, and they generate new questions mid-reasoning based on what they just found. You can&#39;t materialize a view for a query that didn&#39;t exist five seconds ago.&lt;/p&gt;\n&lt;p&gt;We&#39;re seeking a Senior Product Manager to lead Starburst&#39;s federation strategy. Your primary focus is finding and delivering the product functionality that wins the next generation of workloads where querying data in place, across every system an agent might need to reach, is the deciding factor over consolidating it first.&lt;/p&gt;\n&lt;p&gt;That means owning how Starburst federates across the ecosystem, staying ahead of what AI agents actually demand from a data platform and watching the competitive field closely enough to make prioritization decisions.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work alongside the Managed Icehouse and Compute Engine PMs, plus engineering and go-to-market, to set the federation vision and drive it through execution.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As Senior Product Manager, Data Federation at Starburst you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Identify and make the case for the next set of workloads, human-driven or agent-led, where federating across sources beats consolidating them, especially as agent reasoning outruns what any single lake can hold&lt;/li&gt;\n&lt;li&gt;Define what agents actually need from data infrastructure beyond access: a way to signal partial visibility instead of returning a confident, complete-sounding answer built on whatever it could see&lt;/li&gt;\n&lt;li&gt;Define how Starburst&#39;s federation layer interoperates with the catalog implementations customers actually run, Polaris, Glue, Unity Catalog, Snowflake Open Catalog, and others, rather than betting on a single one&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;6+ years as a Product Manager, with real ownership of a technical infrastructure or data platform product&lt;/li&gt;\n&lt;li&gt;Real exposure to federated query or data virtualization. You understand why &quot;query everything without moving it&quot; solves a core data engineering problem and isn&#39;t just a marketing line&lt;/li&gt;\n&lt;li&gt;A clear point of view on why precomputation and materialized views break under agentic workloads, and what a data platform needs to do instead when queries are generated mid-reasoning rather than scheduled&lt;/li&gt;\n&lt;li&gt;Experience managing lakehouse product offerings and their ecosystems&lt;/li&gt;\n&lt;li&gt;A plus, experience with query engines (Trino) that federate across heterogeneous sources, and how table format and catalog design affect performance and reliability&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Remote, US &lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$180,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$215,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028074008,
+                        "name": "Product",
+                        "child_ids": [
+                            4028095008,
+                            4028094008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023704008,
+                        "name": "Boston, MA",
+                        "location": "Boston, Massachusetts, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5153031008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5252943008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4488462008,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5252943008,
+                "updated_at": "2026-08-18T10:17:12-04:00",
+                "requisition_id": "2045",
+                "title": "Senior Product Manager - Identity and Access Management",
+                "company_name": "Starburst",
+                "first_published": "2026-06-12T11:29:02-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are seeking a customer-driven Senior Product Manager to own Starburst&#39;s identity and access management capabilities.&lt;/p&gt;\n&lt;p&gt;Your primary focus will be to deliver product functionality that empowers customers \u2014 and their AI agents \u2014 to manage and enforce data access policies across human identities, machine principals, and agentic workloads, through both native and partner solutions.&lt;/p&gt;\n&lt;p&gt;You will collaborate closely with other product managers, engineering, and go-to-market teams to define the product vision, prioritize features, and guide execution. Success in this role means aligning product strategy with business goals, championing the voice of the customer, and driving customer growth by ensuring the product meets security, compliance, and enterprise-grade access governance requirements \u2014 including emerging requirements around AI agent entitlements and non-human principal management.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Senior Product Manager at Starburst you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and deliver on a roadmap that balances the needs of customers and internal teams with clear prioritization based on data driven customer insights.&lt;/li&gt;\n&lt;li&gt;Collaborate with teams globally across multiple time zones and operate in an Agile development environment.&lt;/li&gt;\n&lt;li&gt;Deeply empathize with and understand Starburst personas.&lt;/li&gt;\n&lt;li&gt;Own cross-functional interactions for your features.&lt;/li&gt;\n&lt;li&gt;Collect and summarize usage data/dashboards for decision making and OKR tracking.&lt;/li&gt;\n&lt;li&gt;Define and own the product strategy for IAM, RBAC, and entitlements \u2014 covering both human identity and role-based access and machine/agent identity and access patterns.&lt;/li&gt;\n&lt;li&gt;Partner with platform and security teams on the access audit trail and observability roadmap \u2014 contributing product requirements for visibility into who accessed what data, when, and from where across federated sources, to support enterprise compliance and regulatory requirements.&lt;/li&gt;\n&lt;li&gt;Contribute to InfoSec readiness planning, translating enterprise compliance requirements into product input and helping ensure Starburst&#39;s access governance capabilities meet the bar required by regulated industries.&lt;/li&gt;\n&lt;li&gt;Partner closely with the data products and semantic layer team to ensure access policies are consistently enforced and propagated across governed data products.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years experience as a Product Manager or Technical Product Manager.&lt;/li&gt;\n&lt;li&gt;Experience managing Lakehouse product offerings and their ecosystems (catalogs, permissions, metadata, and access governance frameworks).&lt;/li&gt;\n&lt;li&gt;Deep understanding of identity and access management concepts \u2014 including RBAC, ABAC, OAuth, OIDC, OPA, and SCIM \u2014 and how those apply in distributed data environments, including emerging patterns around AI agent identity, machine-to-machine authentication, and non-human principal access.&lt;/li&gt;\n&lt;li&gt;Experience working with or alongside InfoSec, compliance, or security teams to translate enterprise security requirements into product capabilities.&lt;/li&gt;\n&lt;li&gt;Proven ability to operate in a highly technical product area where trade-off choices consider engine performance and span multiple product areas.&lt;/li&gt;\n&lt;li&gt;Deep understanding of the technical landscape and markets preferred (well versed in databases, data warehousing, data lakes, and familiarity with many of the data infrastructure products in industry).&lt;/li&gt;\n&lt;li&gt;Entrepreneurial and self motivated personality with a track record for delivering results in fast-moving environments.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Remote, US &lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$180,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$210,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028074008,
+                        "name": "Product",
+                        "child_ids": [
+                            4028095008,
+                            4028094008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023704008,
+                        "name": "Boston, MA",
+                        "location": "Boston, Massachusetts, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5252943008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5218575008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4350269008,
+                "location": {
+                    "name": "India"
+                },
+                "metadata": null,
+                "id": 5218575008,
+                "updated_at": "2026-08-18T10:17:12-04:00",
+                "requisition_id": "2322",
+                "title": "Senior Software Engineer",
+                "company_name": "Starburst",
+                "first_published": "2026-05-13T08:28:07-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Senior Software Engineer on the fully distributed Starburst Galaxy Reliability, Scalability, &amp;amp; Efficiency team, you\u2019ll own the reliability, scalability and efficiency (performance/$) of Starburst Galaxy IaaS/SaaS as we grow. You will help design and build core infrastructure around Trino of the Galaxy Product itself, as well as build \u201cthe machine that builds the machine\u201d that is used to operate our SaaS at scale. Daily tasks will include developing the backend infrastructure related to product features, building operational tooling, supporting our product in production, and driving collaboration with various stakeholders around the reliability, scalability and efficiency of Starburst Galaxy.&lt;/p&gt;\n&lt;p&gt;On the &lt;strong&gt;Core Infrastructure&lt;/strong&gt; team, you will ensure the reliability and scalability of the Starburst Galaxy infrastructure as we grow to meet the demands of our customers. You\u2019ll own the apis for provisioning and upgrading cloud infrastructure across AWS, Azure &amp;amp; GCP.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;On the &lt;strong&gt;Delivery &amp;amp; Enablement&lt;/strong&gt; team, you will enable the engineering organization to iterate on Galaxy confidently with maximum velocity, and minimum disruption.&amp;nbsp; You\u2019ll own everything from continuous delivery to the tooling to provision and maintain developer environments.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;On the &lt;strong&gt;Observability&lt;/strong&gt; team, you will provide comprehensive tooling, and the underlying infrastructure primitives, for the introspection and administration of the Starburst Galaxy product. This requires modifying both Trino and Starburst Galaxy services to maximize introspection while owning infrastructure that ensures that relevant data is surfaced in an accessible way to both internal and external customers.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Senior Software Engineer you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and optimize the reliability, scalability, and efficiency of Starburst Galaxy service&lt;/li&gt;\n&lt;li&gt;Design and build the core operational infrastructure of the Starburst Galaxy service following the immutable cloud infrastructure paradigm&lt;/li&gt;\n&lt;li&gt;Continuously improve our engineering processes, tests, and systems that allow us to scale the code base and productivity of the team&lt;/li&gt;\n&lt;li&gt;Provide considerate and timely review of your peers&#39; pull requests and design proposals&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for :&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Passion for software engineering, an interest in Infrastructure Engineering in particular&lt;/li&gt;\n&lt;li&gt;Cloud infrastructure architecture and orchestration experience&lt;/li&gt;\n&lt;li&gt;Experience developing software in Java and Typescript&lt;/li&gt;\n&lt;li&gt;Experience with infrastructure as code and related tooling such as Pulumi or Terraform&lt;/li&gt;\n&lt;li&gt;Prior experience in developing for or operating Trino is a huge plus&lt;/li&gt;\n&lt;li&gt;Demonstration of ownership, grit, and bias for action - core values at Starburst&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require occasional in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028075008,
+                        "name": "Engineering",
+                        "child_ids": [
+                            4028099008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023723008,
+                        "name": "India",
+                        "location": null,
+                        "child_ids": [
+                            4023724008
+                        ],
+                        "parent_id": 4023722008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5218575008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5361682008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4518407008,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5361682008,
+                "updated_at": "2026-08-18T10:17:12-04:00",
+                "requisition_id": "2368",
+                "title": "Senior Software Engineer, Connectors",
+                "company_name": "Starburst",
+                "first_published": "2026-07-27T15:59:08-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Starburst is looking for strong Java engineers to work with our globally distributed engineering team on the core of Starburst\u2019s software. This is a great opportunity to deepen your expertise in a rapidly evolving technology and make a significant impact on leading data analytics products. Our managed SaaS and on-premise Data Platform Product offerings provide unique and interesting problems to be solved, and incredible learning opportunities for any engineer. Starburst offers the opportunity to compete at global scale with other elite vendors in the Data Analytics space.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Senior Software Engineer, Connectors at Starburst you will:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, develop and maintain Connectors in Open Source &lt;a href=&quot;https://trino.io&quot;&gt;Trino&lt;/a&gt;, the &lt;a href=&quot;https://docs.starburst.io/starburst-enterprise&quot;&gt;Starburst Enterprise&lt;/a&gt; Platform, or &lt;a href=&quot;https://docs.starburst.io/starburst-galaxy/index.html&quot;&gt;Starburst Galaxy&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Starburst offers to its customers over 50 &lt;a href=&quot;https://docs.starburst.io/latest/connector.html&quot;&gt;connectors&lt;/a&gt;&amp;nbsp; that are critical to their business operations across a wide range of data sources&lt;/li&gt;\n&lt;li&gt;Find ingenious ways to speed up complex queries without sacrificing correctness of the results&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Collaborate with your team members and other teams globally and operate in a fast paced environment&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;We prioritize focused work, ensuring minimal time is spent in formal meetings, allowing you to concentrate on coding and PR reviews&lt;/li&gt;\n&lt;li&gt;Being able to clearly articulate your ideas in writing across various communication channels like Slack, GitHub PRs, and Design Documents is essential in our globally distributed team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Provide exceptional customer support for both internal and external customers&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;We\u2019re pretty humbled by the trust that our customers give our Query Engine to crunch their data and handle with utmost seriousness the problems they report to us&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience developing distributed systems&lt;/li&gt;\n&lt;li&gt;Extensive software development experience with Java&lt;/li&gt;\n&lt;li&gt;Demonstrated experience with software engineering and design best practices.&lt;/li&gt;\n&lt;li&gt;Appreciation for creating maintainable, performant, and high quality software as part of a high-performing globally distributed team of engineers&lt;/li&gt;\n&lt;li&gt;Intrinsic motivation for improving your software engineering craftsmanship&lt;/li&gt;\n&lt;li&gt;Significant autonomy and ownership&lt;/li&gt;\n&lt;li&gt;Curiosity to see what other engineering teams are doing and ability to connect the dots&lt;/li&gt;\n&lt;li&gt;Demonstration of Ownership, Grit, and Bias for Action - Core Values at Starburst&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus points:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with using a Query Engine (Storage and Compute separation)&lt;/li&gt;\n&lt;li&gt;Data Engineering expertise&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Understanding the Data Engineer&#39;s perspective is valuable in driving innovation within data lakehouse architectures&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Experience with Iceberg, Delta Lake, and/or Hive table format sync is a plus.&lt;/li&gt;\n&lt;li&gt;Experience in contributing to larger scale Open-Source Software&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Ability to push forward and deliver functionality while respecting your peers, keeping in mind Correctness, Quality, Performance, Code maintainability&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This role is based in our Boston office and follows a hybrid model, with an expectation of being onsite 1-2 days per week.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates in the country in which the role is located and could be inclusive of variable compensation, such as commission or bonus. All full-time employees receive equity grants (NSOs), and depending on the country, may have access to additional employer-sponsored benefits. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the interview process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$185,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$215,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028075008,
+                        "name": "Engineering",
+                        "child_ids": [
+                            4028099008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023704008,
+                        "name": "Boston, MA",
+                        "location": "Boston, Massachusetts, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5361682008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5382403008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4528653008,
+                "location": {
+                    "name": "San Francisco, CA"
+                },
+                "metadata": null,
+                "id": 5382403008,
+                "updated_at": "2026-08-18T10:17:12-04:00",
+                "requisition_id": "3421",
+                "title": "Senior Solution Architect ",
+                "company_name": "Starburst",
+                "first_published": "2026-08-07T14:58:09-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Starburst Solution Architects are responsible for the successful customer adoption of our products. In this customer-facing and highly technical role, you will work directly with our customers to ensure their overall success with Starburst\u2019s product offering.&amp;nbsp; You will partner with field sales representatives to own the technical aspects of the sales cycle, customer evangelization, and qualification process, from discovery calls to closure. Responsibilities include demonstrations of Starburst capabilities, technical sales presentations, delivery of educational sessions and/or technical workshops, running proofs of value, providing guidance for migration from legacy platforms, and assistance with customers moving to production.&amp;nbsp; Solutions Architects are Starburst experts who will provide technical leadership, data management, and analytics experience and consultation.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;As a Senior Solution Architect at Starburst you will:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Grow and retain accounts&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Own the technical aspects of the sales cycle and work closely with sales representatives to drive customer projects to closure&lt;/li&gt;\n&lt;li&gt;Shape prospect evaluation requirements, define success criteria, educate customers, and participate in the qualification process&lt;/li&gt;\n&lt;li&gt;Define, scope, and execute customer proof of concept studies&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Be an expert in our products and services&lt;/li&gt;\n&lt;li&gt;Design and build demos, presentations, reference architectures, and custom integrations&lt;/li&gt;\n&lt;li&gt;Perform overall system and SQL performance tuning and migrations from legacy systems&lt;/li&gt;\n&lt;li&gt;Act as the consultant and expert on architecture, deployment, and design discussions&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Act as the primary customer-facing technical resource during technology evaluations&lt;/li&gt;\n&lt;li&gt;Act as the voice of the customer during internal product engineering discussions&lt;/li&gt;\n&lt;li&gt;Collaborate with Engineering and Support teams for critical customer operational issues and questions&lt;/li&gt;\n&lt;li&gt;Develop field best practices, how-to documents, and contribute to our internal knowledge base&lt;/li&gt;\n&lt;li&gt;Ability to Travel&lt;em&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/em&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Expertise or Experience in one or more of the following technical areas:&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Analytical and problem-solving skills&lt;/li&gt;\n&lt;li&gt;ANSI SQL&lt;/li&gt;\n&lt;li&gt;UNIX/Linux CLI interactions&lt;/li&gt;\n&lt;li&gt;Data Warehouse usage and concepts&lt;/li&gt;\n&lt;li&gt;Private/Public Cloud Deployments&lt;/li&gt;\n&lt;li&gt;Big Data Technologies: Hadoop, distributed systems and storage&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;Experience in customer-facing technical roles&lt;/li&gt;\n&lt;li&gt;Experience in field sales/field consultant roles&lt;/li&gt;\n&lt;li&gt;Strong presentation skills and an ability to respond dynamically to questions in real-time&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written communication skills&lt;/li&gt;\n&lt;li&gt;Desire to work in a fast-paced startup environment with cutting-edge technologies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;San Francisco, CA&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$230,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$260,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028087008,
+                        "name": "Presales",
+                        "child_ids": [],
+                        "parent_id": 4080374008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4048853008,
+                        "name": "San Francisco, CA",
+                        "location": "San Francisco, California, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5382403008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5288993008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4501528008,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5288993008,
+                "updated_at": "2026-08-18T10:17:12-04:00",
+                "requisition_id": "3282",
+                "title": "Senior Technical Writer",
+                "company_name": "Starburst",
+                "first_published": "2026-07-15T14:42:12-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a Senior Technical Writer who brings craft and strategic instinct to the discipline. We want someone who can own complex documentation initiatives end to end, influence how content is structured and delivered at scale, operate with authority in a fast-moving, highly technical environment, and help their team succeed with AI-assisted tooling.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Senior Technical Writer at Starburst, you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the planning, writing, and continuous improvement of highly technical documentation, including configuration, deployment, integration, and query reference content.&lt;/li&gt;\n&lt;li&gt;Partner directly with software engineers, product managers, and subject matter experts to extract accurate technical detail and drive timely review cycles, including setting deadlines and driving stakeholder alignment.&lt;/li&gt;\n&lt;li&gt;Lead documentation work tied to major platform and product initiatives.&lt;/li&gt;\n&lt;li&gt;Evaluate and develop content for AI consumability and discoverability, including how documentation performs in LLM-mediated search and developer evaluation contexts.&lt;/li&gt;\n&lt;li&gt;Apply a structured content approach to ensure documentation serves the right audience at the right stage of their journey, from evaluation through advanced use.&lt;/li&gt;\n&lt;li&gt;Contribute to documentation standards, style guidelines, and peer review processes across the team.&lt;/li&gt;\n&lt;li&gt;Serve as a senior voice in cross-functional planning, advocating for documentation requirements in the product development lifecycle.&lt;/li&gt;\n&lt;li&gt;Partner on piloting AI-assisted drafting tools: evaluate output quality, help define what a human must verify before publication, and help build workflows where AI assistance meaningfully improves content and reduces toil.&lt;/li&gt;\n&lt;li&gt;Contribute content expertise to docs replatforming initiatives by representing structured-content and authoring requirements in tooling evaluations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of technical writing experience, with a strong portfolio of developer-facing or data infrastructure documentation. Writing samples required.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to work autonomously in ambiguous, fast-paced environments and make sound content decisions without close supervision.&lt;/li&gt;\n&lt;li&gt;Experience owning documentation for complex SaaS, cloud, or data platform products.&lt;/li&gt;\n&lt;li&gt;Proven ability to manage SME relationships decisively, including driving review cycles and escalating blockers.&lt;/li&gt;\n&lt;li&gt;Proficiency with docs-as-code workflows: Git/GitHub, Markdown, and static site generators.&lt;/li&gt;\n&lt;li&gt;Experience with or strong interest in content architecture, structured authoring, and emerging documentation platform tooling.&lt;/li&gt;\n&lt;li&gt;Excellent written communication in US English.&lt;/li&gt;\n&lt;li&gt;Bachelor&#39;s degree in a technical field or equivalent professional experience.&lt;/li&gt;\n&lt;li&gt;Strong plus: familiarity with how documentation is consumed by AI systems (llms.txt, RAG-friendly chunking, MCP, AI-search visibility), or hands-on experience using LLMs in a content workflow (drafting, evaluating output quality).&lt;/li&gt;\n&lt;li&gt;Nice to have:&lt;strong&gt; &lt;/strong&gt;basic scripting/automation exposure (Python, JavaScript, or similar).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Remote, with a preference for the US East Coast time zone&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$120,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$150,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028074008,
+                        "name": "Product",
+                        "child_ids": [
+                            4028095008,
+                            4028094008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023704008,
+                        "name": "Boston, MA",
+                        "location": "Boston, Massachusetts, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5288993008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5384527008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4529712008,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5384527008,
+                "updated_at": "2026-08-18T10:17:13-04:00",
+                "requisition_id": "3451",
+                "title": "Sr Director, Pipeline Strategy & Analytics",
+                "company_name": "Starburst",
+                "first_published": "2026-08-11T14:28:29-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Sr. Director, Pipeline Strategy &amp;amp; Analytics owns the metrics, systems, and strategy behind Starburst&#39;s pipeline, from generation through conversion, ensuring the company builds more pipeline, of higher quality, with clear visibility into what is working and what is not. Reporting to the VP of Revenue Operations, this role is the analytical authority on all pipeline metrics and marketing ROI, partnering closely with Marketing, Sales, and Finance to connect spend to sourced pipeline to closed revenue. The Sr. Director sets the measurement framework for pipeline throughput and quality, leads the marketing budget and ROI tracking process, and serves as the organization&#39;s thought leader on the technology and AI that increasingly drive modern demand generation and go-to-market operations. This is a highly technical, data-first leadership role that turns disparate go-to-market data into decisions leadership can act on, and it builds and leads a team responsible for pipeline analytics, reporting infrastructure, and the tooling and process that power the SDR and pipeline-generation motion.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Sr. Director, Pipeline Strategy &amp;amp; Analytics at Starburst you will&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own all pipeline metrics end to end, from lead and MQL through opportunity creation, conversion, and closed revenue, and establish the single source of truth leadership uses to run the business.&lt;/li&gt;\n&lt;li&gt;Define and drive the strategy to increase pipeline throughput and generate higher-quality pipeline, pinpointing the conversion bottlenecks and source-level quality signals that most affect revenue.&lt;/li&gt;\n&lt;li&gt;Own marketing budget tracking and ROI measurement, connecting spend by program and channel to sourced pipeline and closed-won revenue, and guide reallocation toward the highest-returning investments.&lt;/li&gt;\n&lt;li&gt;Build and maintain the reporting, dashboards, and attribution models that give Marketing, Sales, and Finance a shared, trusted view of pipeline health and marketing performance.&lt;/li&gt;\n&lt;li&gt;Serve as the organization&#39;s thought leader on marketing and go-to-market technology and AI, evaluating and introducing tools that improve pipeline generation, efficiency, and measurement.&lt;/li&gt;\n&lt;li&gt;Partner with Sales and Revenue Operations on funnel definitions, stage conversion, and forecasting inputs so pipeline data is consistent and reliable across the go-to-market motion.&lt;/li&gt;\n&lt;li&gt;Oversee the SDR technology stack and operating process, including sales-engagement and dialer tooling, lead routing and follow-up SLAs, and the workflows that drive SDR productivity and consistent, high-quality pipeline generation.&lt;/li&gt;\n&lt;li&gt;Translate complex go-to-market data into clear narratives and recommendations for senior leadership, including board- and executive-level reporting on pipeline and marketing ROI.&lt;/li&gt;\n&lt;li&gt;Own the accuracy of marketing and pipeline data across Salesforce, marketing automation, and adjacent RevOps systems, in partnership with Business Applications.&lt;/li&gt;\n&lt;li&gt;Lead, mentor, and develop a team responsible for pipeline analytics, marketing operations, and reporting, building a high-judgment, data-first operating model that scales with the business.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of experience in marketing operations, revenue operations, pipeline analytics, or go-to-market strategy, including experience owning pipeline metrics and marketing ROI for a B2B SaaS business.&lt;/li&gt;\n&lt;li&gt;People management experience, with a track record of leading, mentoring, and developing a high-performing analytical team.&lt;/li&gt;\n&lt;li&gt;Deeply technical and analytical, with hands-on fluency in SQL, BI tools (Tableau, Looker, or similar), Salesforce, and marketing automation platforms (Marketo, HubSpot, or similar).&lt;/li&gt;\n&lt;li&gt;Strong command of pipeline and funnel mechanics, multi-touch attribution, and marketing ROI measurement, with the judgment to separate signal from noise.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to increase pipeline throughput and quality through data-driven process, measurement, and cross-functional influence.&lt;/li&gt;\n&lt;li&gt;Working knowledge of the modern marketing and go-to-market technology landscape, including applied AI, and a track record of evaluating and adopting tools that improve efficiency and measurement.&lt;/li&gt;\n&lt;li&gt;Hands-on experience owning SDR and sales-engagement tooling and process (Outreach, Salesloft, or similar), lead routing, and the metrics that drive SDR productivity and pipeline generation.&lt;/li&gt;\n&lt;li&gt;Exceptional communication and stakeholder management skills, with the ability to influence senior leaders across Marketing, Sales, Finance, and Operations.&lt;/li&gt;\n&lt;li&gt;Preferred: experience with consumption-based business models, data modeling or engineering, and building analytics or reporting infrastructure from the ground up.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;This role is based in our Boston office or open to US-based remote candidates.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$220,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$260,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028072008,
+                        "name": "Marketing",
+                        "child_ids": [
+                            4028091008,
+                            4028092008,
+                            4028093008
+                        ],
+                        "parent_id": 4028061008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023704008,
+                        "name": "Boston, MA",
+                        "location": "Boston, Massachusetts, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5384527008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/4770330008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4279911008,
+                "location": {
+                    "name": "India"
+                },
+                "metadata": null,
+                "id": 4770330008,
+                "updated_at": "2026-08-18T10:17:06-04:00",
+                "requisition_id": "3229",
+                "title": "Staff Software Engineer",
+                "company_name": "Starburst",
+                "first_published": "2025-06-20T14:32:22-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Starburst is looking for an experienced Staff Software Engineer to sit at the intersection of software engineering and data engineering \u2014 building the internal platforms, pipelines, and data products that power how we understand our customers and our business. You&#39;ll work across Starburst Enterprise and Starburst Galaxy, using our own technology to solve real problems at scale, while also contributing software that other teams depend on.&lt;/p&gt;\n&lt;p&gt;Because data engineers are one of our primary target personas, you&#39;ll bring a uniquely valuable perspective: you&#39;ll use our products daily and feed that experience directly back into how we build and improve them. You&#39;ll work closely with a dynamic, talented, globally distributed team, writing production-quality software alongside building reliable data systems \u2014 with a consistent emphasis on quality, maintainability, and speed to insight.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Staff Software Engineer at Starburst you will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and operate a high-quality data lake and the software systems that feed it, supporting product management, finance, customer support, and engineering&lt;/li&gt;\n&lt;li&gt;Write production-grade software \u2014 services, APIs, tooling, and automation \u2014 that enables data workflows and integrations at scale&lt;/li&gt;\n&lt;li&gt;Find innovative ways to use Trino and Starburst to solve complex data management and software architecture challenges&lt;/li&gt;\n&lt;li&gt;Collaborate with technical leads, product managers, and data analysts to build robust data products and analytics&lt;/li&gt;\n&lt;li&gt;Leverage AI to democratize access to datasets for users throughout Starburst, including building and maintaining the software infrastructure that makes this possible&lt;/li&gt;\n&lt;li&gt;Enable dataset preparation and model evaluation for Starburst&#39;s AI projects&lt;/li&gt;\n&lt;li&gt;Define and evolve engineering processes and best practices that span both software and data domains, with a focus on reliability and actionable results&lt;/li&gt;\n&lt;li&gt;Work closely with leaders across teams to iterate on data architecture and the software systems that implement it, keeping quality high at every layer&lt;/li&gt;\n&lt;li&gt;Identify emerging patterns in data management and software engineering, and work with Starburst&#39;s product teams to bring those innovations to market&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A Trino enthusiast looking to push the bounds in an AI future&lt;/li&gt;\n&lt;li&gt;At least 7 years of combined experience in software engineering and/or data engineering, with genuine depth in both&lt;/li&gt;\n&lt;li&gt;Strong software engineering fundamentals: writing clean, testable, well-reviewed code in Java, Python, or Scala&lt;/li&gt;\n&lt;li&gt;Experience building and optimizing data pipelines using Trino, Spark, dbt, and related frameworks&lt;/li&gt;\n&lt;li&gt;Experience designing and building backend services, APIs, and data platform components&lt;/li&gt;\n&lt;li&gt;Experience managing data and application infrastructure in public clouds, particularly AWS (EMR, EC2, S3, IAM); multi-cloud experience (GCP/Azure) is a plus&lt;/li&gt;\n&lt;li&gt;Experience using and managing orchestration frameworks such as Apache Airflow or Dagster&lt;/li&gt;\n&lt;li&gt;Knowledge of RAG and other design patterns for AI-powered applications&lt;/li&gt;\n&lt;li&gt;Fluency in SQL and comfort moving between SQL and general-purpose programming as the task demands&lt;/li&gt;\n&lt;li&gt;Experience building API integrations for extracting data from third-party sources&lt;/li&gt;\n&lt;li&gt;Knowledge of data modeling techniques appropriate for modern data lakes&lt;/li&gt;\n&lt;li&gt;Proficiency with Configuration-as-Code and Infrastructure-as-Code tools such as Pulumi, Terraform, and/or Ansible&lt;/li&gt;\n&lt;li&gt;A track record of shipping reliable software and data systems on time, with disciplined practices around testing, code quality, and review&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication skills, with the organizational ability to coordinate across teams&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;India&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028075008,
+                        "name": "Engineering",
+                        "child_ids": [
+                            4028099008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023724008,
+                        "name": "Remote - India",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 4023723008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/4770330008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5158608008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": true,
+                        "requires_processing_consent": true,
+                        "requires_retention_consent": true,
+                        "retention_period": 365,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4445970008,
+                "location": {
+                    "name": "Warsaw, Poland"
+                },
+                "metadata": null,
+                "id": 5158608008,
+                "updated_at": "2026-08-18T10:17:11-04:00",
+                "requisition_id": "2024",
+                "title": "Staff Software Engineer",
+                "company_name": "Starburst",
+                "first_published": "2026-04-08T03:31:33-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a&amp;nbsp;&lt;strong&gt;Staff Engineer&lt;/strong&gt; on the Spark Job Manager and Starburst Enterprise team, you will own critical backend and platform components that orchestrate distributed compute (Spark, Trino) for enterprise customers. You will lead the design and implementation of JVM-based services and the surrounding infrastructure: Kubernetes deployments, Docker image strategy, CI/CD automation, AWS integrations, and secure enterprise authentication flows. This is a staff-level role requiring architectural leadership, cross-team influence, and long-term platform ownership.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Staff Software Engineer at Starburst, you will&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own critical backend and platform components that orchestrate distributed compute (Spark, Trino) for enterprise customers.&lt;/li&gt;\n&lt;li&gt;Lead the design and implementation of JVM-based services and the surrounding infrastructure, including Kubernetes deployments, Docker image strategy, CI/CD automation, AWS integrations, and secure enterprise authentication flows.&lt;/li&gt;\n&lt;li&gt;Provide architectural leadership, cross-team influence, and long-term platform ownership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Deep Backend Engineering &amp;amp; Distributed Systems:&lt;/strong&gt;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of professional backend experience, with strong expertise in Java (primary and required) and production experience building JVM-based services.&lt;/li&gt;\n&lt;li&gt;Experience designing and operating distributed systems in production. Working with Spark, Trino/Presto, or comparable distributed compute engines is a strong plus.&lt;/li&gt;\n&lt;li&gt;Extensive experience designing and evolving RESTful APIs, including validation, error modeling, pagination, filtering, backward-compatible versioning, and OpenAPI documentation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;&lt;strong&gt;Infrastructure &amp;amp; Operations:&lt;/strong&gt;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on production experience with Kubernetes (authoring manifests/Helm charts) and strong Docker experience (multi-stage builds, image optimization, security best practices).&lt;/li&gt;\n&lt;li&gt;Experience owning CI/CD for complex Java codebases, using GitHub Actions (preferred) or Jenkins.&lt;/li&gt;\n&lt;li&gt;Practical AWS experience with S3 (or S3-compatible object storage), IAM roles/policies, and AWS SSO.&lt;/li&gt;\n&lt;li&gt;Familiarity with secure authentication mechanisms: OAuth2 / OIDC, token-based auth, and session management.&lt;/li&gt;\n&lt;li&gt;Experience implementing Metrics (Prometheus preferred), Distributed tracing (OpenTelemetry), and structured logging for JVM services is a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;&lt;strong&gt;Staff-Level Impact:&lt;/strong&gt;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven experience leading architecture across multiple services or systems.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to drive cross-team RFCs, break down ambiguous problems, influence engineering standards, and raise the technical bar through code reviews and mentorship.&lt;/li&gt;\n&lt;li&gt;Own long-term platform health, not just feature delivery.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;&lt;strong&gt;Highly Preferred Experience:&lt;/strong&gt;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience building job orchestration platforms.&lt;/li&gt;\n&lt;li&gt;Experience working in enterprise / B2B environments.&lt;/li&gt;\n&lt;li&gt;Strong Python skills for automation and tooling.&lt;/li&gt;\n&lt;li&gt;Experience running systems in hybrid or on-prem environments.&lt;/li&gt;\n&lt;li&gt;Collaboration on open-source projects is a strong plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;This role is based in our Warsaw office and follows a hybrid model, with an expectation of being onsite 2-3 days per week.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Salary ranges: 440,000 - 540,000 PLN anually&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028075008,
+                        "name": "Engineering",
+                        "child_ids": [
+                            4028099008
+                        ],
+                        "parent_id": 4028064008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023714008,
+                        "name": "Warsaw",
+                        "location": "Warszawa, Masovian Voivodeship, Poland",
+                        "child_ids": [],
+                        "parent_id": 4023712008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5158608008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5286341008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": null,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5286341008,
+                "updated_at": "2026-08-18T14:43:16-04:00",
+                "requisition_id": null,
+                "title": "Talent Community",
+                "company_name": "Starburst",
+                "first_published": "2026-07-22T15:28:23-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Talent Community&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;If you&#39;re interested in joining our team at Starburst, but don&#39;t see an opportunity that you&#39;d like to apply to, please fill out a quick application below to join our Talent Community. This is a great way to stay connected with us to learn about future opportunities that align with your background!&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [],
+                "offices": [],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": null
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5196535008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4463383008,
+                "location": {
+                    "name": "Charlotte, NC "
+                },
+                "metadata": null,
+                "id": 5196535008,
+                "updated_at": "2026-08-18T10:17:11-04:00",
+                "requisition_id": "5073",
+                "title": "Technical Engagement Manager",
+                "company_name": "Starburst",
+                "first_published": "2026-04-24T11:58:23-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt;\n&lt;p&gt;Starburst Data is seeking a highly skilled and experienced Technical Engagement Manager to join our dynamic team. In this role, you will be responsible for working closely with a few of our largest customers to understand their business challenges and requirements, architecting solutions using Starburst products and driving business outcomes across the customer journey, from initial engagement to successful adoption. As a Technical Engagement Manager, you will serve as a trusted advisor to our customers, helping them maximize the value of their data and achieve their business objectives.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;As a Technical Engagement Manager at Starburst you will:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Establish trust and credibility by demonstrating &lt;strong&gt;Data &amp;amp; AI industry knowledge&lt;/strong&gt;, understanding of the buyer&#39;s organization, and a track record of successful engagements.&lt;/li&gt;\n&lt;li&gt;Build and nurture strong relationships with the champion, who serves as the internal advocate for the engagement within the customer organization.&lt;/li&gt;\n&lt;li&gt;Offer support and guidance to the champion throughout the engagement process, helping them navigate internal processes and mobilize resources as needed.&lt;/li&gt;\n&lt;li&gt;Proactively address concerns and objections raised by other stakeholders, leveraging insights from the champion and executive buyer to overcome obstacles and drive alignment.&lt;/li&gt;\n&lt;li&gt;Solicit feedback from other stakeholders throughout the engagement process, incorporating their input to enhance service delivery and customer satisfaction.&lt;/li&gt;\n&lt;li&gt;Collaborate with sales teams to understand customer needs and objectives to identify new use cases and/or adoption opportunities.&lt;/li&gt;\n&lt;li&gt;Drive adoption of Starburst culminating in the Customer reaching its success criteria.&lt;/li&gt;\n&lt;li&gt;Partner with internal teams, including architects, engineers, and project managers, to ensure successful delivery of services.&lt;/li&gt;\n&lt;li&gt;Serve as one of the primary points of contact for customers throughout the engagement lifecycle.&lt;/li&gt;\n&lt;li&gt;Monitor and report on key performance indicators (KPIs) to track the success of engagements.&lt;/li&gt;\n&lt;li&gt;Drive continuous improvement in processes and methodologies to enhance customer satisfaction and project delivery efficiency.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Some of the things we look for:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree in business, technology, or a related field.&lt;/li&gt;\n&lt;li&gt;Deep understanding of data architecture principles, including data modeling, data integration, and data warehousing.&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL and experience with distributed query engines (e.g., Presto, Trino, Apache Spark).&lt;/li&gt;\n&lt;li&gt;Strong problem-solving skills and the ability to think strategically about business challenges and technical solutions.&lt;/li&gt;\n&lt;li&gt;Proven track record of successfully managing customer engagements and delivering business outcomes.&lt;/li&gt;\n&lt;li&gt;Excellent communication and interpersonal skills, with the ability to build strong relationships with customers and internal teams.&lt;/li&gt;\n&lt;li&gt;Experience with cloud platforms (e.g., AWS, Azure, Google Cloud) and containerization technologies (e.g., Docker, Kubernetes) is a plus.&lt;/li&gt;\n&lt;li&gt;Ability to thrive in a fast-paced, dynamic environment and manage multiple priorities effectively.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;MuiGrid-root grid__StyledMuiGrid-fpUaVg itZaVt MuiGrid-item&quot; data-birch=&quot;Grid&quot;&gt;\n&lt;div class=&quot;MuiGrid-root grid__StyledMuiGrid-fpUaVg itZaVt sc-fffiAB lfngik MuiGrid-item&quot; data-birch=&quot;Grid&quot;&gt;&amp;nbsp;&lt;/div&gt;\n&lt;/div&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Ability to Travel&lt;/strong&gt;: This role will require 25% in-person travel for purposes including but not limited to new hire onboarding, team and department offsites, customer engagements, and other company events. Actual travel expectations may vary by role and business needs.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$135,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$165,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028090008,
+                        "name": "Professional Services",
+                        "child_ids": [],
+                        "parent_id": 4080374008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023708008,
+                        "name": "Remote - US",
+                        "location": null,
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5196535008/ai_opt_out"
+            },
+            {
+                "absolute_url": "https://job-boards.greenhouse.io/starburst/jobs/5375098008",
+                "data_compliance": [
+                    {
+                        "type": "gdpr",
+                        "requires_consent": false,
+                        "requires_processing_consent": false,
+                        "requires_retention_consent": false,
+                        "retention_period": null,
+                        "demographic_data_consent_applies": false
+                    }
+                ],
+                "internal_job_id": 4524897008,
+                "location": {
+                    "name": "Boston, MA"
+                },
+                "metadata": null,
+                "id": 5375098008,
+                "updated_at": "2026-08-18T10:17:12-04:00",
+                "requisition_id": "3390",
+                "title": "VP, Professional Services",
+                "company_name": "Starburst",
+                "first_published": "2026-08-06T11:40:44-04:00",
+                "language": "en",
+                "application_deadline": null,
+                "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Starburst delivers enterprise intelligence at scale by giving organizations secure, governed access to all their data, wherever it lives. Built for distributed data environments, Starburst helps enterprises power AI and analytics without the cost and complexity of traditional data consolidation. With open standards including Trino and Apache Iceberg, Starburst enables trusted access to complete enterprise context while helping organizations avoid vendor lock-in. Leading global enterprises trust Starburst to fuel AI, analytics, and enterprise intelligence. Learn more at &lt;a href=&quot;http://starburst.ai&quot;&gt;starburst.ai&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;The Role:&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a VP of Professional Services to lead and scale the organization responsible for the following technical phases of the customer journey: onboarding, adoption, utilization, and renewals. This is a critical leadership role that owns the customer journey from &quot;signed&quot; to &quot;renewed and growing,&quot; and directly influences Net Revenue Retention (NRR), Gross Revenue Retention (GRR), and overall customer lifetime value.&lt;/p&gt;\n&lt;p&gt;You will build and lead a team spanning Customer Success Managers, Enterprise Architects, Technical Engagement Managers, Professional Services, and Educational Services, ensuring customers realize value from Starburst and become long-term advocates and expansion opportunities.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Do:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Own post sales strategy and outcomes.&lt;/strong&gt; Build and execute the strategy for onboarding, adoption, renewals, and expansion across the installed base, with clear accountability for GRR, NRR, and churn reduction.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Lead and scale the team.&lt;/strong&gt; Hire, develop, and manage a team of CSMs, Enterprise Architects, Technical Engagement Managers, Professional Services, and Educational Services. Build the org structure, coverage model, and career paths needed to scale with the business.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Drive value realization.&lt;/strong&gt; Ensure customers move from initial deployment to production usage quickly, and that value is measured and communicated back to the customer.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Own the renewal and expansion motion.&lt;/strong&gt; Partner closely with Sales/Account Management on renewal forecasting, risk mitigation, and identifying expansion opportunities (new use cases, new business units, consumption growth).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Build scalable playbooks.&lt;/strong&gt; Develop repeatable onboarding, adoption, health-scoring, and escalation processes that work across a diverse customer base \u2014 from fast-moving digital natives to large, complex enterprise accounts.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Be the voice of the customer internally.&lt;/strong&gt; Work cross-functionally with Product and Engineering to surface systemic issues, influence roadmap prioritization, and ensure customer feedback shapes the platform.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Manage escalations.&lt;/strong&gt; Act as an executive point of escalation for at-risk accounts, technical blockers, or strategic customer relationships.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Report on health and performance.&lt;/strong&gt; Own postsales metrics and reporting (adoption, health scores, GRR/NRR, churn, expansion pipeline) for leadership and the board.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Own packaging and services strategy.&lt;/strong&gt; Define professional services offerings and how postsales investment maps to customer segments (enterprise vs. mid-market, self-serve vs. high-touch), in partnership with Product and Sales leadership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What You&#39;ll Need:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience in Customer Success, Postsales, or related revenue leadership roles, with at least 3-5 years managing managers or scaling a multi-function postsales org.&lt;/li&gt;\n&lt;li&gt;Experience in enterprise infrastructure, data platform, or developer-tooling software (data warehousing, data lakes, databases, analytics, or similar technical categories strongly preferred).&lt;/li&gt;\n&lt;li&gt;Track record of owning and improving GRR/NRR and renewal outcomes in a B2B SaaS or enterprise software environment.&lt;/li&gt;\n&lt;li&gt;Comfort operating in technically complex sales cycles \u2014 you don&#39;t need to write SQL yourself, but you should be conversant enough with concepts like data federation, query engines, data lakes, and open table formats (e.g., Iceberg) to earn credibility with technical customers and your own Enterprise Architects.&lt;/li&gt;\n&lt;li&gt;Experience building a postsales function from a still-scaling stage (not just running an already-mature machine) \u2014 including defining segmentation, health scoring, and coverage models.&lt;/li&gt;\n&lt;li&gt;Strong cross-functional collaboration skills, particularly with Sales, Product, and Engineering leadership.&lt;/li&gt;\n&lt;li&gt;Executive presence and experience serving as an escalation point for strategic enterprise accounts.&lt;/li&gt;\n&lt;li&gt;Data-driven approach to running the business \u2014 comfortable owning a metrics dashboard and using it to drive team behavior, not just report results.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Nice to Have:&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at an open-source-adjacent or infrastructure company (databases, query engines, data platforms, cloud infrastructure).&lt;/li&gt;\n&lt;li&gt;Familiarity with Trino, Presto, or similar distributed SQL engines, or with data lakehouse architectures (Iceberg, Delta Lake, Hudi).&lt;/li&gt;\n&lt;li&gt;Experience in a company transitioning from mid-market to enterprise-heavy ACV, or scaling through a Series C+/growth stage.&lt;/li&gt;\n&lt;li&gt;Experience owning a professional services P&amp;amp;L or delivery organization.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Where could this role be based?&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Boston area preferred, open to other US remote locations&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Starburst is dedicated to maintaining fair and equitable compensation practices. The salary range provided for this role reflects the minimum and maximum targets for candidates across all U.S. locations and could be inclusive of variable compensation, such as commission or bonus. All employees receive equity packages (ISOs) and have access to a comprehensive benefits offering. Actual compensation packages are determined based on relevant skills, experience, education and training, and specific work location. For more information, connect with the recruiting team or Hiring Manager during the process as they can provide more detailed information about the salary range.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$240,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$300,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Build your career at Starburst&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;All-Stars have the opportunity and freedom to realize their true potential. By building alongside top talent, we\u2019re empowered to take ownership of our careers and drive meaningful change. Anchored in industry-proven technology and unprecedented success, All-Stars are taking on the challenge everyday to disrupt our industry \u2013 &amp;nbsp;and the future.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our global workforce is supported by a competitive Total Rewards program that reflects our commitment to a rewarding and supportive work environment. This includes a variety of benefits like competitive pay, attractive stock grants, flexible paid time off, and more.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are committed to fostering an intentional, inclusive, and diverse culture that drives deep engagement, authentic belonging, and an exceptional All-Star experience. We believe that diversity of thought, perspective, background and experience will enable us to own what we do, drive our success and empower our All-Stars to show up authentically.&lt;/p&gt;\n&lt;p&gt;Starburst provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state&lt;br&gt;&amp;nbsp;or local laws.&lt;/p&gt;&lt;/div&gt;",
+                "departments": [
+                    {
+                        "id": 4028090008,
+                        "name": "Professional Services",
+                        "child_ids": [],
+                        "parent_id": 4080374008
+                    }
+                ],
+                "offices": [
+                    {
+                        "id": 4023704008,
+                        "name": "Boston, MA",
+                        "location": "Boston, Massachusetts, United States",
+                        "child_ids": [],
+                        "parent_id": 4023680008
+                    }
+                ],
+                "ai_disclaimer": null,
+                "include_ai_disclaimer": null,
+                "ai_opt_out_request_url": "http://app8.greenhouse.io/ai_opt_out_request/job_post/5375098008/ai_opt_out"
+            }
+        ],
+        "meta": {
+            "total": 18
+        }
+    }
+}
