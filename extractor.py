@@ -32,7 +32,7 @@ def _fetch_sync(url: str):
         raise
 
 def _write_sync(result: dict, slug: str):
-    output_path = EXTRACTED_DIR_PATH / f"{slug}.json"
+    output_path = EXTRACTED_DIR_PATH / f"{datetime.now(timezone.utc).isoformat()}_{slug}.json"
 
     try:
         output = {
