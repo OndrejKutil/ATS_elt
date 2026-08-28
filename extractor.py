@@ -66,6 +66,19 @@ async def main():
         for slug, error in failures:
             print(f'  {slug}: {error}')
 
+    output_path = EXTRACTED_DIR_PATH / 'extraction_summary.json'
+    summary = {
+        "extracted_at": datetime.now(timezone.utc).isoformat(),
+        "total_companies": len(companies_slugs),
+        "successful_extractions": len(tasks) - len(failures),
+        "failed_extractions": len(failures),
+        "failures": [{"company": slug, "error": str(error)} for slug, error in failures],
+    }
+    output_path.write_text(
+        json.dumps(summary, indent=4),
+        encoding="utf-8",
+    )
+
 
 if __name__ == '__main__':
     asyncio.run(main())
