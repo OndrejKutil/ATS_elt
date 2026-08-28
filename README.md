@@ -1,60 +1,94 @@
-# ATS ELT
+# ATS_elt
 
-Extracts job postings from Greenhouse job boards and models them with dbt + DuckDB.
+Tracks how data-role job postings change over time across European tech companies.
+Daily snapshots of public Greenhouse boards, an append-only history, and a lifecycle
+model built on top of it.
 
-## Pipeline
+Python · DuckDB · dbt · Raspberry Pi
 
-1. `uv run extractor.py` — fetches every verified company in `companies.json` and writes:
-   - `extracted/<timestamp>_<slug>.json` — one snapshot per company per run
-   - `runs/<run_id>.jsonl` — the run log, one line per company, **appended as each
-     company finishes** so a run killed midway still leaves rows for the work it did
-   - `runs/<run_id>.meta.json` — the run's terminal record (see below)
-2. `dbt build` — reads those files directly from disk via DuckDB.
+---
 
-### Run completeness
+## Why this exists
 
-A log that only records successes cannot distinguish a company that *failed* from a
-run that was *cut off before reaching it* — absence means both. So each run also
-writes `runs/<run_id>.meta.json`: `status: "running"` up front, rewritten to
-`status: "completed"` with `logged_companies` / `expected_companies` after the run
-finishes. Treat a run as whole only when `status == "completed"` and
-`logged_companies == expected_companies`. The `runs/*.jsonl` glob deliberately
-excludes these `.meta.json` files.
+I own a transformation layer professionally — a layered dbt project on production data,
+staging through marts, and I'm accountable for its correctness. What I had never built is
+everything upstream of it: the raw data arrives already loaded.
 
-## dbt
+So this is the upstream half, built deliberately. Ingestion, raw storage, incremental
+state, and the question of what to do when a source stops telling you things.
 
-The project lives in `dbt/`, with `profiles.yml` kept **inside the project** rather
-than `~/.dbt`. Point dbt at it with `DBT_PROFILES_DIR`:
+The question it answers: **what do data engineering and analytics engineering roles
+across European tech actually demand, and how does that change over time?** I'm applying
+for these roles, so the output is something I use rather than something I maintain out of
+obligation. Anything that doesn't serve that question is out of scope.
+
+---
+
+## Source
+
+Public Greenhouse job boards, one endpoint per company, no auth and no pagination:
+
+```
+https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true
+```
+
+There is no directory of Greenhouse boards, so `companies.json` is a hand-built seed
+list: 160 candidate slugs, 60 confirmed live.
+
+---
+
+## Project structure
+
+```
+ATS_elt/
+├── extractor.py                    fetch every verified board, write snapshots + run log
+├── companies.json                  seed list: slug, verified flag
+├── pyproject.toml
+│
+├── extracted/                      raw archive (gitignored)
+│   └── dt=YYYY-MM-DD/
+│       └── {slug}__{run_id}.json.gz
+│
+├── runs/                           run log (gitignored)
+│   ├── {run_id}.jsonl              one line per company: status, job_count, error
+│   └── {run_id}.meta.json          terminal record: did the run finish, and how far
+│
+└── dbt/
+    ├── dbt_project.yml
+    ├── profiles.yml                kept in-project, not ~/.dbt
+    ├── packages.yml
+    ├── ats.duckdb                  the warehouse (gitignored)
+    ├── macros/
+    │   ├── job_content_hash.sql    the one definition of "same posting content"
+    │   └── split_locations.sql     the one definition of how location strings split
+    └── models/
+        ├── staging/
+        │   ├── _sources.yml        reads the files directly via read_json_auto
+        │   ├── _models.yml         schema tests
+        │   ├── stg_run_log.sql
+        │   ├── stg_job_snapshots.sql
+        │   └── stg_job_content.sql
+        ├── intermediate/
+        │   └── int_job_lifecycle.sql
+        └── marts/
+            └── fct_job_postings.sql    stub, not implemented
+```
+
+---
+
+## Running it
 
 ```bash
+uv run extractor.py                       # fetch boards, write snapshots + run log
+
 export DBT_PROFILES_DIR=/home/pi/ATS_elt/dbt
 cd dbt
 uv run dbt deps
 uv run dbt build
 ```
 
-Or per-command without exporting:
+Reading the warehouse (`-readonly` avoids fighting dbt for the write lock):
 
 ```bash
-uv run dbt build --profiles-dir /home/pi/ATS_elt/dbt
+duckdb -readonly dbt/ats.duckdb
 ```
-
-Target `dev` writes to `dbt/ats.duckdb`.
-
-Raw file paths are absolute so runs do not depend on the invocation directory. They
-default to the `ats_root` var in `dbt_project.yml`; override with the `ATS_ROOT`
-environment variable to point dbt at a different checkout:
-
-```bash
-ATS_ROOT=/some/other/checkout uv run dbt build
-```
-
-### Models
-
-- `staging/stg_run_log` — one row per `(run_id, company_slug)`, status as-is
-- `staging/stg_job_snapshots` — one row per `(run_id, company_slug, job_id)`,
-  unnested from `data.jobs`, with the full job object kept as `raw_job`
-- `intermediate/int_job_lifecycle`, `marts/fct_job_postings` — stubs, not
-  implemented, disabled in `dbt_project.yml`
-
-`duckdb_exploration/` is throwaway exploration, not part of the dbt pipeline.
