@@ -9,9 +9,13 @@ sources:
     schema: main
     tables:
       - name: snapshots
-        description: One JSON file per company per run; jobs live under data.jobs.
+        description: >
+          One gzipped JSON file per company per run, partitioned by the run's
+          UTC date. hive_partitioning exposes dt as a real column, which is
+          what lets the incremental models prune whole directories instead of
+          opening every file.
         meta:
-          external_location: "read_json_auto('{{ env_var('ATS_ROOT', var('ats_root')) }}/extracted/*.json')"
+          external_location: "read_json_auto('{{ env_var('ATS_ROOT', var('ats_root')) }}/extracted/dt=*/*.json.gz', hive_partitioning=true, union_by_name=true)"
 
       - name: runs
         description: >

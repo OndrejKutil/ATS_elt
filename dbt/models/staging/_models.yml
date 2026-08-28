@@ -5,9 +5,10 @@ models:
     description: One row per company per extraction run, from the JSONL run log.
     tests:
       - dbt_utils.unique_combination_of_columns:
-          combination_of_columns:
-            - run_id
-            - company_slug
+          arguments:
+            combination_of_columns:
+              - run_id
+              - company_slug
     columns:
       - name: run_id
         description: Identifies the extraction run; shared with the snapshot files.
@@ -21,19 +22,23 @@ models:
         tests:
           - not_null
           - accepted_values:
-              values: ['ok', 'ok_empty', 'failed']
+              arguments:
+                values: ['ok', 'ok_empty', 'failed']
       - name: run_started_at
         tests:
           - not_null
 
   - name: stg_job_snapshots
-    description: One row per posting per company per extraction run.
+    description: >
+      One row per posting per company per extraction run. Carries content_hash
+      rather than the job body; the body lives in stg_job_content.
     tests:
       - dbt_utils.unique_combination_of_columns:
-          combination_of_columns:
-            - run_id
-            - company_slug
-            - job_id
+          arguments:
+            combination_of_columns:
+              - run_id
+              - company_slug
+              - job_id
     columns:
       - name: run_id
         tests:
@@ -41,9 +46,54 @@ models:
       - name: company_slug
         tests:
           - not_null
+      - name: dt
+        description: UTC date of the run, from the Hive partition.
+        tests:
+          - not_null
+      - name: location
+        description: >
+          location.name split on its "|" and ";" delimiters. Greenhouse packs
+          up to 27 locations into that one string. Distinct from offices, which
+          disagrees with it in ~71% of rows -- offices is where the role is
+          administered, location is where it is advertised.
+        tests:
+          - not_null
       - name: job_id
         tests:
           - not_null
       - name: extracted_at
+        tests:
+          - not_null
+      - name: content_hash
+        description: md5 over the allowlist in the job_content_hash macro.
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_job_content')
+                field: content_hash
+
+  - name: stg_job_content
+    description: >
+      One row per distinct content_hash, holding the posting body. Stored once
+      per distinct content rather than once per run.
+    columns:
+      - name: content_hash
+        tests:
+          - not_null
+          - unique
+      - name: first_seen_dt
+        tests:
+          - not_null
+      - name: content
+        description: Job description HTML, as returned by Greenhouse.
+        tests:
+          - not_null
+      - name: departments
+        description: Department names, sorted. Matches what the hash covers.
+        tests:
+          - not_null
+      - name: offices
+        description: Office names, sorted. Matches what the hash covers.
         tests:
           - not_null

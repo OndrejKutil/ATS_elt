@@ -2,15 +2,20 @@
 
 One run fetches every verified company in companies.json and writes two things:
 
-  extracted/<timestamp>_<slug>.json  one snapshot per company
-  runs/<run_id>.jsonl                one log row per company
-  runs/<run_id>.meta.json            the run's terminal record
+  extracted/dt=YYYY-MM-DD/<slug>__<run_id>.json.gz  one snapshot per company
+  runs/<run_id>.jsonl                               one log row per company
+  runs/<run_id>.meta.json                           the run's terminal record
 
 Snapshots and log rows share a run_id, which is what lets downstream models
 join "what the board looked like" to "how the fetch went".
+
+dt is the UTC date of the run's start, so every file from one run lands in a
+single partition even if the run straddles midnight. The run_id in the
+filename keeps two runs on the same day from overwriting each other.
 """
 
 import asyncio
+import gzip
 import json
 import os
 import threading
@@ -55,7 +60,9 @@ class Extractor:
         # Per-run state, set by run().
         self.run_id: str | None = None
         self.run_started_at: str | None = None
+        self.run_dt: str | None = None
         self.run_log_path: Path | None = None
+        self.partition_dir: Path | None = None
 
         self.runs_dir_path.mkdir(parents=True, exist_ok=True)
         self.extracted_dir_path.mkdir(parents=True, exist_ok=True)
@@ -93,10 +100,11 @@ class Extractor:
         return response.json()
 
     def _write_sync(self, result: dict, slug: str) -> None:
-        """Write one company's snapshot, stamped with the current run_id."""
+        """Write one company's snapshot, gzipped, into the run's dt partition."""
         # No lock: every company writes its own path, so threads never share a file.
         now = datetime.now(timezone.utc).isoformat()
-        output_path = self.extracted_dir_path / f"{now}_{slug}.json"
+        final_path = self.partition_dir / f"{slug}__{self.run_id}.json.gz"
+        tmp_path = self.partition_dir / f"{slug}__{self.run_id}.json.gz.tmp"
 
         output = {
             "run_id": self.run_id,
@@ -105,13 +113,28 @@ class Extractor:
             "data": result,
         }
 
-        # fsync before the log row that attests to this file: a plain write can
-        # sit unwritten in memory, so on power loss the durable log row could
-        # outlive the snapshot it claims exists.
-        with output_path.open("w", encoding="utf-8") as f:
-            f.write(json.dumps(output, indent=4))
+        # Write to .tmp first so readers never see a partial file: the snapshot
+        # only appears under its real name once it is complete and on disk.
+        # fsync before the rename, and the rename before the log row that
+        # attests to this file -- a plain write can sit unwritten in memory, so
+        # on power loss the durable log row could outlive the snapshot it
+        # claims exists.
+        with tmp_path.open("wb") as f:
+            # GzipFile must close before the fsync so its trailer is in the buffer.
+            with gzip.GzipFile(fileobj=f, mode="wb") as gz:
+                gz.write(json.dumps(output).encode("utf-8"))
             f.flush()
             os.fsync(f.fileno())
+
+        os.replace(tmp_path, final_path)
+
+        # The rename itself lives in the directory, not the file, so it needs
+        # its own fsync to survive power loss.
+        dir_fd = os.open(self.partition_dir, os.O_RDONLY)
+        try:
+            os.fsync(dir_fd)
+        finally:
+            os.close(dir_fd)
 
     # ------------------------------------------------------------------
     # Run log
@@ -215,9 +238,16 @@ class Extractor:
 
     async def run(self) -> list:
         """Run one full extraction and return the per-company results."""
+        started = datetime.now(timezone.utc)
         self.run_id = str(uuid.uuid4())
-        self.run_started_at = datetime.now(timezone.utc).isoformat()
+        self.run_started_at = started.isoformat()
+        # Partition by the run's start date, not each file's write time, so a
+        # run crossing midnight UTC still lands in exactly one partition.
+        self.run_dt = started.date().isoformat()
         self.run_log_path = self.runs_dir_path / f"{self.run_id}.jsonl"
+
+        self.partition_dir = self.extracted_dir_path / f"dt={self.run_dt}"
+        self.partition_dir.mkdir(parents=True, exist_ok=True)
 
         companies_slugs = self._get_companies()
         urls = [GREENHOUSE_BOARD_URL.format(slug=slug) for slug in companies_slugs]

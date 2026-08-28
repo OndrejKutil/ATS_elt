@@ -27,6 +27,6 @@ models:
       +materialized: table
     # Stubs only -- disabled so they are not built until implemented.
     intermediate:
-      +enabled: false
+      +enabled: true
     marts:
       +enabled: false
