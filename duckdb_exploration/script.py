@@ -30,6 +30,10 @@ def load_jobs(directory: Path) -> pl.LazyFrame:
         with file.open() as f:
             payload = json.load(f)
 
+        if "company" not in payload or "data" not in payload:
+            # skip non-snapshot files, e.g. extraction_summary.json
+            continue
+
         rows = []
         for job in payload["data"]["jobs"]:
             row = dict(job)
@@ -37,6 +41,12 @@ def load_jobs(directory: Path) -> pl.LazyFrame:
             for field in JSON_TEXT_FIELDS:
                 row[field] = json.dumps(row.get(field))
             rows.append(row)
+
+        if not rows:
+            # an empty jobs list makes pl.DataFrame([]) a (0, 0) frame, and
+            # with_columns(pl.lit(...)) on that broadcasts to a bogus 1-row
+            # frame instead of staying empty -- nothing to add here anyway.
+            continue
 
         jobs = pl.DataFrame(rows, infer_schema_length=None).lazy()
         jobs = jobs.with_columns(
@@ -55,7 +65,6 @@ def load_jobs(directory: Path) -> pl.LazyFrame:
 
 
 lf = load_jobs(EXTRACTED_DIR)
-lf = lf.filter(pl.col("company_slug") == 'anthropic')
 lf = lf.select(
     "company_name",
     "company_slug",

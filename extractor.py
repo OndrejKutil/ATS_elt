@@ -1,5 +1,6 @@
 import json
 import asyncio
+import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -8,6 +9,7 @@ from tqdm.asyncio import tqdm_asyncio
 
 COMPANIES_JSON_PATH: Path = Path('./companies.json')
 EXTRACTED_DIR_PATH: Path = Path('./extracted/')
+RUNS_DIR_PATH: Path = Path('./runs/')
 
 def _get_companies() -> list:
     with open(COMPANIES_JSON_PATH, 'r') as f:
@@ -29,11 +31,12 @@ def _fetch_sync(url: str):
         raise Exception(f'Failed to fetch data from {url}. Status code: {response.status_code}')
     return response.json()
 
-def _write_sync(result: dict, slug: str):
+def _write_sync(result: dict, slug: str, run_id: str):
     now = datetime.now(timezone.utc).isoformat()
     output_path = EXTRACTED_DIR_PATH / f"{now}_{slug}.json"
 
     output = {
+        "run_id": run_id,
         "company": slug,
         "extracted_at": now,
         "data": result,
@@ -44,19 +47,48 @@ def _write_sync(result: dict, slug: str):
         encoding="utf-8",
     )
 
-def _fetch_write_sync(url: str, slug: str):
+def _fetch_write_sync(url: str, slug: str, run_id: str) -> int:
     data = _fetch_sync(url)
-    _write_sync(data, slug)
+    _write_sync(data, slug, run_id)
+    return len(data.get('jobs') or [])
+
+
+def _write_run_log(run_id: str, run_started_at: str, companies_slugs: list, results: list) -> None:
+    RUNS_DIR_PATH.mkdir(parents=True, exist_ok=True)
+    output_path = RUNS_DIR_PATH / f"{run_id}.jsonl"
+
+    lines = []
+    for slug, result in zip(companies_slugs, results):
+        if isinstance(result, Exception):
+            status, job_count, error = "failed", None, str(result)
+        elif result == 0:
+            status, job_count, error = "ok_empty", 0, None
+        else:
+            status, job_count, error = "ok", result, None
+
+        lines.append(json.dumps({
+            "run_id": run_id,
+            "extracted_at": run_started_at,
+            "slug": slug,
+            "status": status,
+            "job_count": job_count,
+            "error": error,
+        }))
+
+    output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 async def main():
+    run_id = str(uuid.uuid4())
+    run_started_at = datetime.now(timezone.utc).isoformat()
+
     companies_slugs: list = _get_companies()
 
     urls: list = [f'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true' for slug in companies_slugs]
 
     EXTRACTED_DIR_PATH.mkdir(parents=True, exist_ok=True)
 
-    tasks: list = [asyncio.to_thread(_fetch_write_sync, url, slug) for url, slug in zip(urls, companies_slugs)]
+    tasks: list = [asyncio.to_thread(_fetch_write_sync, url, slug, run_id) for url, slug in zip(urls, companies_slugs)]
 
     results = await tqdm_asyncio.gather(*tasks, desc='Extracting jobs', total=len(tasks), return_exceptions=True)
 
@@ -66,8 +98,11 @@ async def main():
         for slug, error in failures:
             print(f'  {slug}: {error}')
 
+    _write_run_log(run_id, run_started_at, companies_slugs, results)
+
     output_path = EXTRACTED_DIR_PATH / 'extraction_summary.json'
     summary = {
+        "run_id": run_id,
         "extracted_at": datetime.now(timezone.utc).isoformat(),
         "total_companies": len(companies_slugs),
         "successful_extractions": len(tasks) - len(failures),
