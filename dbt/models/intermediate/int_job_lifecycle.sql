@@ -1,0 +1,4 @@
+-- int_job_lifecycle
+--
+-- Intended: first_seen / last_seen per posting, and closure inferred only
+-- from runs that actually observed the board. Not implemented.

@@ -1,0 +1,7 @@
+ats:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('ATS_ROOT', '/home/pi/ATS_elt') }}/dbt/ats.duckdb"
+      threads: 4

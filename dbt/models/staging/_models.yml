@@ -1,0 +1,49 @@
+version: 2
+
+models:
+  - name: stg_run_log
+    description: One row per company per extraction run, from the JSONL run log.
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - run_id
+            - company_slug
+    columns:
+      - name: run_id
+        description: Identifies the extraction run; shared with the snapshot files.
+        tests:
+          - not_null
+      - name: company_slug
+        tests:
+          - not_null
+      - name: status
+        description: ok = jobs returned, ok_empty = board read but empty, failed = fetch/write raised.
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['ok', 'ok_empty', 'failed']
+      - name: run_started_at
+        tests:
+          - not_null
+
+  - name: stg_job_snapshots
+    description: One row per posting per company per extraction run.
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - run_id
+            - company_slug
+            - job_id
+    columns:
+      - name: run_id
+        tests:
+          - not_null
+      - name: company_slug
+        tests:
+          - not_null
+      - name: job_id
+        tests:
+          - not_null
+      - name: extracted_at
+        tests:
+          - not_null

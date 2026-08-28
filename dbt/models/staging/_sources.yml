@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: raw
+    description: >
+      Raw extractor output, read straight off disk by DuckDB. There is no
+      Python pre-load step: external_location points each table at a glob of
+      the files extractor.py writes.
+    schema: main
+    tables:
+      - name: snapshots
+        description: One JSON file per company per run; jobs live under data.jobs.
+        meta:
+          external_location: "read_json_auto('{{ env_var('ATS_ROOT', var('ats_root')) }}/extracted/*.json')"
+
+      - name: runs
+        description: >
+          One JSONL run log per run, one line per company, appended as each
+          company finishes. Completeness of a run is asserted separately in
+          runs/<run_id>.meta.json, which this glob deliberately excludes.
+        meta:
+          external_location: "read_json_auto('{{ env_var('ATS_ROOT', var('ats_root')) }}/runs/*.jsonl')"

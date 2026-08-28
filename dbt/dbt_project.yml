@@ -1,0 +1,32 @@
+name: 'ats'
+version: '1.0.0'
+config-version: 2
+
+profile: 'ats'
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+# Repo root for the raw files. Absolute, so a run behaves identically no
+# matter which directory dbt is invoked from. Values here are NOT jinja
+# rendered, so the env_var override is applied in models/staging/_sources.yml;
+# set ATS_ROOT to point dbt at another checkout.
+vars:
+  ats_root: "/home/pi/ATS_elt"
+
+models:
+  ats:
+    staging:
+      +materialized: table
+    # Stubs only -- disabled so they are not built until implemented.
+    intermediate:
+      +enabled: false
+    marts:
+      +enabled: false
