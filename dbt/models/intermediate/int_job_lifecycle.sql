@@ -8,6 +8,8 @@
 -- observed this company's board -- status 'ok' or 'ok_empty' (an empty board
 -- is a real observation; a 'failed' fetch is not).
 
+{{ config(materialized='table') }}
+
 WITH lifecycle AS (
 
     SELECT

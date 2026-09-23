@@ -1,4 +1,0 @@
--- fct_job_postings
---
--- Intended: one row per posting with its lifecycle and descriptive
--- attributes, for downstream consumption. Not implemented.
