@@ -24,6 +24,8 @@ with DAG(
                 task_id="gcp_upload",
                 bash_command="uv run dags/python/upload.py",
                 cwd="/home/pi/ATS_elt",
+                env={"GOOGLE_APPLICATION_CREDENTIALS": "/home/pi/.config/ats/sa-key.json"},
+                append_env=True,
                 retries=2,
                 retry_delay=pendulum.duration(minutes=10),
                 execution_timeout=pendulum.duration(minutes=30),
