@@ -2,9 +2,9 @@
 
 One run fetches every verified company in companies.json and writes two things:
 
-  extracted/dt=YYYY-MM-DD/<slug>__<run_id>.json.gz  one snapshot per company
-  runs/<run_id>.jsonl                               one log row per company
-  runs/<run_id>.meta.json                           the run's terminal record
+  data/extracted/dt=YYYY-MM-DD/<slug>__<run_id>.json.gz  one snapshot per company
+  data/runs/<run_id>.jsonl                               one log row per company
+  data/runs/<run_id>.meta.json                           the run's terminal record
 
 Snapshots and log rows share a run_id, which is what lets downstream models
 join "what the board looked like" to "how the fetch went".
@@ -26,9 +26,14 @@ from pathlib import Path
 import requests
 from tqdm.asyncio import tqdm_asyncio
 
-COMPANIES_JSON_PATH: Path = Path("./companies.json")
-EXTRACTED_DIR_PATH: Path = Path("./extracted/")
-RUNS_DIR_PATH: Path = Path("./runs/")
+# Resolved from this file's location (dags/python/), not the working
+# directory, so the extractor behaves the same wherever it is launched from.
+REPO_ROOT: Path = Path(__file__).resolve().parents[2]
+DATA_DIR_PATH: Path = REPO_ROOT / "data"
+
+COMPANIES_JSON_PATH: Path = REPO_ROOT / "companies.json"
+EXTRACTED_DIR_PATH: Path = DATA_DIR_PATH / "extracted"
+RUNS_DIR_PATH: Path = DATA_DIR_PATH / "runs"
 
 GREENHOUSE_BOARD_URL = "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"
 REQUEST_TIMEOUT_SECONDS = 10

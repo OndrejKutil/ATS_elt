@@ -15,12 +15,12 @@ sources:
           what lets the incremental models prune whole directories instead of
           opening every file.
         meta:
-          external_location: "read_json_auto('{{ env_var('ATS_ROOT', var('ats_root')) }}/extracted/dt=*/*.json.gz', hive_partitioning=true, union_by_name=true)"
+          external_location: "read_json_auto('{{ env_var('ATS_ROOT', var('ats_root')) }}/data/extracted/dt=*/*.json.gz', hive_partitioning=true, union_by_name=true)"
 
       - name: runs
         description: >
           One JSONL run log per run, one line per company, appended as each
           company finishes. Completeness of a run is asserted separately in
-          runs/<run_id>.meta.json, which this glob deliberately excludes.
+          data/runs/<run_id>.meta.json, which this glob deliberately excludes.
         meta:
-          external_location: "read_json_auto('{{ env_var('ATS_ROOT', var('ats_root')) }}/runs/*.jsonl')"
+          external_location: "read_json_auto('{{ env_var('ATS_ROOT', var('ats_root')) }}/data/runs/*.jsonl')"

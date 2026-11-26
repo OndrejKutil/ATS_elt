@@ -41,17 +41,20 @@ list: 160 candidate slugs, 60 confirmed live.
 
 ```
 ATS_elt/
-├── extractor.py                    fetch every verified board, write snapshots + run log
 ├── companies.json                  seed list: slug, verified flag
 ├── pyproject.toml
 │
-├── extracted/                      raw archive (gitignored)
-│   └── dt=YYYY-MM-DD/
-│       └── {slug}__{run_id}.json.gz
+├── dags/
+│   └── python/
+│       └── extractor.py            fetch every verified board, write snapshots + run log
 │
-├── runs/                           run log (gitignored)
-│   ├── {run_id}.jsonl              one line per company: status, job_count, error
-│   └── {run_id}.meta.json          terminal record: did the run finish, and how far
+├── data/                           extractor output (gitignored)
+│   ├── extracted/                  raw archive
+│   │   └── dt=YYYY-MM-DD/
+│   │       └── {slug}__{run_id}.json.gz
+│   └── runs/                       run log
+│       ├── {run_id}.jsonl          one line per company: status, job_count, error
+│       └── {run_id}.meta.json      terminal record: did the run finish, and how far
 │
 └── dbt/
     ├── dbt_project.yml
@@ -79,7 +82,7 @@ ATS_elt/
 ## Running it
 
 ```bash
-uv run extractor.py                       # fetch boards, write snapshots + run log
+uv run dags/python/extractor.py           # fetch boards, write snapshots + run log
 
 export DBT_PROFILES_DIR=/home/pi/ATS_elt/dbt
 cd dbt

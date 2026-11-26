@@ -1,0 +1,15 @@
+[Unit]
+Description=Airflow %i
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=pi
+Environment=AIRFLOW_HOME=/home/pi/airflow
+Environment=PATH=/home/pi/airflow-venv/bin:/home/pi/.local/bin:/usr/bin:/bin
+ExecStart=/home/pi/airflow-venv/bin/airflow %i
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
