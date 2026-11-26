@@ -28,7 +28,7 @@ WITH unnested AS (
     -- Filter on dt, not on extracted_at: dt is a Hive partition column, so
     -- DuckDB skips whole directories without opening the files inside them.
     -- An equivalent timestamp filter would still read every file to evaluate.
-    WHERE snap.dt > (SELECT max(dt) FROM {{ this }})
+    WHERE snap.dt >= (SELECT max(dt) FROM {{ this }})
     {% endif %}
 
 )
