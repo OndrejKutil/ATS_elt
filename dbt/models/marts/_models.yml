@@ -1,0 +1,19 @@
+models:
+  - name: marts_job_postings
+    description: "This model contains job postings data."
+    columns:
+      - name: job_id
+        description: "Unique identifier for the job posting."
+      - name: title
+        description: "Title of the job posting."
+      - name: company
+        description: "Company offering the job."
+      - name: location
+        description: "Location of the job posting."
+      - name: posted_date
+        description: "Date when the job was posted."
+      - name: salary_range
+        description: "Salary range for the job posting."
+    data_tests:
+      - unique:
+          column_name: job_id
