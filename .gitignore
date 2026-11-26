@@ -16,3 +16,8 @@ data/
 dbt/target/
 dbt/dbt_packages/
 dbt/logs/
+
+infra/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
