@@ -20,6 +20,7 @@ import json
 import os
 import threading
 import uuid
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -291,4 +292,7 @@ class Extractor:
 
 
 if __name__ == "__main__":
-    asyncio.run(Extractor().run())
+    results = asyncio.run(Extractor().run())
+    failed = sum(isinstance(r, Exception) for r in results)
+    if failed > len(results) / 2:
+        sys.exit(1)

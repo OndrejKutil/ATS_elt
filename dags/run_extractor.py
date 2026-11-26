@@ -12,10 +12,19 @@ with DAG(
 ) as dag:
 
     first = BashOperator(
-    task_id="run_extractor",
-    bash_command="uv run dags/python/extractor.py",
-    cwd="/home/pi/ATS_elt",
-	)
-    second = BashOperator(task_id="dbt_build", bash_command="uv run dbt build", cwd="/home/pi/ATS_elt/dbt/")
+                task_id="run_extractor",
+                bash_command="uv run dags/python/extractor.py",
+                cwd="/home/pi/ATS_elt",
+                retries=2,
+                retry_delay=pendulum.duration(minutes=10),
+                execution_timeout=pendulum.duration(minutes=30),
+                )
+    
+    second = BashOperator(
+                task_id="dbt_build", 
+                bash_command="uv run dbt build", 
+                cwd="/home/pi/ATS_elt/dbt/",
+                execution_timeout=pendulum.duration(minutes=30),
+                )
 
     first >> second
