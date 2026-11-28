@@ -34,22 +34,23 @@ obligation. Anything that doesn't serve that question is out of scope.
 | dbt on DuckDB: staging + intermediate   | done           |
 | Airflow on the Pi, daily at 07:00       | done           |
 | GCP infra via Terraform                 | done           |
-| Raw snapshots landing in GCS            | in progress    |
+| Raw snapshots synced to GCS             | done           |
 | dbt on BigQuery                         | in progress    |
 | Mart (`marts_job_postings`)             | done           |
 
-Right now the whole pipeline runs locally on a Raspberry Pi: Airflow triggers the
-extractor, which writes to local disk, then `dbt build` runs against a DuckDB file.
+The pipeline runs on a Raspberry Pi: Airflow triggers the extractor, which writes to
+local disk. After that, two tasks run in parallel: `upload.py` syncs the raw files to GCS,
+and `dbt build` runs against a local DuckDB file.
 
-The next step is moving storage and the warehouse to GCP. Terraform already provisions:
+GCP is the next home for the warehouse. Terraform provisions:
 
 - a GCS bucket (`{project_id}-raw`) for the raw snapshot archive
 - a BigQuery dataset (`ats`)
 - an `ats-pipeline` service account for the Pi, with write access to the bucket, the
   dataset, and permission to run BigQuery jobs
 
-What's still left is pointing the extractor at the bucket and adding a BigQuery target
-to dbt, with the sources reading from GCS instead of local files.
+What's still left is adding a BigQuery target to dbt, with the sources reading from
+GCS instead of local files.
 
 ---
 
@@ -74,9 +75,10 @@ ATS_elt/
 ├── pyproject.toml
 │
 ├── dags/
-│   ├── run_extractor.py            Airflow DAG: extractor >> dbt build, daily 07:00 Prague
+│   ├── run_extractor.py            Airflow DAG: extractor >> [GCS upload, dbt build], daily 07:00
 │   └── python/
-│       └── extractor.py            fetch every verified board, write snapshots + run log
+│       ├── extractor.py            fetch every verified board, write snapshots + run log
+│       └── upload.py               sync data/ to GCS, skipping files already there (MD5 match)
 │
 ├── deploy/
 │   └── airflow@.service            systemd unit for Airflow (scheduler, api-server, ...)
@@ -131,8 +133,9 @@ uv run dbt deps
 uv run dbt build
 ```
 
-On the Pi, Airflow runs the same two steps as the `run_ext_and_dbt_build` DAG every day
-at 07:00 (Europe/Prague). Airflow components run as systemd services from
+On the Pi, Airflow runs these steps, plus the GCS upload, as the `run_ext_and_dbt_build`
+DAG every day at 07:00 (Europe/Prague). The upload authenticates with the `ats-pipeline`
+service account key via `GOOGLE_APPLICATION_CREDENTIALS`. Airflow components run as systemd services from
 `deploy/airflow@.service`, e.g. `systemctl enable --now airflow@scheduler`.
 
 Reading the warehouse (`-readonly` avoids fighting dbt for the write lock):
